@@ -1,0 +1,1551 @@
+net_supranet	4150	Madison	Madison_WI_US	8.8.8.8	3356
+net_supranet	4150	Chicago	Chicago_IL_US	8.8.8.8	3356
+net_supranet	4150	Minneapolis	Minneapolis_MN_US	8.8.8.8	3356
+net_semaphore	3742	cr1.sea1.semaphore.net	Seattle_WA_US	8.8.8.8	3356
+edu_stanford	3671	none	Stanford_CA_US	8.8.8.8	3356
+net_global	3549	119611	Amsterdam_NETHERLANDS_AMS2	8.8.8.8	3356
+net_global	3549	119637	Chai_Wan_CHINA_CLK1	8.8.8.8	3356
+net_global	3549	145522	Chuo-ku_Tokyo_JAPAN_TYO1	8.8.8.8	3356
+net_global	3549	145366	Singapore_SINGAPORE_QPG1	8.8.8.8	3356
+net_global	3549	146702	Ultimo_AUSTRALIA_RSE1	8.8.8.8	3356
+net_global	3549	149996	Hamburg_GERMANY_HAM1	8.8.8.8	3356
+net_global	3549	118042	Antwerp_BELGIUM_NDL1.ANT	8.8.8.8	3356
+net_global	3549	149904	Basingstoke_Hampshire_UNITED_KINGDOM_BBS1	8.8.8.8	3356
+net_global	3549	150196	Berlin_GERMANY_KIT1.BER	8.8.8.8	3356
+net_global	3549	119627	Clichy_FRANCE_CDG2	8.8.8.8	3356
+net_global	3549	147205	Dublin_IRELAND_DUB1	8.8.8.8	3356
+net_global	3549	137782	Frankfurt_GERMANY_FRA4	8.8.8.8	3356
+net_global	3549	149982	Glostrup_DENMARK_CPH1	8.8.8.8	3356
+net_global	3549	154931	Helsinki_FINLAND_HEL1	8.8.8.8	3356
+net_global	3549	149302	Leeds_UNITED_KINGDOM_LBA1	8.8.8.8	3356
+net_global	3549	149262	Leigh_UNITED_KINGDOM_MAN1	8.8.8.8	3356
+net_global	3549	152202	London_UNITED_KINGDOM_LON2	8.8.8.8	3356
+net_global	3549	131962	London_UNITED_KINGDOM_LON3	8.8.8.8	3356
+net_global	3549	154771	Luxembourg_LUXEMBOURG_BCE1.LUX	8.8.8.8	3356
+net_global	3549	137731	Madrid_SPAIN_MAD1	8.8.8.8	3356
+net_global	3549	186781	Milano_ITALY_LIN1	8.8.8.8	3356
+net_global	3549	149362	Munich_GERMANY_MUN1	8.8.8.8	3356
+net_global	3549	149276	Nottingham_UNITED_KINGDOM_NQT1	8.8.8.8	3356
+net_global	3549	104830	Oslo_NORWAY_OSL2	8.8.8.8	3356
+net_global	3549	152142	Paris_FRANCE_CDG3	8.8.8.8	3356
+net_global	3549	154731	Rotterdam_NETHERLANDS_VDG1.RTM	8.8.8.8	3356
+net_global	3549	154360	Slough_UNITED_KINGDOM_LHR1	8.8.8.8	3356
+net_global	3549	153980	Solihull_UNITED_KINGDOM_BHX1	8.8.8.8	3356
+net_global	3549	145146	Stockholm_SWEDEN_ARN3	8.8.8.8	3356
+net_global	3549	150227	Stuttgart_GERMANY_VDL1.STR	8.8.8.8	3356
+net_global	3549	154487	Vienna_AUSTRIA_VIE1	8.8.8.8	3356
+net_global	3549	407018	Bogota_COLUMBIA_CXV1.BOG	8.8.8.8	3356
+net_global	3549	153102	Buenos_Aires_ARGENTINA_EZE1	8.8.8.8	3356
+net_global	3549	153584	Panama_City_PANAMA_PTY1	8.8.8.8	3356
+net_global	3549	407165	Quito_ECUADOR_TUI1.UIO	8.8.8.8	3356
+net_global	3549	153622	Santiago_CHILE_SCL1	8.8.8.8	3356
+net_global	3549	154024	Sao_Cristavao_Rio_de_Janeiro_BRAZIL_GIG1	8.8.8.8	3356
+net_global	3549	153562	Sao_Paulo_BRAZIL_GRU1	8.8.8.8	3356
+net_global	3549	144523	Anaheim_UNITED_STATES_SNA1	8.8.8.8	3356
+net_global	3549	153887	Ashburn_UNITED_STATES_DCA3	8.8.8.8	3356
+net_global	3549	119621	Atlanta_UNITED_STATES_ATL1	8.8.8.8	3356
+net_global	3549	154394	Baltimore_UNITED_STATES_BWI1.BWI	8.8.8.8	3356
+net_global	3549	145705	Boston_UNITED_STATES_BOS1	8.8.8.8	3356
+net_global	3549	151242	Charlotte_UNITED_STATES_CLT1.CLT	8.8.8.8	3356
+net_global	3549	118462	Chicago_UNITED_STATES_CHI1	8.8.8.8	3356
+net_global	3549	137902	Cleveland_UNITED_STATES_CLE1	8.8.8.8	3356
+net_global	3549	118468	Dallas_UNITED_STATES_DAL1	8.8.8.8	3356
+net_global	3549	137719	Denver_UNITED_STATES_DEN2	8.8.8.8	3356
+net_global	3549	146667	Houston_UNITED_STATES_HOU1	8.8.8.8	3356
+net_global	3549	137725	Indianapolis_UNITED_STATES_IND1	8.8.8.8	3356
+net_global	3549	145422	Kansas_City_UNITED_STATES_KCY1	8.8.8.8	3356
+net_global	3549	118724	Los_Angeles_UNITED_STATES_LAX1	8.8.8.8	3356
+net_global	3549	131943	Miami_UNITED_STATES_MIA1	8.8.8.8	3356
+net_global	3549	104714	Miami_UNITED_STATES_MIA2	8.8.8.8	3356
+net_global	3549	151255	Milwaukee_UNITED_STATES_MKE1.MKE	8.8.8.8	3356
+net_global	3549	144422	Minneapolis_UNITED_STATES_MIN1	8.8.8.8	3356
+net_global	3549	119403	New_York_UNITED_STATES_JFK1	8.8.8.8	3356
+net_global	3549	154059	Palo_Alto_UNITED_STATES_PAO2	8.8.8.8	3356
+net_global	3549	119643	Philadelphia_UNITED_STATES_PHI1	8.8.8.8	3356
+net_global	3549	119409	Phoenix_UNITED_STATES_PHX1	8.8.8.8	3356
+net_global	3549	163364	Pittsburgh_UNITED_STATES_PIT2.PIT	8.8.8.8	3356
+net_global	3549	150042	Rochester_UNITED_STATES_ROC1	8.8.8.8	3356
+net_global	3549	137803	Sacramento_UNITED_STATES_SAC1	8.8.8.8	3356
+net_global	3549	149962	Saint_Louis_UNITED_STATES_STL1.STL	8.8.8.8	3356
+net_global	3549	151269	Salt_Lake_City_UNITED_STATES_SLC1.SLC	8.8.8.8	3356
+net_global	3549	149316	San_Diego_UNITED_STATES_SAN1	8.8.8.8	3356
+net_global	3549	154077	San_Jose_UNITED_STATES_SJC2	8.8.8.8	3356
+net_global	3549	192297	Seattle_UNITED_STATES_SEA1	8.8.8.8	3356
+net_global	3549	147487	Southfield_UNITED_STATES_DET1	8.8.8.8	3356
+net_global	3549	119649	Sunnyvale_UNITED_STATES_SNV2	8.8.8.8	3356
+net_global	3549	146167	Tampa_UNITED_STATES_TPA1	8.8.8.8	3356
+net_global	3549	144482	Toronto_CANADA_YYZ1	8.8.8.8	3356
+net_global	3549	135272	Washington_UNITED_STATES_WDC2	8.8.8.8	3356
+ru_rusnet	3277	none	Saint_Petersburg_RU	8.8.8.8	3356
+ie_magnet	3257	d-clon-border1	Dublin_IE	8.8.8.8	3356
+ie_magnet	3257	TISCALI (AS 3257)	Frankfurt_DE	8.8.8.8	3356
+ie_magnet	3257	Global Crossing	Phoenix_AZ_US	8.8.8.8	3356
+ie_magnet	3257	Oregon Exchange	Eugene_OR_US	8.8.8.8	3356
+net_uar	3255	core321	Lviv_UKR	8.8.8.8	3356
+net_uar	3255	core320	Solonka_UKR	8.8.8.8	3356
+net_gldn	3216	pe01.Spb.gldn.net	Moscow_RU_01	8.8.8.8	3356
+net_gldn	3216	cat08.Moscow.gldn.net(M9)	Moscow_RU_02	8.8.8.8	3356
+net_gldn	3216	cat05.Moscow.gldn.net(DR25)	Moscow_RU_03	8.8.8.8	3356
+net_gldn	3216	hq-rr	Moscow_RU_04	8.8.8.8	3356
+net_gldn	3216	msu-rr	Moscow_RU_05	8.8.8.8	3356
+net_gldn	3216	bmor18-bb	Moscow_RU_06	8.8.8.8	3356
+net_gldn	3216	line21-bb.spb	Moscow_RU_07	8.8.8.8	3356
+net_gldn	3216	b71-bb.spb	Moscow_RU_08	8.8.8.8	3356
+net_gldn	3216	ucheb5-bb.spb	Moscow_RU_09	8.8.8.8	3356
+net_gldn	3216	bkun28-bb.spb	Moscow_RU_10	8.8.8.8	3356
+net_gldn	3216	perv75-bb.ast	Volgograd_RU	8.8.8.8	3356
+net_gldn	3216	pioner7-bb.brn	Moscow_RU_11	8.8.8.8	3356
+net_gldn	3216	ang17-bb.vlg	Velikiy_Novgorod_RU	8.8.8.8	3356
+net_gldn	3216	stank1-bb.ivn	Moscow_RU_12	8.8.8.8	3356
+net_gldn	3216	mosk-bb.klg	Moscow_RU_13	8.8.8.8	3356
+net_gldn	3216	chrn14a-bb.kur	Vladimir_RU	8.8.8.8	3356
+net_gldn	3216	ordzh14-bb.perm	Moscow_RU_14	8.8.8.8	3356
+net_gldn	3216	len244-bb.stv	Moscow_RU_15	8.8.8.8	3356
+net_gldn	3216	chk28-bb.tver	Moscow_RU_16	8.8.8.8	3356
+net_gldn	3216	len57a-bb.tul	Moscow_RU_17	8.8.8.8	3356
+net_gldn	3216	ltolst54-bb.ul	Moscow_RU_18	8.8.8.8	3356
+net_gldn	3216	mosk53-bb.yar	Moscow_RU_19	8.8.8.8	3356
+ru_gin	2854	Moscow09	Moscow_RU_1	8.8.8.8	3356
+ru_gin	2854	Petersburg-GIN-PE01	Moscow_RU_2	8.8.8.8	3356
+ru_gin	2854	Moscow51	Moscow_RU_3	8.8.8.8	3356
+ru_gin	2854	Moscow-GIN-PE01	Moscow_RU_4	8.8.8.8	3356
+com_xo	2828	Charlotte-NC	Charlotte-NC	8.8.8.8	3356
+com_xo	2828	Newark-NJ	Newark-NJ	8.8.8.8	3356
+com_xo	2828	SaltLake2-UT	SaltLake2-UT	8.8.8.8	3356
+com_xo	2828	SantaAna-CA	SantaAna-CA	8.8.8.8	3356
+com_xo	2828	Toronto-ON.CA	Toronto-ON.CA	8.8.8.8	3356
+com_xo	2828	Amsterdam-NH.NL	Amsterdam-NH.NL	8.8.8.8	3356
+com_xo	2828	Austin-TX	Austin-TX	8.8.8.8	3356
+com_xo	2828	Beaverton-OR	Beaverton-OR	8.8.8.8	3356
+com_xo	2828	Boston-MA	Boston-MA	8.8.8.8	3356
+com_xo	2828	Buffalo-NY	Buffalo-NY	8.8.8.8	3356
+com_xo	2828	Chicago-IL	Chicago-IL	8.8.8.8	3356
+com_xo	2828	Cleveland-OH	Cleveland-OH	8.8.8.8	3356
+com_xo	2828	Columbus-OH	Columbus-OH	8.8.8.8	3356
+com_xo	2828	Dallas-TX	Dallas-TX	8.8.8.8	3356
+com_xo	2828	Englewood-CO	Englewood-CO	8.8.8.8	3356
+com_xo	2828	Frankfurt2-HE.DE	Frankfurt2-HE.DE	8.8.8.8	3356
+com_xo	2828	Fremont-CA	Fremont-CA	8.8.8.8	3356
+com_xo	2828	Henderson-NV	Henderson-NV	8.8.8.8	3356
+com_xo	2828	HongKong-CN	HongKong-CN	8.8.8.8	3356
+com_xo	2828	Houston-TX	Houston-TX	8.8.8.8	3356
+com_xo	2828	LA-CA	LA-CA	8.8.8.8	3356
+com_xo	2828	London-EN.UK	London-EN.UK	8.8.8.8	3356
+com_xo	2828	MarylandHeights-MO	MarylandHeights-MO	8.8.8.8	3356
+com_xo	2828	Memphis-TN	Memphis-TN	8.8.8.8	3356
+com_xo	2828	Miami-FL	Miami-FL	8.8.8.8	3356
+com_xo	2828	Minneapolis-MN	Minneapolis-MN	8.8.8.8	3356
+com_xo	2828	NYC-NY	NYC-NY	8.8.8.8	3356
+com_xo	2828	Nashville-TN	Nashville-TN	8.8.8.8	3356
+com_xo	2828	Philadelphia-PA	Philadelphia-PA	8.8.8.8	3356
+com_xo	2828	Phoenix-AZ	Phoenix-AZ	8.8.8.8	3356
+com_xo	2828	Roseville-CA	Roseville-CA	8.8.8.8	3356
+com_xo	2828	SanDiego-CA	SanDiego-CA	8.8.8.8	3356
+com_xo	2828	Seattle-WA	Seattle-WA	8.8.8.8	3356
+com_xo	2828	Smyrna-GA	Smyrna-GA	8.8.8.8	3356
+com_xo	2828	Southfield-MI	Southfield-MI	8.8.8.8	3356
+com_xo	2828	Spokane-WA	Spokane-WA	8.8.8.8	3356
+com_xo	2828	Tampa-FL	Tampa-FL	8.8.8.8	3356
+com_xo	2828	Washington-DC	Washington-DC	8.8.8.8	3356
+com_connect	2764	Sydney	Sydney_AU	8.8.8.8	3356
+com_connect	2764	Melbourne	Melbourne_AU	8.8.8.8	3356
+com_connect	2764	Perth	Perth_AU	8.8.8.8	3356
+sk_six	2607	none	Bratislava_SVK	8.8.8.8	3356
+hu_hbone	1955	rtr2	Budapest_HU	8.8.8.8	3356
+pt_fccn	1930	BACKBONE_ROUTER	Lisbon_PT	8.8.8.8	3356
+br_rnp	1916	Rio de Janeiro, RJ	Rio_de_Janeiro_BR	8.8.8.8	3356
+br_rnp	1916	Sao Paulo, SP	Sao_Paulo_BR	8.8.8.8	3356
+br_rnp	1916	Brasilia, DF	Brasilia_DF_BR	8.8.8.8	3356
+br_rnp	1916	Minas Gerais, MG	Minas_Gerais_BR	8.8.8.8	3356
+ch_green	1836	amskl3000.nl.as1836.net	Amsterdam_NL	8.8.8.8	3356
+ch_green	1836	gtbcs3000.ch.as1836.net	Zurich_CH_1	8.8.8.8	3356
+ch_green	1836	gtbcs3001.ch.as1836.net	Zurich_CH_2	8.8.8.8	3356
+ch_green	1836	lupin3001.ch.as1836.net	Zurich_CH_3	8.8.8.8	3356
+ch_green	1836	zrhlg3002.ch.as1836.net	Zurich_CH_4	8.8.8.8	3356
+se_sunet	1653	m1fre.sunet.se	Stockholm_SE_1	8.8.8.8	3356
+se_sunet	1653	m1tug.sunet.se	Stockholm_SE_2	8.8.8.8	3356
+se_sunet	1653	x3tug.sunet.se	Alvesta_SE_1	8.8.8.8	3356
+se_sunet	1653	z3lla.sunet.se	Stockholm_SE_3	8.8.8.8	3356
+se_sunet	1653	z5krn.sunet.se	Alvesta_SE_2	8.8.8.8	3356
+se_sunet	1653	z6krn.sunet.se	Alvesta_SE_3	8.8.8.8	3356
+se_sunet	1653	z1klx.sunet.se	Alvesta_SE_4	8.8.8.8	3356
+se_sunet	1653	z1vby.sunet.se	Alvesta_SE_5	8.8.8.8	3356
+se_sunet	1653	z2vby.sunet.se	Alvesta_SE_6	8.8.8.8	3356
+se_sunet	1653	z1mma.sunet.se	Alvesta_SE_7	8.8.8.8	3356
+se_sunet	1653	z1sde.sunet.se	Alvesta_SE_8	8.8.8.8	3356
+se_sunet	1653	m1gbg.sunet.se	Alvesta_SE_9	8.8.8.8	3356
+net_telstra	1221	none	Melbourne_AU	8.8.8.8	3356
+ie_heanet	1213	Blanchardstown - blanch-sr1.services.hea.net	Dublin_IE	8.8.8.8	3356
+net_noris	852	noris network AG	Nuremburg_DE_01	8.8.8.8	3356
+net_noris	852	AT&T	Nuremburg_DE_02	8.8.8.8	3356
+net_noris	852	Global Crossing	Nuremburg_DE_03	8.8.8.8	3356
+net_noris	852	Oregon Exchange	Nuremburg_DE_04	8.8.8.8	3356
+net_noris	852	Energis	Nuremburg_DE_05	8.8.8.8	3356
+net_noris	852	Colt	Nuremburg_DE_06	8.8.8.8	3356
+net_noris	852	Exodus Communications	Nuremburg_DE_07	8.8.8.8	3356
+net_noris	852	TISCALI (AS 3257)	Nuremburg_DE_08	8.8.8.8	3356
+net_noris	852	TELUS Ontario (AS 852)	Nuremburg_DE_09	8.8.8.8	3356
+net_noris	852	Group Telecom	Nuremburg_DE_10	8.8.8.8	3356
+net_noris	852	Global Crossing (AS 3549)	Nuremburg_DE_11	8.8.8.8	3356
+net_noris	852	GT Group Telecom (AS 6539)	Nuremburg_DE_12	8.8.8.8	3356
+net_iprimus	852	Sydney #1	Sydney_AU	8.8.8.8	3356
+net_iprimus	852	Sydney #2	Sydney_AU	8.8.8.8	3356
+net_iprimus	852	Melbourne #1	Melbourne_AU	8.8.8.8	3356
+net_iprimus	852	AT&T	Bridgeton_MO_US	8.8.8.8	3356
+net_iprimus	852	Global Crossing	Phoenix_AZ_US	8.8.8.8	3356
+net_iprimus	852	Oregon Exchange	Eugene_OR_US	8.8.8.8	3356
+net_iprimus	852	TISCALI (AS 3257)	Frankfurt_DE	8.8.8.8	3356
+net_iprimus	852	TELUS Ontario (AS 852)	Rimouski_Quebec_CA	8.8.8.8	3356
+net_iprimus	852	Global Crossing (AS 3549)	Phoenix_AZ_US	8.8.8.8	3356
+ch_solnet	852	SolNet #1 (AS 9044)	Solothurn_CH	8.8.8.8	3356
+ch_solnet	852	TISCALI (AS 3257)	Frankfurt_DE	8.8.8.8	3356
+ch_solnet	852	Global Crossing (AS 3549)	Phoenix_AZ_US	8.8.8.8	3356
+co_simbanet	852	Border Dar1	Dar_es_Salaam_TA_1	8.8.8.8	3356
+co_simbanet	852	Core TAZ P1	Dar_es_Salaam_TA_2	8.8.8.8	3356
+co_simbanet	852	Bukoba PE	Dar_es_Salaam_TA_3	8.8.8.8	3356
+co_simbanet	852	Global Crossing	Phoenix_AZ_US_1	8.8.8.8	3356
+co_simbanet	852	Oregon Exchange	Eugene_OR_US	8.8.8.8	3356
+co_simbanet	852	TISCALI (AS 3257)	Frankfurt_DE	8.8.8.8	3356
+co_simbanet	852	TELUS Ontario (AS 852)	Rimouski_Quebec_CA	8.8.8.8	3356
+co_simbanet	852	Global Crossing (AS 3549)	Phoenix_AZ_US_2	8.8.8.8	3356
+net_ja	786	erdiss-sbr1.ja.net/Juniper	London_UK_01	8.8.8.8	3356
+net_ja	786	bradss-sbr1.ja.net/Juniper	London_UK_02	8.8.8.8	3356
+net_ja	786	glasss-sbr1.ja.net/Juniper	London_UK_03	8.8.8.8	3356
+net_ja	786	leedaq-sbr1.ja.net/Juniper	London_UK_04	8.8.8.8	3356
+net_ja	786	lowdss-sbr1.ja.net/Juniper	London_UK_05	8.8.8.8	3356
+net_ja	786	londpg-sbr1.ja.net/Juniper	London_UK_06	8.8.8.8	3356
+net_ja	786	londtw-sbr1.ja.net/Juniper	London_UK_07	8.8.8.8	3356
+net_ja	786	londhx-sbr1.ja.net/Juniper	London_UK_08	8.8.8.8	3356
+net_ja	786	londtn-sbr1.ja.net/Juniper	London_UK_09	8.8.8.8	3356
+net_ja	786	manckh-sbr1.ja.net/Juniper	London_UK_10	8.8.8.8	3356
+net_ja	786	camb-rbr2.ja.net/Juniper	London_UK_11	8.8.8.8	3356
+net_ja	786	chel-rbr2.ja.net/Cisco	London_UK_12	8.8.8.8	3356
+net_ja	786	ipsw-rbr2.ja.net/Juniper	London_UK_13	8.8.8.8	3356
+net_ja	786	lond-rbr1.ja.net/Juniper	London_UK_14	8.8.8.8	3356
+net_ja	786	milt-rbr1.ja.net/Juniper	London_UK_15	8.8.8.8	3356
+net_ja	786	norw-rbr2.ja.net/Juniper	London_UK_16	8.8.8.8	3356
+net_ja	786	pete-rbr1.ja.net/Juniper	London_UK_17	8.8.8.8	3356
+net_ja	786	yarm-rbr1.ja.net/Cisco	London_UK_18	8.8.8.8	3356
+net_ja	786	aber-ban1.ja.net/Juniper	London_UK_19	8.8.8.8	3356
+net_ja	786	aber-ban2.ja.net/Juniper	London_UK_20	8.8.8.8	3356
+net_ja	786	dund-ban1.ja.net/Juniper	London_UK_21	8.8.8.8	3356
+net_ja	786	dund-ban3.ja.net/Juniper	London_UK_22	8.8.8.8	3356
+net_ja	786	kirk-ban1.ja.net/Cisco	London_UK_23	8.8.8.8	3356
+net_ja	786	londic-rbr2.ja.net/Juniper	London_UK_24	8.8.8.8	3356
+net_ja	786	londsh-rbr2.ja.net/Juniper	London_UK_25	8.8.8.8	3356
+net_ja	786	darltu-rbr1.ja.net/Juniper	Newcastle_Upon_Tyne_UK_1	8.8.8.8	3356
+net_ja	786	durhud-rbr1.ja.net/Juniper	Newcastle_Upon_Tyne_UK_2	8.8.8.8	3356
+net_ja	786	durhud-rbr2.ja.net/Juniper	Newcastle_Upon_Tyne_UK_3	8.8.8.8	3356
+net_ja	786	newccl-rbr1.ja.net/Juniper	Newcastle_Upon_Tyne_UK_4	8.8.8.8	3356
+net_ja	786	newcct-rbr1.ja.net/Juniper	London_UK_26	8.8.8.8	3356
+net_ja	786	middtu-rbr1.ja.net/Juniper	Newcastle_Upon_Tyne_UK_5	8.8.8.8	3356
+net_ja	786	middtu-rbr2.ja.net/Juniper	Newcastle_Upon_Tyne_UK_6	8.8.8.8	3356
+net_ja	786	stocud-rbr1.ja.net/Juniper	Newcastle_Upon_Tyne_UK_7	8.8.8.8	3356
+net_ja	786	sundus-rbr1.ja.net/Juniper	Newcastle_Upon_Tyne_UK_8	8.8.8.8	3356
+net_ja	786	sundus-rbr2.ja.net/Juniper	Newcastle_Upon_Tyne_UK_9	8.8.8.8	3356
+net_ja	786	belfnl-rbr2.ja.net/Juniper	London_UK_27	8.8.8.8	3356
+net_ja	786	belfab-rbr2.ja.net/Juniper	London_UK_28	8.8.8.8	3356
+net_ja	786	aldess-rbr1.ja.net/Juniper	London_UK_29	8.8.8.8	3356
+net_ja	786	bourss-rbr1.ja.net/Juniper	London_UK_30	8.8.8.8	3356
+net_ja	786	hovess-rbr1.ja.net/Juniper	London_UK_31	8.8.8.8	3356
+net_ja	786	stonss-rbr1.ja.net/Juniper	London_UK_32	8.8.8.8	3356
+net_ja	786	wymess-rbr1.ja.net/Juniper	London_UK_33	8.8.8.8	3356
+net_ja	786	bathbc-rbr1.ja.net/Juniper	London_UK_34	8.8.8.8	3356
+net_ja	786	bathub-rbr1.ja.net/Juniper	London_UK_35	8.8.8.8	3356
+net_ja	786	brisub-rbr1.ja.net/Juniper	London_UK_36	8.8.8.8	3356
+net_ja	786	briswe-rbr1.ja.net/Juniper	London_UK_37	8.8.8.8	3356
+net_ja	786	chelgc-rbr1.ja.net/Juniper	London_UK_38	8.8.8.8	3356
+net_ja	786	chelug-rbr1.ja.net/Juniper	London_UK_39	8.8.8.8	3356
+net_ja	786	exetec-rbr1.ja.net/Juniper	London_UK_40	8.8.8.8	3356
+net_ja	786	exetue-rbr1.ja.net/Juniper	London_UK_41	8.8.8.8	3356
+net_ja	786	plympc-rbr1.ja.net/Juniper	London_UK_42	8.8.8.8	3356
+net_ja	786	plymup-rbr1.ja.net/Juniper	London_UK_43	8.8.8.8	3356
+net_ja	786	taunsc-rbr1.ja.net/Cisco	London_UK_44	8.8.8.8	3356
+net_ja	786	harw-ssr2.ja.net/Cisco	Valley_UK_1	8.8.8.8	3356
+net_ja	786	harwat-rbr1.ja.net/Juniper	Valley_UK_2	8.8.8.8	3356
+net_ja	786	oxfo-rbr2.ja.net/Juniper	Valley_UK_3	8.8.8.8	3356
+net_ja	786	oxfoii-rbr1.ja.net/Juniper	Valley_UK_4	8.8.8.8	3356
+net_ja	786	oxforq-rbr1.ja.net/Juniper	Valley_UK_5	8.8.8.8	3356
+net_ja	786	read-rbr2.ja.net/Juniper	Valley_UK_6	8.8.8.8	3356
+net_ja	786	readdy-rbr1.ja.net/Juniper	London_UK_45	8.8.8.8	3356
+net_ja	786	readss-rbr1.ja.net/Juniper	Valley_UK_7	8.8.8.8	3356
+net_ja	786	swin-rbr1.ja.net/Juniper	Valley_UK_8	8.8.8.8	3356
+net_ja	786	birm-rbr1.ja.net/Cisco	London_UK_46	8.8.8.8	3356
+net_ja	786	birmub-rbr1.ja.net/Juniper	London_UK_47	8.8.8.8	3356
+net_ja	786	brom-rbr2.ja.net/Juniper	London_UK_48	8.8.8.8	3356
+net_ja	786	cove-rbr1.ja.net/Cisco	London_UK_49	8.8.8.8	3356
+net_ja	786	herehc-rbr1.ja.net/Juniper	London_UK_50	8.8.8.8	3356
+net_ja	786	kiddkc-rbr1.ja.net/Juniper	London_UK_51	8.8.8.8	3356
+net_ja	786	ludllc-rbr1.ja.net/Juniper	London_UK_52	8.8.8.8	3356
+net_ja	786	malvsw-rbr1.ja.net/Juniper	London_UK_53	8.8.8.8	3356
+net_ja	786	shresc-rbr1.ja.net/Juniper	London_UK_54	8.8.8.8	3356
+net_ja	786	smal-rbr1.ja.net/Cisco	London_UK_55	8.8.8.8	3356
+net_ja	786	stafsc-rbr1.ja.net/Juniper	London_UK_56	8.8.8.8	3356
+net_ja	786	telfvm-rbr1.ja.net/Juniper	London_UK_57	8.8.8.8	3356
+net_ja	786	warw-rbr1.ja.net/Cisco	London_UK_58	8.8.8.8	3356
+net_ja	786	warwuw-rbr1.ja.net/Juniper	London_UK_59	8.8.8.8	3356
+net_ja	786	wolv-rbr1.ja.net/Cisco	London_UK_60	8.8.8.8	3356
+net_ja	786	worc-rbr2.ja.net/Juniper	London_UK_61	8.8.8.8	3356
+net_ja	786	bradcb-rbr1.ja.net/Juniper	London_UK_62	8.8.8.8	3356
+net_ja	786	bradjb-rbr1.ja.net/Juniper	London_UK_63	8.8.8.8	3356
+net_ja	786	huddbs-rbr1.ja.net/Juniper	London_UK_64	8.8.8.8	3356
+net_ja	786	huddcs-rbr1.ja.net/Juniper	London_UK_65	8.8.8.8	3356
+net_ja	786	hullcc-rbr1.ja.net/Juniper	London_UK_66	8.8.8.8	3356
+net_ja	786	hullfb-rbr1.ja.net/Juniper	London_UK_67	8.8.8.8	3356
+net_ja	786	leedaq-rbr1.ja.net/Juniper	London_UK_68	8.8.8.8	3356
+net_ja	786	leedlm-rbr1.ja.net/Juniper	London_UK_69	8.8.8.8	3356
+net_ja	786	leedlu-rbr1.ja.net/Juniper	London_UK_70	8.8.8.8	3356
+net_ja	786	shefbs-rbr1.ja.net/Juniper	London_UK_71	8.8.8.8	3356
+net_ja	786	shefcb-rbr1.ja.net/Juniper	London_UK_72	8.8.8.8	3356
+net_ja	786	shefhb-rbr1.ja.net/Juniper	London_UK_73	8.8.8.8	3356
+net_ja	786	yorkbs-rbr1.ja.net/Juniper	London_UK_74	8.8.8.8	3356
+net_ja	786	yorktd-rbr1.ja.net/Juniper	London_UK_75	8.8.8.8	3356
+net_ja	786	bradss-ban1.ja.net/Juniper	London_UK_76	8.8.8.8	3356
+net_ja	786	edin-ban1.ja.net/Cisco	London_UK_77	8.8.8.8	3356
+net_ja	786	glas-ban1.ja.net/Cisco	London_UK_78	8.8.8.8	3356
+net_ja	786	glasss-ban1.ja.net/Juniper	London_UK_79	8.8.8.8	3356
+net_ja	786	inve-ban1.ja.net/Cisco	London_UK_80	8.8.8.8	3356
+net_ja	786	leed-ban3.ja.net/Cisco	London_UK_81	8.8.8.8	3356
+net_ja	786	lond-ban5.ja.net/Cisco	London_UK_82	8.8.8.8	3356
+net_ja	786	lond-ban6.ja.net/Cisco	London_UK_83	8.8.8.8	3356
+net_ja	786	londhx-ban1.ja.net/Juniper	London_UK_84	8.8.8.8	3356
+net_ja	786	londpg-ban1.ja.net/Juniper	London_UK_85	8.8.8.8	3356
+net_ja	786	londtn-ban1.ja.net/Juniper	London_UK_86	8.8.8.8	3356
+net_ja	786	londtw-ban1.ja.net/Juniper	London_UK_87	8.8.8.8	3356
+net_ja	786	lowdss-ban1.ja.net/Juniper	London_UK_88	8.8.8.8	3356
+net_ja	786	manc-ban2.ja.net/Cisco	London_UK_89	8.8.8.8	3356
+net_ja	786	manckh-ban1.ja.net/Juniper	London_UK_90	8.8.8.8	3356
+net_ja	786	newcct-ban1.ja.net/Juniper	London_UK_91	8.8.8.8	3356
+net_ja	786	sloudc-ban1.ja.net/Juniper	London_UK_92	8.8.8.8	3356
+net_ja	786	sloudc-ban2.ja.net/Juniper	London_UK_93	8.8.8.8	3356
+es_rediris	766	130.206.194.254	Madrid_ES_1	8.8.8.8	3356
+es_rediris	766	130.206.212.254	Madrid_ES_2	8.8.8.8	3356
+es_rediris	766	130.206.198.125	Madrid_ES_3	8.8.8.8	3356
+es_rediris	766	130.206.206.250	Madrid_ES_4	8.8.8.8	3356
+es_rediris	766	130.206.198.254	Madrid_ES_5	8.8.8.8	3356
+es_rediris	766	130.206.195.254	Madrid_ES_6	8.8.8.8	3356
+es_rediris	766	130.206.211.254	Madrid_ES_7	8.8.8.8	3356
+es_rediris	766	130.206.201.254	Madrid_ES_8	8.8.8.8	3356
+net_silesnet	702	none	Cesky_Tesin_CZ	8.8.8.8	3356
+net_bell	577	Montreal	Montreal_QC_CA	8.8.8.8	3356
+net_bell	577	Toronto	Toronto_ON_CA	8.8.8.8	3356
+net_bell	577	Calgary	Calgary_AB_CA	8.8.8.8	3356
+net_bell	577	Vancouver	Vancouver_BC_CA	8.8.8.8	3356
+net_bell	577	New York	New_York_NY_US	8.8.8.8	3356
+net_bell	577	Chicago	Chicago_IL_US	8.8.8.8	3356
+net_bell	577	Seattle	Seattle_WA_US	8.8.8.8	3356
+ch_switch	559	swiCE2.switch.ch	Zurich_CH_1	8.8.8.8	3356
+ch_switch	559	swiCE3.switch.ch	Zurich_CH_2	8.8.8.8	3356
+ch_switch	559	swiIX1.switch.ch	Zurich_CH_3	8.8.8.8	3356
+ch_switch	559	swiIX2.switch.ch	Zurich_CH_4	8.8.8.8	3356
+ch_switch	559	swiBA2.switch.ch	Zurich_CH_5	8.8.8.8	3356
+ch_switch	559	swiKR2.switch.ch	Zurich_CH_6	8.8.8.8	3356
+de_belwue	553	route-server.belwue.de	Stuttgart_DE	8.8.8.8	3356
+ca_eastlink	553	Eastlink Atlantic (AS 11260)	Moncton_CA	8.8.8.8	3356
+ca_eastlink	553	Eastlink Eastern (AS 23184)	Garson_CA	8.8.8.8	3356
+ca_eastlink	553	Eastlink Pacific (AS 22799)	Delta_CA	8.8.8.8	3356
+ca_eastlink	553	Allstream (AS 15290)	Toronto_CA	8.8.8.8	3356
+ca_eastlink	553	AT&T (AS 7018)	Bridgeton_MO_US	8.8.8.8	3356
+ca_eastlink	553	Belwue (AS 553)	Stuttgart_DE	8.8.8.8	3356
+ca_eastlink	553	Comcast (AS 7922)	New_York_NY_US	8.8.8.8	3356
+ca_eastlink	553	Eunet (AS 6667)	Pori_FIN	8.8.8.8	3356
+ca_eastlink	553	Global Crossing (AS 3549)	Phoenix_AZ_US	8.8.8.8	3356
+ca_eastlink	553	Global Crossing Europe (AS 3549)	Caracas_VE	8.8.8.8	3356
+ca_eastlink	553	Optus (AS 7474)	Macquarie_Park_AU	8.8.8.8	3356
+ca_eastlink	553	Oregon Exchange (AS 6447)	Eugene_OR_US	8.8.8.8	3356
+ca_eastlink	553	SAIX (AS 5713)	Pretoria_SA	8.8.8.8	3356
+ca_eastlink	553	Sunrise (AS 6730)	Zurich_CH	8.8.8.8	3356
+ca_eastlink	553	Swisscom IP+ (AS 3303)	Bern_CH	8.8.8.8	3356
+ca_eastlink	553	Time Warner (AS 4323)	Littleton_CO_US	8.8.8.8	3356
+ca_eastlink	553	TiNET (AS 3257)	Frankfurt_DE	8.8.8.8	3356
+ca_eastlink	553	TELUS East (AS 852)	Rimouski_Quebec_CA	8.8.8.8	3356
+ca_eastlink	553	TELUS West (AS 852)	Burnaby_British_Columbia_CA	8.8.8.8	3356
+net_ilan	378	SH	Jerusalem_IL	8.8.8.8	3356
+net_ilan	378	GP0	Jerusalem_IL	8.8.8.8	3356
+no_uninett	224	hovedbygget-gw.uninett.no	Trondheim_NO	8.8.8.8	3356
+no_uninett	224	oslo-gw1.uninett.no	Stockholm_SE	8.8.8.8	3356
+no_uninett	224	trd-gw.uninett.no	Trondheim_NO	8.8.8.8	3356
+no_uninett	224	bergen-gw2.uninett.no	Trondheim_NO	8.8.8.8	3356
+no_uninett	224	hoytek-gw2.uninett.no	Trondheim_NO	8.8.8.8	3356
+no_uninett	224	ma2-gw.uninett.no	Trondheim_NO	8.8.8.8	3356
+no_uninett	224	tromso-gw2.uninett.no	Trondheim_NO	8.8.8.8	3356
+com_cogent	174	fra03	DE_Frankfurt	8.8.8.8	3356
+com_cogent	174	vie01	AT_Vienna	8.8.8.8	3356
+com_cogent	174	bru01	BE_Brussels	8.8.8.8	3356
+com_cogent	174	sof02	BG_Sofia	8.8.8.8	3356
+com_cogent	174	ymq01	CA_Montreal	8.8.8.8	3356
+com_cogent	174	yyz01	CA_Toronto	8.8.8.8	3356
+com_cogent	174	zrh01	CH_Zurich	8.8.8.8	3356
+com_cogent	174	ber01	DE_Berlin	8.8.8.8	3356
+com_cogent	174	dus01	DE_Dusseldorf	8.8.8.8	3356
+com_cogent	174	ham01	DE_Hamburg	8.8.8.8	3356
+com_cogent	174	muc01	DE_Munich	8.8.8.8	3356
+com_cogent	174	nue01	DE_Nuremberg	8.8.8.8	3356
+com_cogent	174	cph01	DK_Copenhagen	8.8.8.8	3356
+com_cogent	174	tll01	EE_Tallinn	8.8.8.8	3356
+com_cogent	174	bcn01	ES_Barcelona	8.8.8.8	3356
+com_cogent	174	mad05	ES_Madrid	8.8.8.8	3356
+com_cogent	174	vlc01	ES_Valencia	8.8.8.8	3356
+com_cogent	174	bod01	FR_Bordeaux	8.8.8.8	3356
+com_cogent	174	mrs01	FR_Marseille	8.8.8.8	3356
+com_cogent	174	par01	FR_Paris	8.8.8.8	3356
+com_cogent	174	lon13	GB_London	8.8.8.8	3356
+com_cogent	174	lpl01	GB_Southport	8.8.8.8	3356
+com_cogent	174	ath01	GR_Athens	8.8.8.8	3356
+com_cogent	174	bud01	HU_Budapest	8.8.8.8	3356
+com_cogent	174	dub01	IE_Dublin	8.8.8.8	3356
+com_cogent	174	mil01	IT_Milan	8.8.8.8	3356
+com_cogent	174	rom01	IT_Rome	8.8.8.8	3356
+com_cogent	174	tyo01	JP_Tokyo	8.8.8.8	3356
+com_cogent	174	mex01	MX_Mexico_City	8.8.8.8	3356
+com_cogent	174	ams04	NL_Amsterdam	8.8.8.8	3356
+com_cogent	174	osl01	NO_Oslo	8.8.8.8	3356
+com_cogent	174	waw01	PL_Warsaw	8.8.8.8	3356
+com_cogent	174	lis01	PT_Lisbon	8.8.8.8	3356
+com_cogent	174	buh01	RO_Bucharest	8.8.8.8	3356
+com_cogent	174	sto03	SE_Stockholm	8.8.8.8	3356
+com_cogent	174	bts01	SK_Bratislava	8.8.8.8	3356
+com_cogent	174	hrk01	UA_Kharkiv	8.8.8.8	3356
+com_cogent	174	atl01	US_Atlanta	8.8.8.8	3356
+com_cogent	174	bos01	US_Boston	8.8.8.8	3356
+com_cogent	174	ord01	US_Chicago	8.8.8.8	3356
+com_cogent	174	dfw01	US_Dallas	8.8.8.8	3356
+com_cogent	174	den01	US_Denver	8.8.8.8	3356
+com_cogent	174	iah01	US_Houston	8.8.8.8	3356
+com_cogent	174	jax01	US_Jacksonville	8.8.8.8	3356
+com_cogent	174	mci01	US_Kansas_City	8.8.8.8	3356
+com_cogent	174	lax01	US_Los_Angeles	8.8.8.8	3356
+com_cogent	174	mia01	US_Miami	8.8.8.8	3356
+com_cogent	174	msp01	US_Minneapolis	8.8.8.8	3356
+com_cogent	174	jfk02	US_New_York	8.8.8.8	3356
+com_cogent	174	mco01	US_Orlando	8.8.8.8	3356
+com_cogent	174	phl01	US_Philadelphia	8.8.8.8	3356
+com_cogent	174	smf01	US_Sacramento	8.8.8.8	3356
+com_cogent	174	san01	US_San_Diego	8.8.8.8	3356
+com_cogent	174	sfo01	US_San_Francisco	8.8.8.8	3356
+com_cogent	174	sjc01	US_San_Jose	8.8.8.8	3356
+com_cogent	174	sea01	US_Seattle	8.8.8.8	3356
+com_cogent	174	tpa01	US_Tampa	8.8.8.8	3356
+com_cogent	174	dca01	US_Washington_DC	8.8.8.8	3356
+net_hlkomm	174	AMSMA2.hlkomm.net	Amsterdam_NL	8.8.8.8	3356
+net_hlkomm	174	LMR1.hlkomm.net	Frankfurt_DE	8.8.8.8	3356
+net_hlkomm	174	FMA2.hlkomm.net	Frankfurt_DE	8.8.8.8	3356
+net_hlkomm	174	LMA11.hlkomm.net	Frankfurt_DE	8.8.8.8	3356
+net_hlkomm	174	AS3257 Tiscali	Frankfurt_DE	8.8.8.8	3356
+net_hlkomm	174	AS3549 Global Crossing	Phoenix_AZ_US	8.8.8.8	3356
+net_hlkomm	174	AS553 BelWue	Stuttgart_DE	8.8.8.8	3356
+net_hlkomm	174	AS852 TELUS	Rimouski_Quebec_CA	8.8.8.8	3356
+net_hlkomm	174	AS3303 Swisscom	Bern_CH	8.8.8.8	3356
+net_hlkomm	174	AS6730 Sunrise Schweiz	Zurich_CH	8.8.8.8	3356
+it_garr	137	rx2.na1.garr.net	Rome_IT_01	8.8.8.8	3356
+it_garr	137	r.rm2.garr.net	Milan_IT_01	8.8.8.8	3356
+it_garr	137	r.mi2.garr.net	Rome_IT_02	8.8.8.8	3356
+it_garr	137	r.mi1.garr.net	Milan_IT_02	8.8.8.8	3356
+it_garr	137	r.bo1.garr.net	Bologna_IT_01	8.8.8.8	3356
+it_garr	137	rx1.bo1.garr.net	Milan_IT_03	8.8.8.8	3356
+it_garr	137	rx1.bo3.garr.net	Rome_IT_03	8.8.8.8	3356
+it_garr	137	rx1.ca1.garr.net	Rome_IT_04	8.8.8.8	3356
+it_garr	137	rx1.ct1.garr.net	Rome_IT_05	8.8.8.8	3356
+it_garr	137	rx1.fi1.garr.net	Rome_IT_06	8.8.8.8	3356
+it_garr	137	rx1.mi1.garr.net	Milan_IT_04	8.8.8.8	3356
+it_garr	137	rx1.mi2.garr.net	Milan_IT_05	8.8.8.8	3356
+it_garr	137	rx1.mi3.garr.net	Milan_IT_06	8.8.8.8	3356
+it_garr	137	rx1.na1.garr.net	Naples_IT_01	8.8.8.8	3356
+it_garr	137	rx1.pa1.garr.net	Rome_IT_07	8.8.8.8	3356
+it_garr	137	rx1.pd2.garr.net	Bologna_IT_02	8.8.8.8	3356
+it_garr	137	rx1.pi1.garr.net	Milan_IT_07	8.8.8.8	3356
+it_garr	137	rx1.rm1.garr.net	Rome_IT_08	8.8.8.8	3356
+it_garr	137	rx1.rm2.garr.net	Rome_IT_09	8.8.8.8	3356
+it_garr	137	rx1.to1.garr.net	Milan_IT_08	8.8.8.8	3356
+it_garr	137	rx1.ts1.garr.net	Milan_IT_09	8.8.8.8	3356
+it_garr	137	rx2.ba1.garr.net	Rome_IT_10	8.8.8.8	3356
+it_garr	137	rx2.bo1.garr.net	Bologna_IT_03	8.8.8.8	3356
+it_garr	137	rx2.ct1.garr.net	Rome_IT_11	8.8.8.8	3356
+it_garr	137	rx2.mi1.garr.net	Rome_IT_12	8.8.8.8	3356
+it_garr	137	rx2.mi2.garr.net	Milan_IT_10	8.8.8.8	3356
+it_garr	137	rx2.mi3.garr.net	Milan_IT_11	8.8.8.8	3356
+it_garr	137	rx2.pa1.garr.net	Rome_IT_13	8.8.8.8	3356
+it_garr	137	rx2.pd2.garr.net	Milan_IT_12	8.8.8.8	3356
+it_garr	137	rx2.rm2.garr.net	Milan_IT_13	8.8.8.8	3356
+it_garr	137	re1.an.garr.net	Bologna_IT_04	8.8.8.8	3356
+it_garr	137	re1.aq1.garr.net	Rome_IT_14	8.8.8.8	3356
+it_garr	137	re1.fe.garr.net	Bari_IT_01	8.8.8.8	3356
+it_garr	137	re1.fra.garr.net	Rome_IT_15	8.8.8.8	3356
+it_garr	137	re1.ge1.garr.net	Rome_IT_16	8.8.8.8	3356
+it_garr	137	re1.me.garr.net	Rome_IT_17	8.8.8.8	3356
+it_garr	137	re1.mt.garr.net	Rome_IT_18	8.8.8.8	3356
+it_garr	137	re1.pg.garr.net	Rome_IT_19	8.8.8.8	3356
+it_garr	137	re1.pv.garr.net	Milan_IT_14	8.8.8.8	3356
+it_garr	137	re1.pz.garr.net	Rome_IT_20	8.8.8.8	3356
+it_garr	137	re1.rm4.garr.net	Rome_IT_21	8.8.8.8	3356
+it_garr	137	re1.ss.garr.net	Rome_IT_22	8.8.8.8	3356
+it_garr	137	re1.tn.garr.net	Rome_IT_23	8.8.8.8	3356
+it_garr	137	re1.ve.garr.net	Rome_IT_24	8.8.8.8	3356
+it_garr	137	re2.an.garr.net	Rome_IT_25	8.8.8.8	3356
+it_garr	137	re2.aq1.garr.net	Rome_IT_26	8.8.8.8	3356
+it_garr	137	re2.fe.garr.net	Rome_IT_27	8.8.8.8	3356
+it_garr	137	re2.fra.garr.net	Rome_IT_28	8.8.8.8	3356
+it_garr	137	re2.ge1.garr.net	Rome_IT_29	8.8.8.8	3356
+it_garr	137	re2.mt.garr.net	Rome_IT_30	8.8.8.8	3356
+it_garr	137	re2.pg.garr.net	Rome_IT_31	8.8.8.8	3356
+it_garr	137	re2.pv.garr.net	Milan_IT_15	8.8.8.8	3356
+it_garr	137	re2.pz.garr.net	Rome_IT_32	8.8.8.8	3356
+it_garr	137	re2.rm4.garr.net	Rome_IT_33	8.8.8.8	3356
+it_garr	137	re2.ss.garr.net	Rome_IT_34	8.8.8.8	3356
+it_garr	137	re2.tn.garr.net	Rome_IT_35	8.8.8.8	3356
+it_garr	137	re2.ve.garr.net	Rome_IT_36	8.8.8.8	3356
+it_garr	137	rx1.mi4.garr.net	Rome_IT_37	8.8.8.8	3356
+it_garr	137	rx1.rc.garr.net	Rome_IT_38	8.8.8.8	3356
+it_garr	137	rx1.na2.garr.net	Rome_IT_39	8.8.8.8	3356
+it_garr	137	rx1.cs.garr.net	Rome_IT_40	8.8.8.8	3356
+it_garr	137	rx1.fg.garr.net	Rome_IT_41	8.8.8.8	3356
+it_garr	137	rx1.me.garr.net	Rome_IT_42	8.8.8.8	3356
+it_garr	137	rx1.sa.garr.net	Naples_IT_02	8.8.8.8	3356
+it_garr	137	rx1.na6.garr.net	Rome_IT_43	8.8.8.8	3356
+it_garr	137	rx1.cz.garr.net	Rome_IT_44	8.8.8.8	3356
+it_garr	137	rx1.br.garr.net	Rome_IT_45	8.8.8.8	3356
+it_garr	137	rx3.ba1.garr.net	Rome_IT_46	8.8.8.8	3356
+it_garr	137	rx1.le.garr.net	Rome_IT_47	8.8.8.8	3356
+it_garr	137	rc.ba1.garr.net	Rome_IT_48	8.8.8.8	3356
+it_garr	137	rc.na1.garr.net	Rome_IT_49	8.8.8.8	3356
+it_garr	137	rc.na2.garr.net	Rome_IT_50	8.8.8.8	3356
+it_garr	137	rc.fg.garr.net	Rome_IT_51	8.8.8.8	3356
+it_garr	137	rc.sa.garr.net	Rome_IT_52	8.8.8.8	3356
+it_garr	137	rc.pa1.garr.net	Rome_IT_53	8.8.8.8	3356
+it_garr	137	rc.me.garr.net	Rome_IT_54	8.8.8.8	3356
+it_garr	137	rc.cz.garr.net	Rome_IT_55	8.8.8.8	3356
+it_garr	137	rc.le.garr.net	Rome_IT_56	8.8.8.8	3356
+it_garr	137	rc.br.garr.net	Rome_IT_57	8.8.8.8	3356
+it_garr	137	rc.cs.garr.net	Rome_IT_58	8.8.8.8	3356
+it_garr	137	rc.rg.garr.net	Rome_IT_59	8.8.8.8	3356
+it_garr	137	rc.sr.garr.net	Rome_IT_60	8.8.8.8	3356
+it_garr	137	rc.maz.garr.net	Rome_IT_61	8.8.8.8	3356
+it_garr	137	rc.tp.garr.net	Rome_IT_62	8.8.8.8	3356
+it_garr	137	rc.ct1.garr.net	Rome_IT_63	8.8.8.8	3356
+it_garr	137	rc.ag.garr.net	Rome_IT_64	8.8.8.8	3356
+edu_princeton	88	none	Princeton_NJ_US	8.8.8.8	3356
+edu_usc	47	none	Los_Angeles_CA_US	8.8.8.8	3356
+net_pch	42	route-collector.ams.pch.net:cisco	AMS-IX_Amsterdam_NL	8.8.8.8	3356
+net_pch	42	netnod.woodynet.pch.net:cisco	Netnod_Stockholm_SE	8.8.8.8	3356
+net_pch	42	route-collector.kul.pch.net:cisco	MyIX_Kuala_Lumpur_MY	8.8.8.8	3356
+net_pch	42	route-collector.mnl.pch.net:cisco	PhOpenIX_Manila_PH	8.8.8.8	3356
+net_pch	42	route-collector.eze.pch.net:cisco	NAP_CABASE_Buenos_Aires_AR	8.8.8.8	3356
+net_pch	42	route-collector.fra.pch.net:cisco	DE-CIX_Frankfurt_DE	8.8.8.8	3356
+net_pch	42	route-collector.bey.pch.net:cisco	BeirutIX_Beirut_LB	8.8.8.8	3356
+net_pch	42	route-collector.nrt.pch.net:cisco	DIX-IE_Tokyo_JP	8.8.8.8	3356
+net_pch	42	route-collector.syd.pch.net:cisco	Equinix_Sydney_AU	8.8.8.8	3356
+net_pch	42	route-collector.mia.pch.net:cisco	NOTA_Miami_FL_US	8.8.8.8	3356
+net_pch	42	route-collector.lga.pch.net:cisco	Equinix-NY_New_York_NY_US	8.8.8.8	3356
+net_pch	42	route-collector.sin.pch.net:cisco	SOX_Singapore_SG	8.8.8.8	3356
+net_pch	42	route-collector.bos.pch.net:cisco	Boston_IX_Boston_MA	8.8.8.8	3356
+net_pch	42	route-collector.lhr.pch.net:cisco	LINX_London_UK	8.8.8.8	3356
+net_pch	42	route-collector.sna.pch.net:cisco	Any2_Los_Angeles_CA_US	8.8.8.8	3356
+net_pch	42	route-collector.pao.pch.net:cisco	Equinix-Palo_Alto_Palo_Alto_CA_US	8.8.8.8	3356
+net_pch	42	route-collector.hkg.pch.net:cisco	HKIX_Hong_Kong_HK	8.8.8.8	3356
+net_pch	42	route-collector.atl.pch.net:cisco	AtlantaIX_Atlanta_GA_US	8.8.8.8	3356
+net_pch	42	route-collector.nbo.pch.net:cisco	KIXP_Nairobi_KE	8.8.8.8	3356
+net_pch	42	route-collector.cdg.pch.net:cisco	France-IX_Paris_FR	8.8.8.8	3356
+net_pch	42	route-collector.equinix-paris.pch.net:cisco	Equinix_Paris_Paris_FR	8.8.8.8	3356
+net_pch	42	route-collector.sfinx.pch.net:cisco	SFINX_Paris_FR	8.8.8.8	3356
+net_pch	42	route-collector.iad.pch.net:cisco	Equinix_Ashburn_Ashburn_VA	8.8.8.8	3356
+net_pch	42	route-collector.cai.pch.net:cisco	CAIX_Cairo_EG	8.8.8.8	3356
+net_pch	42	route-collector.yyz.pch.net:cisco	TORIX_Toronto_CA	8.8.8.8	3356
+net_pch	42	route-collector.akl.pch.net:cisco	APE_Auckland_NZ	8.8.8.8	3356
+net_pch	42	route-collector.nl-ix.pch.net:cisco	NL-ix_Amsterdam_NL	8.8.8.8	3356
+net_pch	42	route-collector.qpg.pch.net:cisco	SGIX_Singapore_SG	8.8.8.8	3356
+net_pch	42	route-collector.equinix-sg.pch.net:cisco	Equinix_Singapore_Singapore_SG	8.8.8.8	3356
+net_pch	42	route-collector.muc.pch.net:cisco	INXS_Munich_DE	8.8.8.8	3356
+net_pch	42	route-collector.sea.pch.net:cisco	SIX_Seattle_WA_US	8.8.8.8	3356
+net_pch	42	route-collector.paix-sea.pch.net:cisco	Equinix-Seattle_Seattle_WA_US	8.8.8.8	3356
+net_pch	42	route-collector.yow.pch.net:cisco	OttIX_Ottawa_CA	8.8.8.8	3356
+net_pch	42	route-collector.vie.pch.net:cisco	VIX_Vienna_AT	8.8.8.8	3356
+net_pch	42	route-collector.dub.pch.net:cisco	INEX_Dublin_IE	8.8.8.8	3356
+net_pch	42	route-collector.lonap.pch.net:cisco	LoNAP_London_UK	8.8.8.8	3356
+net_pch	42	route-collector.ber.pch.net:cisco	BCIX_Berlin_DE	8.8.8.8	3356
+net_pch	42	route-collector.zrh.pch.net:cisco	SwissIX_Zurich_CH	8.8.8.8	3356
+net_pch	42	route-collector.per.pch.net:cisco	WAIX_Perth_AU	8.8.8.8	3356
+net_pch	42	route-collector.nyiix.pch.net:cisco	NYIIX_New_York_NY_US	8.8.8.8	3356
+net_pch	42	route-collector.tie-ny.pch.net:cisco	TIE_New_York_New_York_NY_US	8.8.8.8	3356
+net_pch	42	route-collector.ord.pch.net:cisco	Equinix_Chicago_IBX_Chicago_IL_US	8.8.8.8	3356
+net_pch	42	route-collector.chix.pch.net:cisco	ChIX_Chicago_IL_US	8.8.8.8	3356
+net_pch	42	route-collector.ktm.pch.net:cisco	NPIX_Kathmandu_NP	8.8.8.8	3356
+net_pch	42	route-collector.bah.pch.net:cisco	GulfIX_Bahrain_Manama_BH	8.8.8.8	3356
+net_pch	42	route-collector.jkt.pch.net:cisco	IIX_Jakarta_ID	8.8.8.8	3356
+net_pch	42	route-collector.mpm.pch.net:cisco	MOZIX_Maputo_MOZ	8.8.8.8	3356
+net_pch	42	route-collector.trn.pch.net:cisco	TOP-ix_Torino_IT	8.8.8.8	3356
+net_pch	42	route-collector.jpix.pch.net:cisco	JPIX_Tokyo_JP	8.8.8.8	3356
+net_pch	42	route-collector.cpt.pch.net:cisco	CINX_Cape_Town_SA	8.8.8.8	3356
+net_pch	42	route-collector.waw.pch.net:cisco	PLIX_Warsaw_PL	8.8.8.8	3356
+net_pch	42	route-collector.bur.pch.net:cisco	Equinix_LA_Los_Angeles_CA_US	8.8.8.8	3356
+net_pch	42	route-collector.wlg.pch.net:cisco	WIX_Wellington_NZ	8.8.8.8	3356
+net_pch	42	route-collector.dac.pch.net:cisco	BDIX_Dhaka_BD	8.8.8.8	3356
+net_pch	42	route-collector.ist.pch.net:cisco	IST-IX_Istanbul_TR	8.8.8.8	3356
+net_pch	42	route-collector.sof.pch.net:cisco	BIX.BG_Sofia_BG	8.8.8.8	3356
+net_pch	42	route-collector.lax.pch.net:cisco	LAIIX_Los_Angeles_CA_US	8.8.8.8	3356
+net_pch	42	route-collector.icn.pch.net:cisco	KINX_Seoul_KR	8.8.8.8	3356
+net_pch	42	route-collector.jax.pch.net:cisco	JXIX_Jacksonville_FL	8.8.8.8	3356
+net_pch	42	route-collector.tmp.pch.net:cisco	TREX_Tampere_FIN	8.8.8.8	3356
+net_pch	42	route-collector.tll.pch.net:cisco	RTIX_Tallinn_EST	8.8.8.8	3356
+net_pch	42	route-collector.gnd.pch.net:cisco	GREX_St._Georges_GD	8.8.8.8	3356
+net_pch	42	route-collector.mcix.pch.net:cisco	MCIX_Jakarta_ID	8.8.8.8	3356
+net_pch	42	route-collector.dxb.pch.net:cisco	UAE-IX_Dubai_UAE	8.8.8.8	3356
+net_pch	42	route-collector.jnb.pch.net:cisco	JINX_Johannesburg_SA	8.8.8.8	3356
+net_pch	42	route-collector.nsw-ix.pch.net:cisco	NSW-IX_Sydney_AU	8.8.8.8	3356
+net_pch	42	route-collector.gru.pch.net:cisco	PTTMetro_Sao_Paulo_Sao_Paulo_BR	8.8.8.8	3356
+net_pch	42	route-collector.netix.pch.net:cisco	NetIX_Sofia_BG	8.8.8.8	3356
+net_pch	42	route-collector.sdb.pch.net:cisco	NAPAfrica_Cape_Town_SA	8.8.8.8	3356
+net_pch	42	route-collector.ywg.pch.net:cisco	MBIX_Winnipeg_MB_CA	8.8.8.8	3356
+net_pch	42	route-collector.yul.pch.net:cisco	QIX_Montreal_QC_CA	8.8.8.8	3356
+net_pch	42	route-collector.yyc.pch.net:cisco	YYCIX_Calgary_AB_CA	8.8.8.8	3356
+net_pch	42	route-collector.blz.pch.net:cisco	Malawi_IXP_Blantyre_MW	8.8.8.8	3356
+net_pch	42	route-collector.nlv.pch.net:cisco	Peering.cz_Prague_CZ	8.8.8.8	3356
+net_pch	42	route-collector.sfo.pch.net:cisco	SFMIX_San_Francisco_CA_US	8.8.8.8	3356
+net_pch	42	route-collector.dom.pch.net:cisco	DANIX_Roseau_DM	8.8.8.8	3356
+net_pch	42	route-collector.pdx.pch.net:cisco	NWAX_Portland_OR_US	8.8.8.8	3356
+net_pch	42	route-collector.dur.pch.net:cisco	DINX_Durban_SA	8.8.8.8	3356
+net_pch	42	route-collector.wpgix.pch.net:cisco	WPGIX_Winnipeg_MB_CA	8.8.8.8	3356
+net_pch	42	route-collector.lpb.pch.net:cisco	IX-LAPAZ_La_Paz_BO	8.8.8.8	3356
+net_pch	42	route-collector.nqn.pch.net:cisco	NAP_CABASE_Neuquen_Neuquen_AR	8.8.8.8	3356
+net_pch	42	route-collector.lys.pch.net:cisco	LyonIX_Lyon_FR	8.8.8.8	3356
+net_pch	42	route-collector.klu.pch.net:cisco	AAIX_Klagenfurt_AT	8.8.8.8	3356
+net_pch	42	route-collector.sjo.pch.net:cisco	IXP_Costa_Rica_San_Jose_CR	8.8.8.8	3356
+net_pch	42	route-collector.kin.pch.net:cisco	JAIXP_Kingston_JM	8.8.8.8	3356
+net_pch	42	route-collector.cor.pch.net:cisco	NAP_CABASE_Cordoba_Cordoba_CA_US	8.8.8.8	3356
+net_pch	42	route-collector.mex.pch.net:cisco	CCIT_Mexico_DF_MX	8.8.8.8	3356
+net_pch	42	route-collector.man.pch.net:cisco	IXManchester_Manchester_UK	8.8.8.8	3356
+net_pch	42	route-collector.tun.pch.net:cisco	TunIXP_Tunis_Tunis_TN	8.8.8.8	3356
+net_pch	42	route-collector.krt.pch.net:cisco	SIXP_Khartoum_SU	8.8.8.8	3356
+net_pch	42	route-collector.vli.pch.net:cisco	VIX_Port_Vila_VU	8.8.8.8	3356
+net_pch	42	route-collector.ecix-fra.pch.net:cisco	ECIX_Frankfurt_Frankfurt_DE	8.8.8.8	3356
+net_pch	42	route-collector.ecix-ber.pch.net:cisco	BLNX_ECIX_BER_Berlin_DE	8.8.8.8	3356
+net_pch	42	route-collector.ecix-dus.pch.net:cisco	ECIX_DUS_Dusseldorf_DE	8.8.8.8	3356
+net_pch	42	route-collector.ecix-ham.pch.net:cisco	ECIX_HAM_Hamburg_DE	8.8.8.8	3356
+net_pch	42	route-collector.rno.pch.net:cisco	TahoeIX_Reno_NV_US	8.8.8.8	3356
+net_pch	42	route-collector.los.pch.net:cisco	IXPN_Lagos_Lagos_NG	8.8.8.8	3356
+net_pch	42	route-collector.bjl.pch.net:cisco	SIXP_Serrekunda_GM	8.8.8.8	3356
+net_pch	42	route-collector.pos.pch.net:cisco	TTIX_Barataria_LA_US	8.8.8.8	3356
+net_pch	42	route-collector.gza.pch.net:cisco	PIX_Ramallah_PS	8.8.8.8	3356
+net_pch	42	route-collector.kbp.pch.net:cisco	Giganet_Kiev_UKR	8.8.8.8	3356
+net_pch	42	route-collector.bom.pch.net:cisco	Mumbai_CH_Mumbai_CH	8.8.8.8	3356
+net_pch	42	route-collector.nbe.pch.net:cisco	TuniXP_Enfidha_Enfidha_TN	8.8.8.8	3356
+net_pch	42	route-collector.pap.pch.net:cisco	AIX_Port_au_Prince_HT	8.8.8.8	3356
+net_pch	42	route-collector.kgl.pch.net:cisco	RINEX_Kigali_RW	8.8.8.8	3356
+net_pch	42	route-collector.lba.pch.net:cisco	IXLeeds_Leeds_UK	8.8.8.8	3356
+net_pch	42	route-collector.mru.pch.net:cisco	MIXP_Port_Louis_MA	8.8.8.8	3356
+net_pch	42	route-collector.dar.pch.net:cisco	TIX_Dar_es_Salaam_TA	8.8.8.8	3356
+net_pch	42	route-collector.ark.pch.net:cisco	AIXP_Arusha_TA	8.8.8.8	3356
+net_pch	42	route-collector.wdh.pch.net:cisco	WHKIX_Windhoek_NA	8.8.8.8	3356
+net_vpls	35908	lax	Los_Angeles_CA_US	8.8.8.8	3356
+net_vpls	35908	sjc	San_Jose_CA_US	8.8.8.8	3356
+net_vpls	35908	iad	Ashburn_VA_US	8.8.8.8	3356
+net_vpls	35908	sin	Singapore_SG	8.8.8.8	3356
+net_vpls	35908	bkk	Thailand	8.8.8.8	3356
+com_core	33891	none	New_Orleans_LA_US	8.8.8.8	3356
+net_inerail	33031	lga2	New_York_NY_US	8.8.8.8	3356
+com_conit	58511	0	Sydney_AU	8.8.8.8	3356
+com_conit	58511	1	Melbourne_AU	8.8.8.8	3356
+com_conit	58511	2	Brisbane_AU	8.8.8.8	3356
+com_conit	58511	3	Perth_AU	8.8.8.8	3356
+com_conit	58511	4	Warragul_AU	8.8.8.8	3356
+com_conit	58511	5	Los_Angeles_CA_US	8.8.8.8	3356
+com_telx	32299	Atlanta	Atlanta_GA_US	8.8.8.8	3356
+com_telx	32299	Dallas	Dallas_TX_US	8.8.8.8	3356
+com_telx	32299	New York	New_York_NY_US	8.8.8.8	3356
+com_telx	32299	Phoenix	Phoenix_AZ_US	8.8.8.8	3356
+net_i3d	49544	ar0.nikhef.ams.as49544.net	NL_Amsterdam_AR0	8.8.8.8	3356
+net_i3d	49544	cr0.smartdc.rtd.as49544.net	NL_Rotterdam_CR0	8.8.8.8	3356
+net_i3d	49544	cr1.smartdc.rtd.as49544.net	NL_Rotterdam_CR1	8.8.8.8	3356
+net_i3d	49544	fr0.ix1.frm.as49544.net	DE_Frankfurt_FR0	8.8.8.8	3356
+net_i3d	49544	lr0.th-n.lon.as49544.net	UK_London_LR0	8.8.8.8	3356
+net_i3d	49544	tok0.kvh.as49544.net	JP_Tokyo_TR0	8.8.8.8	3356
+net_i3d	49544	syd0.eqx1.as49544.net	AUS_Sydney_SR0	8.8.8.8	3356
+net_savvis	3561	ald	Atlanta_GA_US	8.8.8.8	3356
+net_savvis	3561	amx	Amsterdam_NL	8.8.8.8	3356
+net_savvis	3561	bol	Boston_MA_US	8.8.8.8	3356
+net_savvis	3561	chd	Chicago_IL_US	8.8.8.8	3356
+net_savvis	3561	dan	Dallas_TX_US	8.8.8.8	3356
+net_savvis	3561	den	Denver_CO_US	8.8.8.8	3356
+net_savvis	3561	ft3	Frankfurt_DE	8.8.8.8	3356
+net_savvis	3561	lay	Los_Angeles_CA_US	8.8.8.8	3356
+net_savvis	3561	mmd	Miami_FL_US	8.8.8.8	3356
+net_savvis	3561	nyr	New_York_NY_US	8.8.8.8	3356
+net_savvis	3561	prx	Paris_FR	8.8.8.8	3356
+net_savvis	3561	phy	Philadelphia_PA_US	8.8.8.8	3356
+net_savvis	3561	3px	Phoenix_AZ_US	8.8.8.8	3356
+net_savvis	3561	sfo	San_Francisco_CA_US	8.8.8.8	3356
+net_savvis	3561	sel	Seattle_WA_US	8.8.8.8	3356
+net_savvis	3561	tnc	Toronto_CA	8.8.8.8	3356
+net_savvis	3561	dck	Washington_DC_US	8.8.8.8	3356
+net_init7	13030	none	Zagreb_HR	8.8.8.8	3356
+gs_sg	24482	SG1 - Edge 2	Singapore_SG	8.8.8.8	3356
+gs_sg	24482	SG1 - Edge 1	Singapore_SG	8.8.8.8	3356
+gs_sg	24482	SG3 - Edge-1	Singapore_SG	8.8.8.8	3356
+gs_sg	24482	SG3 - Edge-2	Singapore_SG	8.8.8.8	3356
+gs_sg	24482	HK1 - Edge-1	Hong_Kong_HK	8.8.8.8	3356
+gs_sg	24482	LAX1 - Edge-1	Los_Angeles_CA_US	8.8.8.8	3356
+gs_sg	24482	NYC1 - Edge-1	New_York_NY_US	8.8.8.8	3356
+net_retn	9002	b4	NL_Amsterdam_TC2	8.8.8.8	3356
+net_retn	9002	af	AT_Vienna_IRX	8.8.8.8	3356
+net_retn	9002	b6	BE_Brussels_IRX	8.8.8.8	3356
+net_retn	9002	62	BY_Minsk_NCT	8.8.8.8	3356
+net_retn	9002	a8	CH_Zurich_IRX	8.8.8.8	3356
+net_retn	9002	eb	CN_Hong_Kong_IAD	8.8.8.8	3356
+net_retn	9002	aa	CZ_Prague_STL	8.8.8.8	3356
+net_retn	9002	a6	DE_Berlin_SB	8.8.8.8	3356
+net_retn	9002	a2	DE_Frankfurt_EQX	8.8.8.8	3356
+net_retn	9002	a1	DE_Frankfurt_IRX	8.8.8.8	3356
+net_retn	9002	a5	DE_Hamburg_GCN	8.8.8.8	3356
+net_retn	9002	98	EE_Tallinn_ELN	8.8.8.8	3356
+net_retn	9002	b7	ES_Madrid_MEX	8.8.8.8	3356
+net_retn	9002	97	FI_Helsinki_HMO	8.8.8.8	3356
+net_retn	9002	96	FI_Helsinki_TNR	8.8.8.8	3356
+net_retn	9002	b9	FR_Paris_THV	8.8.8.8	3356
+net_retn	9002	ad	HU_Budapest_DPX	8.8.8.8	3356
+net_retn	9002	a9	IT_Milan_IFC	8.8.8.8	3356
+net_retn	9002	e6	JP_Tokyo_EQX	8.8.8.8	3356
+net_retn	9002	9c	LT_Kaunas_RTC	8.8.8.8	3356
+net_retn	9002	9d	LT_Klaipeda_BTC	8.8.8.8	3356
+net_retn	9002	9f	LT_Siauliai_OMT	8.8.8.8	3356
+net_retn	9002	9e	LT_Vilnius_TIC	8.8.8.8	3356
+net_retn	9002	99	LV_Riga_RTC	8.8.8.8	3356
+net_retn	9002	b5	NL_Dronten_SRV	8.8.8.8	3356
+net_retn	9002	ac	PL_Katowice_QTL	8.8.8.8	3356
+net_retn	9002	b0	PL_Krakov_CND	8.8.8.8	3356
+net_retn	9002	ab	PL_Poznan_BND	8.8.8.8	3356
+net_retn	9002	a7	PL_Warsaw_LIM	8.8.8.8	3356
+net_retn	9002	12	RU_Belgorod_CTC	8.8.8.8	3356
+net_retn	9002	1d	RU_Cheboksary_ETW	8.8.8.8	3356
+net_retn	9002	19	RU_Chelyabinsk_HPN	8.8.8.8	3356
+net_retn	9002	1e	RU_Ekaterinburg_UDC	8.8.8.8	3356
+net_retn	9002	1a	RU_Goritcy_EPS	8.8.8.8	3356
+net_retn	9002	1c	RU_Gubkin_AT5	8.8.8.8	3356
+net_retn	9002	23	RU_Irkutsk_VSV	8.8.8.8	3356
+net_retn	9002	11	RU_Kamensk-Shaht._KVT	8.8.8.8	3356
+net_retn	9002	16	RU_Kazan_ITP	8.8.8.8	3356
+net_retn	9002	24	RU_Krasnodar_ATC	8.8.8.8	3356
+net_retn	9002	15	RU_Krasnoyarsk_ITT	8.8.8.8	3356
+net_retn	9002	c	RU_Lipetsk_RTC	8.8.8.8	3356
+net_retn	9002	1	RU_Moscow_M9	8.8.8.8	3356
+net_retn	9002	2	RU_Moscow_M9P	8.8.8.8	3356
+net_retn	9002	5	RU_Moscow_MR	8.8.8.8	3356
+net_retn	9002	e	RU_N.Novgorod_RTC	8.8.8.8	3356
+net_retn	9002	14	RU_Novosibirsk_CIF	8.8.8.8	3356
+net_retn	9002	20	RU_Omsk_KNX	8.8.8.8	3356
+net_retn	9002	1f	RU_Perm_TIM	8.8.8.8	3356
+net_retn	9002	13	RU_Rostov-na-Donu_TMT	8.8.8.8	3356
+net_retn	9002	18	RU_Ryazan_STC	8.8.8.8	3356
+net_retn	9002	25	RU_Samara_SMT	8.8.8.8	3356
+net_retn	9002	f	RU_Saratov_INT	8.8.8.8	3356
+net_retn	9002	6	RU_St-Petersburg_BM	8.8.8.8	3356
+net_retn	9002	8	RU_St-Petersburg_KM	8.8.8.8	3356
+net_retn	9002	7	RU_St-Petersburg_OV	8.8.8.8	3356
+net_retn	9002	22	RU_Surgut_NFB	8.8.8.8	3356
+net_retn	9002	10	RU_Tula_KVT	8.8.8.8	3356
+net_retn	9002	21	RU_Tyumen_NMS	8.8.8.8	3356
+net_retn	9002	17	RU_Ufa_UFN	8.8.8.8	3356
+net_retn	9002	b	RU_V.Novgorod_RAY	8.8.8.8	3356
+net_retn	9002	a	RU_Vladimir_KSZ	8.8.8.8	3356
+net_retn	9002	d	RU_Voronezh_ES	8.8.8.8	3356
+net_retn	9002	9b	SE_Stockholm_TC1	8.8.8.8	3356
+net_retn	9002	ae	SK_Bratislava_STL	8.8.8.8	3356
+net_retn	9002	82	UA_Dnepropetrovsk_DSF	8.8.8.8	3356
+net_retn	9002	73	UA_Donetsk_ATR	8.8.8.8	3356
+net_retn	9002	6f	UA_Kharkov_BH	8.8.8.8	3356
+net_retn	9002	65	UA_Kyiv_NTL0	8.8.8.8	3356
+net_retn	9002	66	UA_Kyiv_NTL1	8.8.8.8	3356
+net_retn	9002	64	UA_Lviv_UAR	8.8.8.8	3356
+net_retn	9002	7b	UA_Nikolaev_ATR	8.8.8.8	3356
+net_retn	9002	7d	UA_Odessa_HST	8.8.8.8	3356
+net_retn	9002	69	UA_Uzhgorod_ATR	8.8.8.8	3356
+net_retn	9002	78	UA_Zaporozhye_ATR	8.8.8.8	3356
+net_retn	9002	be	UK_London_TC2	8.8.8.8	3356
+net_retn	9002	cb	US_Ashburn_EQX	8.8.8.8	3356
+net_retn	9002	d8	US_Chicago_EQX	8.8.8.8	3356
+net_retn	9002	d2	US_Los_Angeles_CRS	8.8.8.8	3356
+net_retn	9002	c9	US_New_York_TLX	8.8.8.8	3356
+mn_gemnet	45204	br1.lax.gemnet.mn:cisco	Los_Angeles_CA_US	8.8.8.8	3356
+mn_gemnet	45204	cr2.uln.gemnet.mn:cisco	Ulaanbaatar_MN	8.8.8.8	3356
+mn_gemnet	45204	br1.fra.gemnet.mn:juniper	Frankfurt_DE	8.8.8.8	3356
+com_flagtel	15412	AMS001-Amsterdam	Amsterdam_NL	8.8.8.8	3356
+com_flagtel	15412	ALX001-Alexandria	Alexandria_EG	8.8.8.8	3356
+com_flagtel	15412	BAH001-Bahrain	Bahrain	8.8.8.8	3356
+com_flagtel	15412	CAI001-Cairo	Cairo_EG	8.8.8.8	3356
+com_flagtel	15412	CHN001-Chennai	Chennai_IN	8.8.8.8	3356
+com_flagtel	15412	DMM001-Al Khobar	Al_Khobar_SA	8.8.8.8	3356
+com_flagtel	15412	DOH002-Doha	Doha_QAT	8.8.8.8	3356
+com_flagtel	15412	DXB001-Dubai	Dubai_UAE	8.8.8.8	3356
+com_flagtel	15412	FRA005-Frankfurt	Frankfurt_DE	8.8.8.8	3356
+com_flagtel	15412	HKG003-Hong Kong	Hong_Kong_HK	8.8.8.8	3356
+com_flagtel	15412	JED002-Jeddah	Jeddah_SA	8.8.8.8	3356
+com_flagtel	15412	LAX002-Los Angeles	Los_Angeles_CA_US	8.8.8.8	3356
+com_flagtel	15412	LDN001-London	London_UK_1	8.8.8.8	3356
+com_flagtel	15412	LDN004-London	London_UK_2	8.8.8.8	3356
+com_flagtel	15412	MAD003-Madrid	Madrid_ES	8.8.8.8	3356
+com_flagtel	15412	MMB003-Mumbai	Mumbai_IN_1	8.8.8.8	3356
+com_flagtel	15412	MMB004-Mumbai	Mumbai_IN_2	8.8.8.8	3356
+com_flagtel	15412	NYC005-New York	New_York_NY_US_1	8.8.8.8	3356
+com_flagtel	15412	NYC007-New York	New_York_NY_US_2	8.8.8.8	3356
+com_flagtel	15412	PAO001-Palo Alto	Palo_Alto_CA_US	8.8.8.8	3356
+com_flagtel	15412	PRS001-Paris	Paris_FR_1	8.8.8.8	3356
+com_flagtel	15412	PRS002-Paris	Paris_FR_2	8.8.8.8	3356
+com_flagtel	15412	SEO003-Seoul	Seoul_KR	8.8.8.8	3356
+com_flagtel	15412	SIN001-Singapore	Singapore_SG	8.8.8.8	3356
+com_flagtel	15412	TOK002-Tokyo	Tokyo_JP_1	8.8.8.8	3356
+com_flagtel	15412	TOK007-Tokyo	Tokyo_JP_2	8.8.8.8	3356
+com_flagtel	15412	TPE001-Taipei	Taipei_TW	8.8.8.8	3356
+com_flagtel	15412	TRV001-Trivandrum	Trivandrum_IN	8.8.8.8	3356
+co_vibe	13335	SY3-CR1	Auckland_NZ	8.8.8.8	3356
+co_vibe	13335	QH-RR1	Auckland_NZ	8.8.8.8	3356
+co_vibe	13335	MDR-CR1	Auckland_NZ	8.8.8.8	3356
+com_vocus	4826	Sydney	Sydney_AU	8.8.8.8	3356
+net_peer1	13768	"0000000002"	Seattle_WA_US	8.8.8.8	3356
+net_peer1	13768	"0000000001"	Vancouver_BC_CA_1	8.8.8.8	3356
+net_peer1	13768	"0000000003"	Toronto_ON_CA	8.8.8.8	3356
+net_peer1	13768	"0000000005"	Montreal_QC_CA	8.8.8.8	3356
+net_peer1	13768	"0000000004"	New_York_NY_US	8.8.8.8	3356
+net_peer1	13768	"0000000006"	San_Jose_CA_US	8.8.8.8	3356
+net_peer1	13768	"0000000007"	Los_Angeles_CA_US	8.8.8.8	3356
+net_peer1	13768	"0000000008"	Dallas_TX_US	8.8.8.8	3356
+net_peer1	13768	"0000000009"	Atlanta_GA_US	8.8.8.8	3356
+net_peer1	13768	"0000000010"	Washington_DC_US	8.8.8.8	3356
+net_peer1	13768	"0000000011"	Miami_FL_US	8.8.8.8	3356
+net_peer1	13768	"0000000012"	Chicago_IL_US	8.8.8.8	3356
+net_peer1	13768	"0000000013"	London_EN_UK	8.8.8.8	3356
+net_peer1	13768	"0000000014"	Amsterdam_NL	8.8.8.8	3356
+net_peer1	13768	"0000000015"	Vancouver_BC_CA_2	8.8.8.8	3356
+net_arpnetworks	25795	none	Sylmar_CA_US	8.8.8.8	3356
+net_emix	8966	Etisalat Emix Router IPv4	Dubai_UAE	8.8.8.8	3356
+net_iinet	4739	AS4739 - Melbourne, AU	Melbourne_AU	8.8.8.8	3356
+net_iinet	4739	AS4739 - Adelaide, AU	Adelaide_AU	8.8.8.8	3356
+net_iinet	4739	AS4739 - Brisbane, AU	Brisbane_AU	8.8.8.8	3356
+net_iinet	4739	AS4739 - Hobart, AU	Hobart_AU	8.8.8.8	3356
+net_iinet	4739	AS4739 - Perth, AU	Perth_AU	8.8.8.8	3356
+net_iinet	4739	AS4739 - Sydney, AU	Sydney_AU	8.8.8.8	3356
+net_iinet	4739	AS4739 - Ashburn, USA	Ashburn_VA_US	8.8.8.8	3356
+net_iinet	4739	AS4739 - Los Angeles, USA	Los_Angeles_CA_US	8.8.8.8	3356
+net_iinet	4739	AS4739 - San Jose, USA	San_Jose_CA_US	8.8.8.8	3356
+net_iinet	4739	AS4739 - Hong Kong, HK	Hong_Kong_HK	8.8.8.8	3356
+net_iinet	4739	AS4739 - London, UK	London_UK	8.8.8.8	3356
+net_iinet	4739	AS4739 - Singapore, SG	Singapore_SG	8.8.8.8	3356
+net_iinet	4739	AS4739 - Tokyo, JP	Tokyo_JP	8.8.8.8	3356
+com_webex	13445	LAX10-WXBB-CRT01	Amsterdam_NL	8.8.8.8	3356
+com_webex	13445	LAX10-WXBB-CRT02	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	DFW10-WXBB-CRT01	Redwood_City_CA_US	8.8.8.8	3356
+com_webex	13445	DFW10-WXBB-CRT02	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	IAD02-WXBB-CRT01	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	JFK10-WXBB-CRT01	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	JFK10-WXBB-CRT02	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	ORD10-WXBB-CRT01	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	ORD10-WXBB-CRT02	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	SJC02-WXBB-CRT01	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	SJC02-WXBB-CRT02	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	YYZ01-WXBB-CRT01	Redwood_City_CA_US	8.8.8.8	3356
+com_webex	13445	YYZ01-WXBB-CRT02	San_Jose_CA_US	8.8.8.8	3356
+com_webex	13445	HKG10-WXBB-CRT01	Singapore_SG	8.8.8.8	3356
+com_webex	13445	NRT02-WXBB-CRT02	Singapore_SG	8.8.8.8	3356
+com_webex	13445	NRT03-WXBB-CRT01	Singapore_SG	8.8.8.8	3356
+com_webex	13445	NRT03-WXBB-CRT02	Singapore_SG	8.8.8.8	3356
+com_webex	13445	SYD10-WXBB-CRT02	Singapore_SG	8.8.8.8	3356
+com_webex	13445	AMS10-WXBB-CRT01	Amsterdam_NL	8.8.8.8	3356
+com_webex	13445	LHR03-WXBB-CRT01	London_UK	8.8.8.8	3356
+net_infowest	11071	InfoWest D3C Border	Saint_George_UT	8.8.8.8	3356
+net_infowest	11071	InfoWest TDC Border	Denver_CO_US	8.8.8.8	3356
+net_nexicom	11666	Nexicom AS11666	Millbrook_ON_CA	8.8.8.8	3356
+net_integra	7385	br02.lsancarc.integra.net:cisco	Los_Angeles_CA_US	8.8.8.8	3356
+net_integra	7385	br02.asbnva16.integra.net:cisco	Ashburn_VA_US	8.8.8.8	3356
+net_integra	7385	ar13.boisidpz.integra.net:cisco	Boise_ID_US	8.8.8.8	3356
+net_integra	7385	br02.chcgildt.integra.net:cisco	Chicago_IL_US	8.8.8.8	3356
+net_integra	7385	br02.dllstx97.integra.net:cisco	Dallas_TX_US	8.8.8.8	3356
+net_integra	7385	ar13.dnvrcoet.integra.net:cisco	Denver_CO_US	8.8.8.8	3356
+net_integra	7385	ar13.lsvlnv23.integra.net:cisco	Las_Vegas_NV_US	8.8.8.8	3356
+net_integra	7385	ar13.mplsmncd.integra.net:cisco	Minneapolis_MN_US	8.8.8.8	3356
+net_integra	7385	br02.nycmny83.integra.net:cisco	New_York_NY_US	8.8.8.8	3356
+net_integra	7385	ar13.phnzaz87.integra.net:cisco	Phoenix_AZ_US	8.8.8.8	3356
+net_integra	7385	ar13.ptldorfj.integra.net:cisco	Portland_OR_US	8.8.8.8	3356
+net_integra	7385	ar13.rcrdcauu.integra.net:cisco	Rancho_Cordova_CA_US	8.8.8.8	3356
+net_integra	7385	ar13.renonvmp.integra.net:cisco	Reno_NV_US	8.8.8.8	3356
+net_integra	7385	ar13.slkcutxd.integra.net:cisco	Salt_Lake_City_UT_US	8.8.8.8	3356
+net_integra	7385	ar13.sntdcabl.integra.net:cisco	Santa_Clara_CA_US	8.8.8.8	3356
+net_integra	7385	br02.sttlwawb.integra.net:cisco	Seattle_WA_US	8.8.8.8	3356
+net_integra	7385	br02.plalca01.integra.net:cisco	Palo_Alto_CA_US	8.8.8.8	3356
+net_integra	7385	br02.snjucacl.integra.net:cisco	San_Jose_CA_US	8.8.8.8	3356
+com_towardex	27552	rtr1	Guest_Station_Boston_MA_US	8.8.8.8	3356
+com_towardex	27552	1 Summer Street, Boston, MA (BST01)	1_Summer_Street_Boston_MA_US	8.8.8.8	3356
+com_hostvirtual	36236	nikhef-amsterdam-vps	Amsterdam_NL	8.8.8.8	3356
+com_hostvirtual	36236	bucharest	Bucharest_RO	8.8.8.8	3356
+com_hostvirtual	36236	vps-hosting-india	Chennai_Madras_India	8.8.8.8	3356
+com_hostvirtual	36236	chicago	Chicago_IL_US	8.8.8.8	3356
+com_hostvirtual	36236	dallas	Dallas_TX_US	8.8.8.8	3356
+com_hostvirtual	36236	denver	Denver_CO_US	8.8.8.8	3356
+com_hostvirtual	36236	frankfurt	Frankfurt_DE	8.8.8.8	3356
+com_hostvirtual	36236	hong-kong-vps	Hong_Kong_HK	8.8.8.8	3356
+com_hostvirtual	36236	uk-vps	London_United_Kingdom	8.8.8.8	3356
+com_hostvirtual	36236	los-angeles	Los_Angeles_CA_US	8.8.8.8	3356
+com_hostvirtual	36236	ddos-protected-cloud	Los_Angeles_US_DDoS_Protected	8.8.8.8	3356
+com_hostvirtual	36236	miami	Miami_FL_US	8.8.8.8	3356
+com_hostvirtual	36236	new-york	New_York_NY_US	8.8.8.8	3356
+com_hostvirtual	36236	france-vps	Paris_FR	8.8.8.8	3356
+com_hostvirtual	36236	reston-virginia	Reston_VA_US	8.8.8.8	3356
+com_hostvirtual	36236	san-jose	San_Jose_CA_US	8.8.8.8	3356
+com_hostvirtual	36236	saopaulo	Sao_Paulo_Brazil	8.8.8.8	3356
+com_hostvirtual	36236	seattle	Seattle_WA_US	8.8.8.8	3356
+com_hostvirtual	36236	singapore	Singapore_SG	8.8.8.8	3356
+com_hostvirtual	36236	sydney-australia	Sydney_AU	8.8.8.8	3356
+com_hostvirtual	36236	toronto	Toronto_CA	8.8.8.8	3356
+com_virtutel	24516	Melbourne	Melbourne_AU	8.8.8.8	3356
+com_virtutel	24516	Sydney	Sydney_AU	8.8.8.8	3356
+com_virtutel	24516	Brisbane	Brisbane_AU	8.8.8.8	3356
+com_virtutel	24516	Adelaide	Adelaide_AU	8.8.8.8	3356
+com_virtutel	24516	Perth	Perth_AU	8.8.8.8	3356
+com_virtutel	24516	Auckland, NZ	Auckland_NZ	8.8.8.8	3356
+com_virtutel	24516	Los Angeles, USA	Los_Angeles_US	8.8.8.8	3356
+com_virtutel	24516	Singapore	Singapore_SG	8.8.8.8	3356
+net_totiig	38040	tot-iig-bkk-kkm-02	Bangkok_TH	8.8.8.8	3356
+net_totiig	38040	tot-iig-hk	HongKong_HK	8.8.8.8	3356
+net_totiig	38040	Global Crossing	Phoenix_AZ_US	8.8.8.8	3356
+net_totiig	38040	Tinet	Frankfurt_DE	8.8.8.8	3356
+net_hwng	12989	R1.AM (Amsterdam NL)	R1.AM_Amsterdam_NL	8.8.8.8	3356
+net_hwng	12989	R2.AM (Amsterdam NL)	R2.AM_Amsterdam_NL	8.8.8.8	3356
+net_hwng	12989	R3.AM (Amsterdam NL)	R3.AM_Amsterdam_NL	8.8.8.8	3356
+net_hwng	12989	R4.AM (Amsterdam NL)	R4.AM_Amsterdam_NL	8.8.8.8	3356
+net_hwng	12989	BBR2.ASH1 (Ashburn, VA)	BBR2.ASH1_Ashburn_VA_US	8.8.8.8	3356
+net_hwng	12989	R1.DC (Ashburn VA)	R1.DC_Ashburn_VA_US	8.8.8.8	3356
+net_hwng	12989	R2.DC (Ashburn VA)	R2.DC_Ashburn_VA_US	8.8.8.8	3356
+net_hwng	12989	R3.DC (Ashburn VA)	R3.DC_Ashburn_VA_US	8.8.8.8	3356
+net_hwng	12989	R4.DC (Ashburn VA)	R4.DC_Ashburn_VA_US	8.8.8.8	3356
+net_hwng	12989	R1.AT (Atlanta GA)	R1.AT_Atlanta_GA_US	8.8.8.8	3356
+net_hwng	12989	R2.AT (Atlanta GA)	R2.AT_Atlanta_GA_US	8.8.8.8	3356
+net_hwng	12989	R1.BR (Brussels BE)	R1.BR_Brussels_BE	8.8.8.8	3356
+net_hwng	12989	R2.CH (Chicago IL)	R2.CH_Chicago_IL_US	8.8.8.8	3356
+net_hwng	12989	R1.DA (Dallas TX)	R1.DA_Dallas_TX_US	8.8.8.8	3356
+net_hwng	12989	R1.FR (Frankfurt DE)	R1.FR_Frankfurt_DE	8.8.8.8	3356
+net_hwng	12989	R2.FR (Frankfurt DE)	R2.FR_Frankfurt_DE	8.8.8.8	3356
+net_hwng	12989	R2.LA (Los Angeles CA)	R2.LA_Los_Angeles_CA_US	8.8.8.8	3356
+net_hwng	12989	R1.LO (London UK)	R1.LO_London_UK	8.8.8.8	3356
+net_hwng	12989	R2.LO (London UK)	R2.LO_London_UK	8.8.8.8	3356
+net_hwng	12989	R1.MA (Madrid, ES)	R1.MA_Madrid_ES	8.8.8.8	3356
+net_hwng	12989	BBR1.MIA1 (Miami, FL)	BBR1.MIA1_Miami_FL_US	8.8.8.8	3356
+net_hwng	12989	R1.MI (Miami FL)	R1.MI_Miami_FL_US	8.8.8.8	3356
+net_hwng	12989	R2.NY (New York NY)	R2.NY_New_York_NY_US	8.8.8.8	3356
+net_hwng	12989	R3.NY (New York NY)	R3.NY_New_York_NY_US	8.8.8.8	3356
+net_hwng	12989	R1.PA (Paris FR)	R1.PA_Paris_FR	8.8.8.8	3356
+net_hwng	12989	R3.PH (Phoenix AZ)	R3.PH_Phoenix_AZ_US	8.8.8.8	3356
+net_hwng	12989	R1.RJ (Rio de Janeiro BR)	R1.RJ_Rio_de_Janeiro_BR	8.8.8.8	3356
+net_hwng	12989	R1.SJ (San Jose CA)	R1.SJ_San_Jose_CA_US	8.8.8.8	3356
+net_hwng	12989	R2.SE (Seattle, WA)	R2.SE_Seattle_WA_US	8.8.8.8	3356
+net_hwng	12989	R1.SP (Sao Paulo BR)	R1.SP_Sao_Paulo_BR	8.8.8.8	3356
+net_hwng	12989	R2.SP (Sao Paulo BR)	R2.SP_Sao_Paulo_BR	8.8.8.8	3356
+net_hwng	12989	R1.SI (Singapore, SG)	R1.SI_Singapore_SG	8.8.8.8	3356
+net_hwng	12989	R1.SL (Seoul, KR)	R1.SL_Seoul_KR	8.8.8.8	3356
+net_hwng	12989	R1.SK (Stockholm, SE)	R1.SK_Stockholm_SE	8.8.8.8	3356
+net_hwng	12989	R1.SY (Sydney, AU)	R1.SY_Sydney_AU	8.8.8.8	3356
+net_hwng	12989	R1.TK (Tokyo, JP)	R1.TK_Tokyo_JP	8.8.8.8	3356
+net_bboi	19151	ATL	ATL_Atlanta_GA_US	8.8.8.8	3356
+net_bboi	19151	AMS	AMS_Amsterdam_Netherlands	8.8.8.8	3356
+net_bboi	19151	ASH	ASH_Ashburn_VA_US	8.8.8.8	3356
+net_bboi	19151	BOC	BOC_Boca_Raton_FL_US	8.8.8.8	3356
+net_bboi	19151	CHI	CHI_Chicago_IL_US	8.8.8.8	3356
+net_bboi	19151	COL	COL_Columbus_OH_US	8.8.8.8	3356
+net_bboi	19151	DAL	DAL_Dallas_TX_US	8.8.8.8	3356
+net_bboi	19151	IND	IND_Indianapolis_IN_US	8.8.8.8	3356
+net_bboi	19151	LA2	LA2_Los_Angeles_CA_US_Equinix	8.8.8.8	3356
+net_bboi	19151	LAX	LAX_Los_Angeles_CA_US	8.8.8.8	3356
+net_bboi	19151	LON	LON_London_England	8.8.8.8	3356
+net_bboi	19151	LVA	LVA_Las_Vegas_NV_US	8.8.8.8	3356
+net_bboi	19151	MAD	MAD_Madison_WI_US	8.8.8.8	3356
+net_bboi	19151	MIA	MIA_Miami_FL_US	8.8.8.8	3356
+net_bboi	19151	NJ	NJ_Newark_NJ_US	8.8.8.8	3356
+net_bboi	19151	NSH	NSH_Nashville_TN_US	8.8.8.8	3356
+net_bboi	19151	NYC	NYC_New_York_NY_US_60_Hudson	8.8.8.8	3356
+net_bboi	19151	NYC111	NYC111_New_York_NY_US_111_8th	8.8.8.8	3356
+net_bboi	19151	PAO	PAO_Palo_Alto_CA_US	8.8.8.8	3356
+net_bboi	19151	PHX	PHX_Phoenix_AZ_US	8.8.8.8	3356
+net_bboi	19151	PIT	PIT_Pittsburgh_PA_US	8.8.8.8	3356
+net_bboi	19151	SEA	SEA_Seattle_WA_US	8.8.8.8	3356
+net_bboi	19151	SJC	SJC_San_Jose_CA_US	8.8.8.8	3356
+net_eurorings	286	Amsterdam (NL)	Amsterdam_NL	8.8.8.8	3356
+net_eurorings	286	Barleben (DE)	Barleben_DE	8.8.8.8	3356
+net_eurorings	286	Brussels (BE)	Brussels_BE	8.8.8.8	3356
+net_eurorings	286	Frankfurt (DE)	Frankfurt_DE	8.8.8.8	3356
+net_eurorings	286	Geneve (CH)	Geneve_CH	8.8.8.8	3356
+net_eurorings	286	Hamburg (DE)	Hamburg_DE	8.8.8.8	3356
+net_eurorings	286	Helsinki (FI)	Helsinki_FI	8.8.8.8	3356
+net_eurorings	286	Istanbul (TR)	Istanbul_TR	8.8.8.8	3356
+net_eurorings	286	Copenhagen (DK)	Copenhagen_DK	8.8.8.8	3356
+net_eurorings	286	London (UK)	London_UK	8.8.8.8	3356
+net_eurorings	286	Madrid (ES)	Madrid_ES	8.8.8.8	3356
+net_eurorings	286	Manchester (UK)	Manchester_UK	8.8.8.8	3356
+net_eurorings	286	Munich (DE)	Munich_DE	8.8.8.8	3356
+net_eurorings	286	Milan (IT)	Milan_IT	8.8.8.8	3356
+net_eurorings	286	Oslo (NO)	Oslo_NO	8.8.8.8	3356
+net_eurorings	286	Paris (FR)	Paris_FR	8.8.8.8	3356
+net_eurorings	286	Prague (CZ)	Prague_CZ	8.8.8.8	3356
+net_eurorings	286	Vienna (AT)	Vienna_AT	8.8.8.8	3356
+net_eurorings	286	Warsaw (PL)	Warsaw_PL	8.8.8.8	3356
+net_eurorings	286	Ashburn (US)	Ashburn_US	8.8.8.8	3356
+net_eurorings	286	Chicago (US)	Chicago_US	8.8.8.8	3356
+net_eurorings	286	Dallas (US)	Dallas_US	8.8.8.8	3356
+net_eurorings	286	Los Angeles (US)	Los_Angeles_US	8.8.8.8	3356
+net_eurorings	286	Miami, Florida (US)	Miami_Florida_US	8.8.8.8	3356
+net_eurorings	286	New York (US)	New_York_US	8.8.8.8	3356
+net_eurorings	286	San Jose (US)	San_Jose_US	8.8.8.8	3356
+com_phyber	7012	none	El_Segundo_CA_US	8.8.8.8	3356
+net_velia	29066	helios	Frankfurt_DE	8.8.8.8	3356
+com_pipe	24130	Sydney IX (AS18398)	IX_Sydney_AU	8.8.8.8	3356
+com_pipe	24130	Brisbane Transit (AS24130)	Transit_Brisbane_AU	8.8.8.8	3356
+com_pipe	24130	Sydney Transit (AS24130)	Transit_Sydney_AU	8.8.8.8	3356
+com_pipe	24130	Melbourne Transit (AS24130)	Transit_Melbourne_AU	8.8.8.8	3356
+com_pipe	24130	Adelaide Transit (AS24130)	Transit_Adelaide_AU	8.8.8.8	3356
+com_pipe	24130	Brisbane IX (AS9722)	IX_Brisbane_AU	8.8.8.8	3356
+com_pipe	24130	Melbourne IX (AS23745)	IX_Melbourne_AU	8.8.8.8	3356
+com_pipe	24130	Adelaide IX (AS17999)	IX_Adelaide_AU	8.8.8.8	3356
+com_pipe	24130	Hobart IX (AS23741)	IX_Hobart_AU	8.8.8.8	3356
+com_pipe	24130	Brisbane IX Backup (AS9722)	IX_Brisbane_AU_Backup	8.8.8.8	3356
+com_pipe	24130	Sydney IX Backup (AS18398)	IX_Sydney_AU_Backup	8.8.8.8	3356
+com_pipe	24130	Melbourne IX Backup (AS23745)	IX_Melbourne_AU_Backup	8.8.8.8	3356
+com_pipe	24130	Adelaide IX Backup (AS17999)	IX_Adelaide_AU_Backup	8.8.8.8	3356
+com_pipe	24130	Hobart IX Backup (AS23741)	IX_Hobart_AU_Backup	8.8.8.8	3356
+net_tata	6453	gin-ad1-tcore1	NL_Amsterdam_AD1	8.8.8.8	3356
+net_tata	6453	gin-n71-core1	AE_Fujairah_N71	8.8.8.8	3356
+net_tata	6453	gin-1mh-core1	AU_Sydney_1MH	8.8.8.8	3356
+net_tata	6453	gin-m3h-core2	AU_Sydney_M3H	8.8.8.8	3356
+net_tata	6453	gin-b1d-thar1	BE_Brussels_B1D	8.8.8.8	3356
+net_tata	6453	gin-lau-core3	CA_Laurentides_LAU	8.8.8.8	3356
+net_tata	6453	gin-lcn-core3	CA_Lake_Cowichan_LCN	8.8.8.8	3356
+net_tata	6453	gin-mtt-tcore1	CA_Montreal_MTT	8.8.8.8	3356
+net_tata	6453	gin-tnk-tcore1	CA_Toronto_TNK	8.8.8.8	3356
+net_tata	6453	gin-ttt-mcore3	CA_Toronto_TTT	8.8.8.8	3356
+net_tata	6453	gin-vcw-core3	CA_Vancouver_VCW	8.8.8.8	3356
+net_tata	6453	gin-w6c-tcore1	CA_Montreal_W6C	8.8.8.8	3356
+net_tata	6453	gin-f2c-thar1	DE_Frankfurt_F2C	8.8.8.8	3356
+net_tata	6453	gin-fnm-tcore1	DE_Frankfurt_FNM	8.8.8.8	3356
+net_tata	6453	gin-fr0-tcore1	DE_Frankfurt_FR0	8.8.8.8	3356
+net_tata	6453	gin-fr1-thar1	DE_Frankfurt_FR1	8.8.8.8	3356
+net_tata	6453	gin-cyr-core1	EG_Cairo_CYR	8.8.8.8	3356
+net_tata	6453	gin-bjz-core1	ES_Barcelona_BJZ	8.8.8.8	3356
+net_tata	6453	gin-dvs-tcore1	ES_Bilbao_DVS	8.8.8.8	3356
+net_tata	6453	gin-mdo-har2	ES_Madrid_MDO	8.8.8.8	3356
+net_tata	6453	gin-mx2-har1	ES_Madrid_MX2	8.8.8.8	3356
+net_tata	6453	gin-wv6-core2	ES_Madrid_WV6	8.8.8.8	3356
+net_tata	6453	gin-pg1-tcore1	FR_Paris_PG1	8.8.8.8	3356
+net_tata	6453	gin-pv0-har1	FR_Paris_PV0	8.8.8.8	3356
+net_tata	6453	gin-pvu-tcore1	FR_Paris_PVU	8.8.8.8	3356
+net_tata	6453	gin-pye-core1	FR_Paris_PYE	8.8.8.8	3356
+net_tata	6453	gin-vi8-thar1	FR_Vitry-Sur-Seine_VI8	8.8.8.8	3356
+net_tata	6453	gin-wyn-core1	FR_Marseille_WYN	8.8.8.8	3356
+net_tata	6453	gin-hw1-thar1	GB_High_Wycombe_HW1	8.8.8.8	3356
+net_tata	6453	gin-l78-mcore3	GB_London_L78	8.8.8.8	3356
+net_tata	6453	gin-ld5-thar1	GB_Slough_LD5	8.8.8.8	3356
+net_tata	6453	gin-ldn-core4	GB_London_LDN	8.8.8.8	3356
+net_tata	6453	gin-lhx-core1	GB_London_LHX	8.8.8.8	3356
+net_tata	6453	gin-lrs-thar1	GB_London_LRS	8.8.8.8	3356
+net_tata	6453	gin-lrt-thar1	GB_London_LRT	8.8.8.8	3356
+net_tata	6453	gin-sv8-tcore1	GB_Highbridge_SV8	8.8.8.8	3356
+net_tata	6453	gin-pv4-core1	GU_Piti_PV4	8.8.8.8	3356
+net_tata	6453	gin-h71-core1	HK_Hong_Kong_H71	8.8.8.8	3356
+net_tata	6453	gin-h81-thar1	HK_Hong_Kong_H81	8.8.8.8	3356
+net_tata	6453	gin-hk2-core3	HK_Hong_Kong_HK2	8.8.8.8	3356
+net_tata	6453	gin-kth-core1	HK_Hong_Kong_KTH	8.8.8.8	3356
+net_tata	6453	gin-cfo-core1	IN_Chennai_CFO	8.8.8.8	3356
+net_tata	6453	gin-cov-core1	IN_Cochin_COV	8.8.8.8	3356
+net_tata	6453	gin-cxr-tcore1	IN_Chennai_CXR	8.8.8.8	3356
+net_tata	6453	gin-mlv-core2	IN_Mumbai_MLV	8.8.8.8	3356
+net_tata	6453	gin-mlt-core3	IT_Milan_MLT	8.8.8.8	3356
+net_tata	6453	gin-rct-thar1	IT_Rome_RCT	8.8.8.8	3356
+net_tata	6453	gin-wi3-thar1	IT_Milan_WI3	8.8.8.8	3356
+net_tata	6453	gin-e14-thar1	JP_Osaka_E14	8.8.8.8	3356
+net_tata	6453	gin-tv2-core1	JP_Tokyo_TV2	8.8.8.8	3356
+net_tata	6453	gin-2n1-core1	KE_Nairobi_2N1	8.8.8.8	3356
+net_tata	6453	gin-av2-tcore1	NL_Amsterdam_AV2	8.8.8.8	3356
+net_tata	6453	gin-avu-thar1	NL_Amsterdam_AVU	8.8.8.8	3356
+net_tata	6453	gin-hnn-thar1	NL_Amsterdam_HNN	8.8.8.8	3356
+net_tata	6453	gin-os1-core2	NO_Oslo_OS1	8.8.8.8	3356
+net_tata	6453	gin-qby-core1	PH_Manila_QBY	8.8.8.8	3356
+net_tata	6453	gin-w1t-thar1	PL_Warsaw_W1T	8.8.8.8	3356
+net_tata	6453	gin-pv9-core2	PT_Lisbon_PV9	8.8.8.8	3356
+net_tata	6453	gin-sz5-core1	PT_Seixal_SZ5	8.8.8.8	3356
+net_tata	6453	gin-jsd-core1	SA_Jeddah_JSD	8.8.8.8	3356
+net_tata	6453	gin-rsd-core2	SA_Riyadh_RSD	8.8.8.8	3356
+net_tata	6453	gin-stk-har1	SE_Stockholm_STK	8.8.8.8	3356
+net_tata	6453	gin-40b-thar1	SG_Singapore_40B	8.8.8.8	3356
+net_tata	6453	gin-ih4-core1	SG_Singapore_IH4	8.8.8.8	3356
+net_tata	6453	gin-svq-tcore1	SG_Singapore_SVQ	8.8.8.8	3356
+net_tata	6453	gin-svw-tcore1	SG_Singapore_SVW	8.8.8.8	3356
+net_tata	6453	gin-w42-thar1	SG_Singapore_W42	8.8.8.8	3356
+net_tata	6453	gin-bk7-core1	TH_Bangkok_BK7	8.8.8.8	3356
+net_tata	6453	gin-it5-tcore1	TR_Istanbul_IT5	8.8.8.8	3356
+net_tata	6453	gin-it6-tcore1	TR_Ankara_IT6	8.8.8.8	3356
+net_tata	6453	gin-41b-core1	TZ_Dar_Es_Salaam_41B	8.8.8.8	3356
+net_tata	6453	gin-00s-core1	US_Seattle_00S	8.8.8.8	3356
+net_tata	6453	gin-a56-har1	US_Atlanta_A56	8.8.8.8	3356
+net_tata	6453	gin-aeq-tcore1	US_Ashburn_AEQ	8.8.8.8	3356
+net_tata	6453	gin-ct8-core1	US_Chicago_CT8	8.8.8.8	3356
+net_tata	6453	gin-ddv-core1	US_Denver_DDV	8.8.8.8	3356
+net_tata	6453	gin-dt8-tcore1	US_Dallas_DT8	8.8.8.8	3356
+net_tata	6453	gin-dtx-core1	US_Dallas_DTX	8.8.8.8	3356
+net_tata	6453	gin-eql-tcore1	US_Los_Angeles_EQL	8.8.8.8	3356
+net_tata	6453	gin-laa-mcore3	US_Los_Angeles_LAA	8.8.8.8	3356
+net_tata	6453	gin-lvw-tcore1	US_Los_Angeles_LVW	8.8.8.8	3356
+net_tata	6453	gin-mln-core5	US_Miami_MLN	8.8.8.8	3356
+net_tata	6453	gin-n0v-thar1	US_New_York_N0V	8.8.8.8	3356
+net_tata	6453	gin-n75-tcore1	US_New_York_N75	8.8.8.8	3356
+net_tata	6453	gin-njy-thar1	US_Newark_NJY	8.8.8.8	3356
+net_tata	6453	gin-nto-tcore1	US_New_York_NTO	8.8.8.8	3356
+net_tata	6453	gin-nw8-tcore1	US_New_York_NW8	8.8.8.8	3356
+net_tata	6453	gin-nyy-mcore4	US_New_York_NYY	8.8.8.8	3356
+net_tata	6453	gin-pdi-mcore4	US_Palo_Alto_PDI	8.8.8.8	3356
+net_tata	6453	gin-sqn-tcore1	US_San_Jose_SQN	8.8.8.8	3356
+net_tata	6453	gin-jso-tcore1	ZA_Johannesburg_JSO	8.8.8.8	3356
+net_tata	6453	gin-klt-tcore1	ZA_Cape_Town_KLT	8.8.8.8	3356
+net_tac	852	TELUS_WEST	Burnaby_British_Columbia_CA	8.8.8.8	3356
+net_tac	852	TELUS_EAST	Rimouski_Quebec_CA	8.8.8.8	3356
+edu_aarnet	7575	none	Sydney_AU	8.8.8.8	3356
+net_telia	1299	Atlanta	Atlanta_GA_US	8.8.8.8	3356
+net_telia	1299	Amsterdam	Amsterdam_NL	8.8.8.8	3356
+net_telia	1299	Barcelona	Barcelona_ES	8.8.8.8	3356
+net_telia	1299	Berlin	Berlin_DE	8.8.8.8	3356
+net_telia	1299	Hong Kong	Hong_Kong_HK	8.8.8.8	3356
+net_telia	1299	Singapore	Singapore_SG	8.8.8.8	3356
+net_telia	1299	Bratislava	Bratislava_SVK	8.8.8.8	3356
+net_telia	1299	Brussels	Brussels_BE	8.8.8.8	3356
+net_telia	1299	Bucharest	Bucharest_RO	8.8.8.8	3356
+net_telia	1299	Budapest	Budapest_HU	8.8.8.8	3356
+net_telia	1299	Cologne	Cologne_DE	8.8.8.8	3356
+net_telia	1299	Copenhagen	Copenhagen_DK	8.8.8.8	3356
+net_telia	1299	Dublin	Dublin_IE	8.8.8.8	3356
+net_telia	1299	Dusseldorf	Dusseldorf_DE	8.8.8.8	3356
+net_telia	1299	Frankfurt	Frankfurt_DE	8.8.8.8	3356
+net_telia	1299	Hamburg	Hamburg_DE	8.8.8.8	3356
+net_telia	1299	Helsinki	Helsinki_FIN	8.8.8.8	3356
+net_telia	1299	Kiev	Kiev_UKR	8.8.8.8	3356
+net_telia	1299	London	London_UK	8.8.8.8	3356
+net_telia	1299	Madrid	Madrid_ES	8.8.8.8	3356
+net_telia	1299	Marseille	Marseille_FR	8.8.8.8	3356
+net_telia	1299	Milan	Milan_IT	8.8.8.8	3356
+net_telia	1299	Moscow	Moscow_RU	8.8.8.8	3356
+net_telia	1299	Munich	Munich_DE	8.8.8.8	3356
+net_telia	1299	Oslo	Oslo_NOR	8.8.8.8	3356
+net_telia	1299	Paris	Paris_FR	8.8.8.8	3356
+net_telia	1299	Poznan	Poznan_PL	8.8.8.8	3356
+net_telia	1299	Prague	Prague_CZ	8.8.8.8	3356
+net_telia	1299	Riga	Riga_LVA	8.8.8.8	3356
+net_telia	1299	Sofia	Sofia_BG	8.8.8.8	3356
+net_telia	1299	Stockholm	Stockholm_SE_1	8.8.8.8	3356
+net_telia	1299	St.-Petersburg	St_Petersburg_RU	8.8.8.8	3356
+net_telia	1299	Tallinn	Tallinn_EST	8.8.8.8	3356
+net_telia	1299	Valencia	Valencia_ES	8.8.8.8	3356
+net_telia	1299	Vienna	Vienna_AT	8.8.8.8	3356
+net_telia	1299	Warsaw	Warsaw_PL	8.8.8.8	3356
+net_telia	1299	Zurich	Zurich_CH	8.8.8.8	3356
+net_telia	1299	Doha	Doha_QAT	8.8.8.8	3356
+net_telia	1299	Dubai	Dubai_UAE	8.8.8.8	3356
+net_telia	1299	Muscat	Muscat_OMN	8.8.8.8	3356
+net_telia	1299	Ashburn	Ashburn_VA_US	8.8.8.8	3356
+net_telia	1299	Boston	Boston_MA_US	8.8.8.8	3356
+net_telia	1299	Buffalo	Buffalo_NY_US	8.8.8.8	3356
+net_telia	1299	Charlotte	Charlotte_NC_US	8.8.8.8	3356
+net_telia	1299	Chicago	Chicago_IL_US	8.8.8.8	3356
+net_telia	1299	Cleveland	Cleveland_OH_US	8.8.8.8	3356
+net_telia	1299	Dallas	Dallas_TX_US	8.8.8.8	3356
+net_telia	1299	Denver	Denver_CO_US	8.8.8.8	3356
+net_telia	1299	Kansas City	Kansas_City_MO_US	8.8.8.8	3356
+net_telia	1299	Los Angeles	Los_Angeles_CA_US	8.8.8.8	3356
+net_telia	1299	McAllen	McAllen_TX_US	8.8.8.8	3356
+net_telia	1299	Miami	Miami_FL_US	8.8.8.8	3356
+net_telia	1299	Nashville	Nashville_TN_US	8.8.8.8	3356
+net_telia	1299	New York	New_York_NY_US	8.8.8.8	3356
+net_telia	1299	Palo Alto	Palo_Alto_CA_US	8.8.8.8	3356
+net_telia	1299	Phoenix	Phoenix_AZ_US	8.8.8.8	3356
+net_telia	1299	San Jose	San_Jose_CA_US	8.8.8.8	3356
+net_telia	1299	Seattle	Seattle_WA_US	8.8.8.8	3356
+net_telia	1299	Toronto	Toronto_ON_CA	8.8.8.8	3356
+net_telia	1299	Stockholm-3301	Stockholm_SE_2	8.8.8.8	3356
+net_telia	1299	Malmo	Malmo_SE	8.8.8.8	3356
+net_telia	1299	GRX segment	Stockholm_SE_3	8.8.8.8	3356
+net_atlmetro	32903	none	Parsippany_NJ_US	8.8.8.8	3356
+net_appliedops	40475	none	San_Francisco_CA_US	8.8.8.8	3356
+net_clearfly	27400	none	Billings_MT_US	8.8.8.8	3356
+net_asdasd	28929	london	London_UK	8.8.8.8	3356
+net_asdasd	28929	mi-caldera-ix	Milan_IT	8.8.8.8	3356
+net_asdasd	28929	flr-tix	Florence_IT	8.8.8.8	3356
+net_asdasd	28929	marghera-core	Marghera_Venice_IT	8.8.8.8	3356
+net_asdasd	28929	pd-core	Padua_IT	8.8.8.8	3356
+net_asdasd	28929	tn-core	Trento_IT	8.8.8.8	3356
+net_asdasd	28929	ash	Ashburn_VA_US	8.8.8.8	3356
+net_asdasd	28929	lax	Los_Angeles_CA_US	8.8.8.8	3356
+net_asdasd	28929	bras-tv-01	Povegliano_Treviso_IT_1	8.8.8.8	3356
+net_asdasd	28929	bras-pd-04	Padova_IT	8.8.8.8	3356
+net_asdasd	28929	bras-bl-05	Belluno_IT	8.8.8.8	3356
+net_asdasd	28929	bras-tv-06	Povegliano_Treviso_IT_2	8.8.8.8	3356
+net_asdasd	28929	bras-ve-07	Venice_IT	8.8.8.8	3356
+net_asdasd	28929	vsix	VSIX_Padua_IT	8.8.8.8	3356
+net_asdasd	28929	tinet	Frankfurt_DE	8.8.8.8	3356
+net_asdasd	28929	gblx	Caracas_Venezuela	8.8.8.8	3356
+net_ntt	2914	Amsterdam - NL	Amsterdam_NL	8.8.8.8	3356
+net_ntt	2914	Ashburn, VA - US	Ashburn_VA_US	8.8.8.8	3356
+net_ntt	2914	Atlanta, GA - US	Atlanta_GA_US	8.8.8.8	3356
+net_ntt	2914	Boston, MA - US	Boston_MA_US	8.8.8.8	3356
+net_ntt	2914	Chicago, IL - US	Chicago_IL_US	8.8.8.8	3356
+net_ntt	2914	Dallas, TX - US	Dallas_TX_US	8.8.8.8	3356
+net_ntt	2914	Houston, TX - US	Houston_TX_US	8.8.8.8	3356
+net_ntt	2914	Los Angeles, CA - US	Los_Angeles_CA_US	8.8.8.8	3356
+net_ntt	2914	Miami, FL - US	Miami_FL_US	8.8.8.8	3356
+net_ntt	2914	Milpitas, CA - US	Milpitas_CA_US	8.8.8.8	3356
+net_ntt	2914	New York, NY - US	New_York_NY_US	8.8.8.8	3356
+net_ntt	2914	Palo Alto, CA - US	Palo_Alto_CA_US	8.8.8.8	3356
+net_ntt	2914	Sacramento, CA - US	Sacramento_CA_US	8.8.8.8	3356
+net_ntt	2914	San Jose, CA - US	San_Jose_CA_US	8.8.8.8	3356
+net_ntt	2914	Seattle, WA - US	Seattle_WA_US	8.8.8.8	3356
+net_ntt	2914	Sterling, VA - US	Sterling_VA_US	8.8.8.8	3356
+net_ntt	2914	Bangkok - TH	Bangkok_TH	8.8.8.8	3356
+net_ntt	2914	Brunei Darussalam - BN	Brunei_Darussalam_BN	8.8.8.8	3356
+net_ntt	2914	Hong Kong - HK	Hong_Kong_HK	8.8.8.8	3356
+net_ntt	2914	Jakarta - ID	Jakarta_ID	8.8.8.8	3356
+net_ntt	2914	Kuala Lumpur - MY	Kuala_Lumpur_MY	8.8.8.8	3356
+net_ntt	2914	Osaka - JP	Osaka_JP	8.8.8.8	3356
+net_ntt	2914	Seoul - KR	Seoul_KR	8.8.8.8	3356
+net_ntt	2914	Singapore - SG	Singapore_SG	8.8.8.8	3356
+net_ntt	2914	Taipei - TW	Taipei_TW	8.8.8.8	3356
+net_ntt	2914	Tokyo - JP	Tokyo_JP	8.8.8.8	3356
+net_ntt	2914	Barcelona - ES	Barcelona_ES	8.8.8.8	3356
+net_ntt	2914	Brussels - BE	Brussels_BE	8.8.8.8	3356
+net_ntt	2914	Bucharest - RO	Bucharest_RO	8.8.8.8	3356
+net_ntt	2914	Budapest - HU	Budapest_HU	8.8.8.8	3356
+net_ntt	2914	Düsseldorf - DE	Düsseldorf_DE	8.8.8.8	3356
+net_ntt	2914	Frankfurt - DE	Frankfurt_DE	8.8.8.8	3356
+net_ntt	2914	London - GB	London_GB	8.8.8.8	3356
+net_ntt	2914	Luxembourg City - LU	Luxembourg_City_LU	8.8.8.8	3356
+net_ntt	2914	Madrid - ES	Madrid_ES	8.8.8.8	3356
+net_ntt	2914	Milan - IT	Milan_IT	8.8.8.8	3356
+net_ntt	2914	Munich - DE	Munich_DE	8.8.8.8	3356
+net_ntt	2914	Paris - FR	Paris_FR	8.8.8.8	3356
+net_ntt	2914	Sofia - BU	Sofia_BU	8.8.8.8	3356
+net_ntt	2914	Stockholm - SE	Stockholm_SE	8.8.8.8	3356
+net_ntt	2914	Valencia - ES	Valencia_ES	8.8.8.8	3356
+net_ntt	2914	Vienna - AT	Vienna_AT	8.8.8.8	3356
+net_ntt	2914	Warsaw - PL	Warsaw_PL	8.8.8.8	3356
+net_ntt	2914	São Paulo - BR	Sao_Paulo_BR	8.8.8.8	3356
+net_ntt	2914	Sydney - AU	Sydney_AU	8.8.8.8	3356
+net_iptp	41095	IPTP Amsterdam TC1	IPTP_Amsterdam_TC1	8.8.8.8	3356
+net_iptp	41095	IPTP Amsterdam NIKHEF	IPTP_Amsterdam_NIKHEF	8.8.8.8	3356
+net_iptp	41095	IPTP Ashburn Equinix	IPTP_Ashburn_Equinix	8.8.8.8	3356
+net_iptp	41095	IPTP Atlanta Telx	IPTP_Atlanta_Telx	8.8.8.8	3356
+net_iptp	41095	IPTP Chicago Equinix	IPTP_Chicago_Equinix	8.8.8.8	3356
+net_iptp	41095	IPTP Dallas Equinix	IPTP_Dallas_Equinix	8.8.8.8	3356
+net_iptp	41095	IPTP Denver Coresite	IPTP_Denver_Coresite	8.8.8.8	3356
+net_iptp	41095	IPTP Frankfurt Ancotel	IPTP_Frankfurt_Ancotel	8.8.8.8	3356
+net_iptp	41095	IPTP Hong Kong Equinix	IPTP_Hong_Kong_Equinix	8.8.8.8	3356
+net_iptp	41095	IPTP Hong Kong Mega-i	IPTP_Hong_Kong_Mega-i	8.8.8.8	3356
+net_iptp	41095	IPTP Singapore SG1	IPTP_Singapore_SG1	8.8.8.8	3356
+net_iptp	41095	IPTP Kiev NewTelco	IPTP_Kiev_NewTelco	8.8.8.8	3356
+net_iptp	41095	IPTP Limassol, Cyprus	IPTP_Limassol_Cyprus	8.8.8.8	3356
+net_iptp	41095	IPTP London LD5	IPTP_London_LD5	8.8.8.8	3356
+net_iptp	41095	IPTP London TC2	IPTP_London_TC2	8.8.8.8	3356
+net_iptp	41095	IPTP London THN	IPTP_London_THN	8.8.8.8	3356
+net_iptp	41095	IPTP Los Angeles Equinix	IPTP_Los_Angeles_Equinix	8.8.8.8	3356
+net_iptp	41095	IPTP Los Angeles CoreSite	IPTP_Los_Angeles_CoreSite	8.8.8.8	3356
+net_iptp	41095	IPTP Madrid ESpanix	IPTP_Madrid_ESpanix	8.8.8.8	3356
+net_iptp	41095	IPTP Miami Terremark	IPTP_Miami_Terremark	8.8.8.8	3356
+net_iptp	41095	IPTP Moscow M1	IPTP_Moscow_M1	8.8.8.8	3356
+net_iptp	41095	IPTP Moscow M9	IPTP_Moscow_M9	8.8.8.8	3356
+net_iptp	41095	IPTP New York 111 8th	IPTP_New_York_111_8th	8.8.8.8	3356
+net_iptp	41095	IPTP Nicosia, Cyprus	IPTP_Nicosia_Cyprus	8.8.8.8	3356
+net_iptp	41095	IPTP Paris TH2	IPTP_Paris_TH2	8.8.8.8	3356
+net_iptp	41095	IPTP Seattle Westin Building	IPTP_Seattle_Westin_Building	8.8.8.8	3356
+net_iptp	41095	IPTP Tokyo Equinix TY2	IPTP_Tokyo_Equinix_TY2	8.8.8.8	3356
+net_iptp	41095	IPTP Toronto Equinix	IPTP_Toronto_Equinix	8.8.8.8	3356
+net_iptp	41095	IPTP Zurich InterXion	IPTP_Zurich_InterXion	8.8.8.8	3356
+net_trit	40193	none	Los_Angeles_CA_US	8.8.8.8	3356
+net_fdc	30058	http://lg.ams-c.fdcservers.net	Amsterdam_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.ams-z.fdcservers.net	Amsterdam_Zayo	8.8.8.8	3356
+net_fdc	30058	http://lg.chi2-c.fdcservers.net	Chicago_Enterprise_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.chi2-z.fdcservers.net	Chicago_Enterprise_Zayo	8.8.8.8	3356
+net_fdc	30058	http://lg.chi-c.fdcservers.net	Chicago_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.chi-z.fdcservers.net	Chicago_Zayo	8.8.8.8	3356
+net_fdc	30058	http://lg.den2-c.fdcservers.net	Denver_Enterprise_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.den-c.fdcservers.net	Denver_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.den-z.fdcservers.net	Denver_Zayo	8.8.8.8	3356
+net_fdc	30058	http://lg.fra-c.fdcservers.net	Frankfurt_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.fra-z.fdcservers.net	Frankfurt_Zayo	8.8.8.8	3356
+net_fdc	30058	http://lg.lon-c.fdcservers.net	London	8.8.8.8	3356
+net_fdc	30058	http://lg.la-c.fdcservers.net	Los_Angeles_1_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.la-z.fdcservers.net	Los_Angeles_1_Zayo	8.8.8.8	3356
+net_fdc	30058	http://lg.la2-c.fdcservers.net	Los_Angeles_2_Cogent	8.8.8.8	3356
+net_fdc	30058	http://lg.mia-c.fdcservers.net	Miami	8.8.8.8	3356
+net_fdc	30058	http://lg.ny-z.fdcservers.net	New_York	8.8.8.8	3356
+net_fdc	30058	http://lg.par-c.fdcservers.net	Paris	8.8.8.8	3356
+net_fdc	30058	http://lg.sea-z.fdcservers.net	Seattle	8.8.8.8	3356
+net_fdc	30058	http://lg.vie-c.fdcservers.net	Vienna	8.8.8.8	3356
+net_fdc	30058	http://lg.zlin-z.fdcservers.net	Zlin	8.8.8.8	3356
+net_nlayer	4436	AMS2	Amsterdam_NL_AMS2	8.8.8.8	3356
+net_nlayer	4436	IAD1	Ashburn_VA_US_IAD1	8.8.8.8	3356
+net_nlayer	4436	ATL1	Atlanta_GA_US_ATL1	8.8.8.8	3356
+net_nlayer	4436	ORD1	Chicago_IL_US_ORD1	8.8.8.8	3356
+net_nlayer	4436	ORD7	Chicago_IL_US_ORD7	8.8.8.8	3356
+net_nlayer	4436	DFW1	Dallas_TX_US_DFW1	8.8.8.8	3356
+net_nlayer	4436	IAH1	Houston_TX_US_IAH1	8.8.8.8	3356
+net_nlayer	4436	LAX1	Los_Angeles_CA_US_LAX1	8.8.8.8	3356
+net_nlayer	4436	LAX2	Los_Angeles_CA_US_LAX2	8.8.8.8	3356
+net_nlayer	4436	MIA1	Miami_FL_MIA1	8.8.8.8	3356
+net_nlayer	4436	MTL1	Montreal_QC_CA_MTL1	8.8.8.8	3356
+net_nlayer	4436	EWR1	Newark_NJ_US_EWR1	8.8.8.8	3356
+net_nlayer	4436	NYC2	New_York_NY_US_NYC2	8.8.8.8	3356
+net_nlayer	4436	NYC3	New_York_NY_US_NYC3	8.8.8.8	3356
+net_nlayer	4436	PAO1	Palo_Alto_CA_US_PAO1	8.8.8.8	3356
+net_nlayer	4436	PHL1	Philadelphia_PA_US_PHL1	8.8.8.8	3356
+net_nlayer	4436	SLC1	Salt_Lake_City_UT_US_SLC1	8.8.8.8	3356
+net_nlayer	4436	SFO1	San_Francisco_CA_US_SFO1	8.8.8.8	3356
+net_nlayer	4436	SJC1	San_Jose_CA_US_SJC1	8.8.8.8	3356
+net_nlayer	4436	SEA1	Seattle_WA_SEA1	8.8.8.8	3356
+net_nlayer	4436	TOR1	Toronto_ON_CA_TOR1	8.8.8.8	3356
+net_nlayer	4436	FRA1	Frankfurt_DE_FRA1	8.8.8.8	3356
+net_nlayer	4436	LHR1	London_UK_LHR1	8.8.8.8	3356
+net_nlayer	4436	LHR2	London_UK_LHR2	8.8.8.8	3356
+net_nlayer	4436	CDG1	Paris_FR_CDG1	8.8.8.8	3356
+net_sprint	1239	8NTwEWcQr4Vj	Amsterdam_Holland	8.8.8.8	3356
+net_sprint	1239	3hKdM5UuU5jt	Anaheim_CA	8.8.8.8	3356
+net_sprint	1239	ob6gPSiZ0BPx	Ashburn_VA	8.8.8.8	3356
+net_sprint	1239	xwDfnFtzEtLv	Atlanta_GA	8.8.8.8	3356
+net_sprint	1239	XkjNzWEFhvP6	Boston_MA	8.8.8.8	3356
+net_sprint	1239	MfBaDIGPTkmJ	Burbank_CA	8.8.8.8	3356
+net_sprint	1239	b4b1Y6RoN1ZJ	Cheyenne_WY	8.8.8.8	3356
+net_sprint	1239	YGJdo7dRtW8Q	Chicago_IL	8.8.8.8	3356
+net_sprint	1239	DC0Rvlsrzgjt	Dallas_TX	8.8.8.8	3356
+net_sprint	1239	SVOtKhp7DpRd	Denver_CO	8.8.8.8	3356
+net_sprint	1239	Hs1lRrxgR43t	Detroit_MI	8.8.8.8	3356
+net_sprint	1239	GVlanMxtdlup	Fairfax_SC	8.8.8.8	3356
+net_sprint	1239	7pIZhbqMhelA	Ft._Worth_TX	8.8.8.8	3356
+net_sprint	1239	IPySaEhYP2Oq	Harrison_NJ	8.8.8.8	3356
+net_sprint	1239	x1R6CyPrWXP0	Houston_TX	8.8.8.8	3356
+net_sprint	1239	iqDrVtinaols	Kansas_City_MO	8.8.8.8	3356
+net_sprint	1239	DFzyLB3Avsup	Lee_Summit_MO	8.8.8.8	3356
+net_sprint	1239	WloDfpUZmxtQ	Los_Angeles_CA	8.8.8.8	3356
+net_sprint	1239	pDRbeJIVO1UI	Manasquan_NJ	8.8.8.8	3356
+net_sprint	1239	HbLbpqJ2rL2y	Miami_FL	8.8.8.8	3356
+net_sprint	1239	VFMze7JHd3rs	Nashville_TN	8.8.8.8	3356
+net_sprint	1239	lLH6uaP5Hrm7	New_York_NY	8.8.8.8	3356
+net_sprint	1239	AYyGuj3ulp3y	North_Lenexa_KS	8.8.8.8	3356
+net_sprint	1239	2M2KVLrFZKNY	Omaha_NE	8.8.8.8	3356
+net_sprint	1239	QfwZjgEgQoul	Orlando_FL	8.8.8.8	3356
+net_sprint	1239	V1UpCtUZDh5E	Oroville_CA	8.8.8.8	3356
+net_sprint	1239	gRQWKVjSZm7A	Palo_Alto_CA	8.8.8.8	3356
+net_sprint	1239	3Jvfj1OdTDxm	Pearl_City_HI	8.8.8.8	3356
+net_sprint	1239	WS7KmgHZLqZz	Pennsauken_NJ	8.8.8.8	3356
+net_sprint	1239	jHxTzvo2hQmL	Philadelphia_PA	8.8.8.8	3356
+net_sprint	1239	cV3xr4qUHf4N	Phoenix_AZ	8.8.8.8	3356
+net_sprint	1239	uPfNB0yGYyYf	Pittsburgh_PA	8.8.8.8	3356
+net_sprint	1239	hrmhYB0zCWtL	Pueblo_Viejo_Puerto_Rico	8.8.8.8	3356
+net_sprint	1239	QbJLfqUg0yCK	Rancho_Cordova_CA	8.8.8.8	3356
+net_sprint	1239	jYhXJsC5JUav	Relay_MD	8.8.8.8	3356
+net_sprint	1239	wKYbe2kLQ1Tv	Reston_VA	8.8.8.8	3356
+net_sprint	1239	mqinHnWnPUvR	Rialto_CA	8.8.8.8	3356
+net_sprint	1239	YboPkqh8dDjy	Roachdale_IN	8.8.8.8	3356
+net_sprint	1239	aFIL61h5kF58	Saint_Paul_MN	8.8.8.8	3356
+net_sprint	1239	EKkoU0sjAvoa	San_Jose_CA	8.8.8.8	3356
+net_sprint	1239	vxqUbuJ3mTAO	Santa_Clara_CA	8.8.8.8	3356
+net_sprint	1239	8F0bGhzaIk5R	Seattle_WA	8.8.8.8	3356
+net_sprint	1239	ILkr2Tkw2egU	Secaucus_NJ	8.8.8.8	3356
+net_sprint	1239	FJRCnMmhFMbg	Springfield_MA	8.8.8.8	3356
+net_sprint	1239	jkZOW7h7NTqj	St._Louis_MO	8.8.8.8	3356
+net_sprint	1239	onMwmgPwsmS8	Stockton_CA	8.8.8.8	3356
+net_sprint	1239	UWihYn2lr0jr	Tacoma_WA	8.8.8.8	3356
+net_sprint	1239	EzdmZBqO3caF	Tuckerton_NJ	8.8.8.8	3356
+net_sprint	1239	zIwlrN352xhx	Washington_DC	8.8.8.8	3356
+net_sprint	1239	xT3tUd3MAal5	Calgary_Canada	8.8.8.8	3356
+net_sprint	1239	lMsC207gh87S	Montreal_Canada	8.8.8.8	3356
+net_sprint	1239	yxHbE7jIQxLZ	Toronto_Canada	8.8.8.8	3356
+net_sprint	1239	4LipX6k5RkI4	Vancouver_Canada	8.8.8.8	3356
+net_sprint	1239	2iSckqktK2XD	Brussels_Belgium	8.8.8.8	3356
+net_sprint	1239	6hIrFdYfJOR2	Copenhagen_Denmark	8.8.8.8	3356
+net_sprint	1239	5vaRg5dvgh5d	Dublin_Ireland	8.8.8.8	3356
+net_sprint	1239	BEeGnd7LZYuC	Frankfurt_Germany	8.8.8.8	3356
+net_sprint	1239	R1vxUIuwmsJI	Hamburg_Germany	8.8.8.8	3356
+net_sprint	1239	XhtBOdZn6tqh	London_Telecity_UK	8.8.8.8	3356
+net_sprint	1239	xKmboUt6mfHR	London_UK	8.8.8.8	3356
+net_sprint	1239	KU03SUqJBsmK	Milan_Italy	8.8.8.8	3356
+net_sprint	1239	SVjXwKSDOuOe	Oslo_Norway	8.8.8.8	3356
+net_sprint	1239	dMlY3NCZeQNZ	Paris_France	8.8.8.8	3356
+net_sprint	1239	VvM7ou1DlZgb	Stockholm_Telecity_Sweden	8.8.8.8	3356
+net_sprint	1239	287P07nz2aiD	Stockholm_Sweden	8.8.8.8	3356
+net_sprint	1239	YUEAsimQqCRB	Vienna_Austria	8.8.8.8	3356
+net_sprint	1239	NWwpoCDSyxq1	Zurich_Switzerland	8.8.8.8	3356
+net_sprint	1239	RCPuZAyqu8Ay	Hong_Kong_China	8.8.8.8	3356
+net_sprint	1239	SsuBX6kPJXUc	Kuala_Lumpur_Malaysia	8.8.8.8	3356
+net_sprint	1239	kWYOx7ns6Doa	Seoul_South_Korea	8.8.8.8	3356
+net_sprint	1239	UB6G3uLE8MAs	Singapore	8.8.8.8	3356
+net_sprint	1239	e4bhpCqHBTU4	Taipei_Taiwan	8.8.8.8	3356
+net_sprint	1239	XQOvrYw75wKU	Tokyo_Japan	8.8.8.8	3356
+net_sprint	1239	S4PjNjVh2CaV	Sydney_Australia	8.8.8.8	3356
+net_sprint	1239	yuJCdYqKtlMr	Caracas_Venezuela	8.8.8.8	3356
+net_sprint	1239	MFAvpxVQkYCP	Medellin_Colombia	8.8.8.8	3356
+net_sprint	1239	kFCviVuijoN7	Rio_De_Janeiro_Brazil	8.8.8.8	3356
+net_sprint	1239	sbaeM0OMX7GP	Santiago_Chile	8.8.8.8	3356
+net_sprint	1239	EL8RH53YdXTE	Sao_Paulo_Brazil	8.8.8.8	3356
+net_level3	3356	ear1.ams1	Amsterdam_Netherlands	8.8.8.8	3356
+net_level3	3356	bar1.bcl1	Barcellona_Spain	8.8.8.8	3356
+net_level3	3356	bear1.xrs2	Belgrade_Serbia	8.8.8.8	3356
+net_level3	3356	car1.ber1	Berlin_Germany	8.8.8.8	3356
+net_level3	3356	bar1.bru1	Brussels_Belgium	8.8.8.8	3356
+net_level3	3356	bear1.bch1	Bucharest_Romania	8.8.8.8	3356
+net_level3	3356	bar1.bdp1	Budapest_Hungary	8.8.8.8	3356
+net_level3	3356	bear1.cpt2	Cape_Town_South_Africa	8.8.8.8	3356
+net_level3	3356	bar1.cop1	Copenhagen_Denmark	8.8.8.8	3356
+net_level3	3356	edge1.djb1	Djibouti_Djibouti	8.8.8.8	3356
+net_level3	3356	bear1.xae3	Dubai_United_Arab_Emirates	8.8.8.8	3356
+net_level3	3356	bar1.dub1	Dublin_Ireland	8.8.8.8	3356
+net_level3	3356	edge3.dus1	Dusseldorf_Germany	8.8.8.8	3356
+net_level3	3356	ear1.frf1	Frankfort_Germany	8.8.8.8	3356
+net_level3	3356	bar1.gen1	Geneva_Switzerland	8.8.8.8	3356
+net_level3	3356	bar1.ham1	Hamburg_Germany	8.8.8.8	3356
+net_level3	3356	bar1.jed1	Jeddah_Saudi_Arabia	8.8.8.8	3356
+net_level3	3356	bear1.jnb2	Johannesburg_South_Africa	8.8.8.8	3356
+net_level3	3356	bar1.lju1	Ljubljana_Slovenia	8.8.8.8	3356
+net_level3	3356	edge1.lon1	London_England	8.8.8.8	3356
+net_level3	3356	ear1.lon2	London_England_(2)	8.8.8.8	3356
+net_level3	3356	ear1.lon15	London_England_(15)	8.8.8.8	3356
+net_level3	3356	car1.lux1	Luxemburg_Luxemburg	8.8.8.8	3356
+net_level3	3356	car1.lys1	Lyon_France	8.8.8.8	3356
+net_level3	3356	bar1.mad1	Madrid_Spain	8.8.8.8	3356
+net_level3	3356	car1.man1	Manchester_England	8.8.8.8	3356
+net_level3	3356	bar1.mrs1	Marseille_France	8.8.8.8	3356
+net_level3	3356	bar1.mln1	Milan_Italy	8.8.8.8	3356
+net_level3	3356	bear1.par10	Monaco	8.8.8.8	3356
+net_level3	3356	bear1.xru2	Moscow_Russia	8.8.8.8	3356
+net_level3	3356	bar1.mun1	Munich_Germany	8.8.8.8	3356
+net_level3	3356	bear1.osl2	Oslo_Norway	8.8.8.8	3356
+net_level3	3356	ear1.par1	Paris_France	8.8.8.8	3356
+net_level3	3356	car1.prg1	Prague_Czech_Rep	8.8.8.8	3356
+net_level3	3356	bear1.xit2	Rome_Italy	8.8.8.8	3356
+net_level3	3356	bar1.sof1	Sofia_Bulgaria	8.8.8.8	3356
+net_level3	3356	ear1.stk2	Stockholm_Swedan	8.8.8.8	3356
+net_level3	3356	car1.tls1	Toulouse_France	8.8.8.8	3356
+net_level3	3356	bar1.val3	Valencia_Spain	8.8.8.8	3356
+net_level3	3356	bar1.vie1	Viena_Austria	8.8.8.8	3356
+net_level3	3356	bar1.waw1	Warsaw_Poland	8.8.8.8	3356
+net_level3	3356	bar1.zag1	Zagreb_Croatia	8.8.8.8	3356
+net_level3	3356	bar1.zur1	Zurich_Switzerland	8.8.8.8	3356
+net_level3	3356	ear1.atl2	Atlanta_GA	8.8.8.8	3356
+net_level3	3356	car1.bal1	Baltimore_MD	8.8.8.8	3356
+net_level3	3356	car1.btr5	Baton_Rouge_LA	8.8.8.8	3356
+net_level3	3356	bar1.bos1	Boston_MA	8.8.8.8	3356
+net_level3	3356	bar1.buf1	Buffalo_NY	8.8.8.8	3356
+net_level3	3356	car1.btv1	Burlington_VT	8.8.8.8	3356
+net_level3	3356	ear1.chi2	Chicago_IL	8.8.8.8	3356
+net_level3	3356	bar1.clt1	Charlotte_NC	8.8.8.8	3356
+net_level3	3356	car1.cho1	Charlottesville_VA	8.8.8.8	3356
+net_level3	3356	bar1.cin1	Cincinnati_OH	8.8.8.8	3356
+net_level3	3356	bar1.cle1	Cleveland_OH	8.8.8.8	3356
+net_level3	3356	car1.clb4	Columbus_OH	8.8.8.8	3356
+net_level3	3356	ear1.dal1	Dallas_TX	8.8.8.8	3356
+net_level3	3356	ear1.den1	Denver_CO	8.8.8.8	3356
+net_level3	3356	bar1.det1	Detroit_MI	8.8.8.8	3356
+net_level3	3356	car1.fll1	Fort_Lauderdale_FL	8.8.8.8	3356
+net_level3	3356	car1.fmy1	Fort_Myers_FL	8.8.8.8	3356
+net_level3	3356	car1.har1	Harrisburg_PA	8.8.8.8	3356
+net_level3	3356	ear1.hou1	Houston_TX	8.8.8.8	3356
+net_level3	3356	car1.jan1	Jackson_MS	8.8.8.8	3356
+net_level3	3356	car1.jax1	Jacksonville_FL	8.8.8.8	3356
+net_level3	3356	bar1.kac1	Kansas_City_KS	8.8.8.8	3356
+net_level3	3356	bar1.lvg1	Las_Vegas_NV	8.8.8.8	3356
+net_level3	3356	car1.lex1	Lexington_KY	8.8.8.8	3356
+net_level3	3356	car1.lit2	Little_Rock_AR	8.8.8.8	3356
+net_level3	3356	ear1.lax1	Los_Angeles_CA	8.8.8.8	3356
+net_level3	3356	car1.lou2	Louisville_KY	8.8.8.8	3356
+net_level3	3356	ear1.mia2	Miami_FL	8.8.8.8	3356
+net_level3	3356	edge1.min1	Minneapolis_MN	8.8.8.8	3356
+net_level3	3356	car1.mob4	Mobile_AL	8.8.8.8	3356
+net_level3	3356	car1.mon2	Montreal_Canada	8.8.8.8	3356
+net_level3	3356	bar1.nvl1	Nashville_TN	8.8.8.8	3356
+net_level3	3356	ear1.nyc1	New_York_NY	8.8.8.8	3356
+net_level3	3356	ear1.nwr1	Newark_NJ	8.8.8.8	3356
+net_level3	3356	car1.ngu1	Norfolk_VA	8.8.8.8	3356
+net_level3	3356	edge1.oak2	Oakland_CA	8.8.8.8	3356
+net_level3	3356	bar1.orl1	Orlando_FL	8.8.8.8	3356
+net_level3	3356	bar1.phi1	Philadelphia_PA	8.8.8.8	3356
+net_level3	3356	ear1.phx1	Phoenix_AZ	8.8.8.8	3356
+net_level3	3356	bear1.pit3	Pittsburge_PA	8.8.8.8	3356
+net_level3	3356	bar1.por1	Portland_OR	8.8.8.8	3356
+net_level3	3356	car1.ral1	Raleigh_NC	8.8.8.8	3356
+net_level3	3356	car1.rch1	Richmond_VA	8.8.8.8	3356
+net_level3	3356	car1.sac1	Sacremento_CA	8.8.8.8	3356
+net_level3	3356	edge1.stl1	Saint_Louis_MO	8.8.8.8	3356
+net_level3	3356	bar1.slc1	Salt_Lake_City_UT	8.8.8.8	3356
+net_level3	3356	edge1.sdg1	San_Diego_CA	8.8.8.8	3356
+net_level3	3356	bar1.sfo1	San_Francisco_CA	8.8.8.8	3356
+net_level3	3356	ear1.sjo1	San_Jose_CA	8.8.8.8	3356
+net_level3	3356	car1.scr1	Scranton_PA	8.8.8.8	3356
+net_level3	3356	edge1.sea1	Seattle_WA	8.8.8.8	3356
+net_level3	3356	car1.stm1	Stamford_CT	8.8.8.8	3356
+net_level3	3356	car1.sce1	State_College_PA	8.8.8.8	3356
+net_level3	3356	bar1.syr2	Syracuse_NY	8.8.8.8	3356
+net_level3	3356	bar1.tmp1	Tampa_FL	8.8.8.8	3356
+net_level3	3356	bar1.tor1	Toronto_Canada	8.8.8.8	3356
+net_level3	3356	car1.tri1	Tri-Cities_TN	8.8.8.8	3356
+net_level3	3356	ear1.tus1	Tustin_CA	8.8.8.8	3356
+net_level3	3356	ear1.wdc1	Washington_DC	8.8.8.8	3356
+net_level3	3356	car1.wch1	Wichita_KS	8.8.8.8	3356
+net_he	6939	routers_core1.ams1.he.net	Amsterdam_NL	8.8.8.8	3356
+net_he	6939	routers_core1.bcn1.he.net	Barcelona_ES	8.8.8.8	3356
+net_he	6939	routers_core1.ber1.he.net	Berlin_DE	8.8.8.8	3356
+net_he	6939	routers_core1.buh1.he.net	Bucharest_RO	8.8.8.8	3356
+net_he	6939	routers_core1.bud1.he.net	Budapest_HU	8.8.8.8	3356
+net_he	6939	routers_core1.cph1.he.net	Copenhagen_DK	8.8.8.8	3356
+net_he	6939	routers_core1.dus1.he.net	Düsseldorf_DE	8.8.8.8	3356
+net_he	6939	routers_core1.dub1.he.net	Dublin_IE	8.8.8.8	3356
+net_he	6939	routers_core1.fra1.he.net	Frankfurt_DE	8.8.8.8	3356
+net_he	6939	routers_core1.ham1.he.net	Hamburg_DE	8.8.8.8	3356
+net_he	6939	routers_core1.lon1.he.net	London_UK	8.8.8.8	3356
+net_he	6939	routers_core1.lon2.he.net	London_UK	8.8.8.8	3356
+net_he	6939	routers_core1.mad1.he.net	Madrid_ES	8.8.8.8	3356
+net_he	6939	routers_core1.mrs1.he.net	Marseille_FR	8.8.8.8	3356
+net_he	6939	routers_core1.muc1.he.net	München_DE	8.8.8.8	3356
+net_he	6939	routers_core1.mil1.he.net	Milan_IT	8.8.8.8	3356
+net_he	6939	routers_core1.par1.he.net	Paris_FR	8.8.8.8	3356
+net_he	6939	routers_core1.par2.he.net	Paris_FR	8.8.8.8	3356
+net_he	6939	routers_core1.prg1.he.net	Prague_CZ	8.8.8.8	3356
+net_he	6939	routers_core1.sof1.he.net	Sofia_BG	8.8.8.8	3356
+net_he	6939	routers_core1.sto1.he.net	Stockholm_SE	8.8.8.8	3356
+net_he	6939	routers_core1.vie1.he.net	Vienna_AT	8.8.8.8	3356
+net_he	6939	routers_core1.waw1.he.net	Warsaw_PL	8.8.8.8	3356
+net_he	6939	routers_core1.zrh1.he.net	Zurich_CH	8.8.8.8	3356
+net_he	6939	routers_core1.ash1.he.net	Ashburn_VA_US	8.8.8.8	3356
+net_he	6939	routers_core1.atl1.he.net	Atlanta_GA_US	8.8.8.8	3356
+net_he	6939	routers_core1.bos1.he.net	Boston_MA_US	8.8.8.8	3356
+net_he	6939	routers_core1.yyc1.he.net	Calgary_AB_CA	8.8.8.8	3356
+net_he	6939	routers_core1.clt1.he.net	Charlotte_NC_US	8.8.8.8	3356
+net_he	6939	routers_core1.chi1.he.net	Chicago_IL_US	8.8.8.8	3356
+net_he	6939	routers_core1.cmh1.he.net	Columbus_OH_US	8.8.8.8	3356
+net_he	6939	routers_core1.dal1.he.net	Dallas_TX_US	8.8.8.8	3356
+net_he	6939	routers_core1.den1.he.net	Denver_CO_US	8.8.8.8	3356
+net_he	6939	routers_core1.fmt1.he.net	Fremont_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.fmt2.he.net	Fremont_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.mci1.he.net	Kansas_City_MO_US	8.8.8.8	3356
+net_he	6939	routers_core1.mci2.he.net	Kansas_City_MO_US	8.8.8.8	3356
+net_he	6939	routers_core1.mci3.he.net	Kansas_City_MO_US	8.8.8.8	3356
+net_he	6939	routers_core1.las1.he.net	Las_Vegas_NV_US	8.8.8.8	3356
+net_he	6939	routers_core1.lax1.he.net	Los_Angeles_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.lax2.he.net	Los_Angeles_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.msn1.he.net	Madison_WI_US	8.8.8.8	3356
+net_he	6939	routers_core1.mia1.he.net	Miami_FL_US	8.8.8.8	3356
+net_he	6939	routers_core1.msp1.he.net	Minneapolis_MN_US	8.8.8.8	3356
+net_he	6939	routers_core1.ymq1.he.net	Montreal_QC_CA	8.8.8.8	3356
+net_he	6939	routers_core1.nyc4.he.net	New_York_NY_US	8.8.8.8	3356
+net_he	6939	routers_core1.nyc5.he.net	New_York_NY_US	8.8.8.8	3356
+net_he	6939	routers_core1.nyc6.he.net	New_York_NY_US	8.8.8.8	3356
+net_he	6939	routers_core1.pao1.he.net	Palo_Alto_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.phx1.he.net	Phoenix_AZ_US	8.8.8.8	3356
+net_he	6939	routers_core1.phx2.he.net	Phoenix_AZ_US	8.8.8.8	3356
+net_he	6939	routers_core1.pdx1.he.net	Portland_OR_US	8.8.8.8	3356
+net_he	6939	routers_core1.rst1.he.net	Rochester_MN_US	8.8.8.8	3356
+net_he	6939	routers_core1.slc1.he.net	Salt_Lake_City_UT,	8.8.8.8	3356
+net_he	6939	routers_core1.sfo1.he.net	San_Francisco_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.sjc1.he.net	San_Jose_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.sjc2.he.net	San_Jose_CA_US	8.8.8.8	3356
+net_he	6939	routers_core1.sea1.he.net	Seattle_WA_US	8.8.8.8	3356
+net_he	6939	routers_core1.stl1.he.net	St_Louis_MO	8.8.8.8	3356
+net_he	6939	routers_core1.tor1.he.net	Toronto_ON_CA	8.8.8.8	3356
+net_he	6939	routers_core1.yvr1.he.net	Vancouver_BC_CA	8.8.8.8	3356
+net_he	6939	routers_core1.ywg1.he.net	Winnipeg_MB_CA	8.8.8.8	3356
+net_he	6939	routers_core1.hkg1.he.net	Hong_Kong_HK	8.8.8.8	3356
+net_he	6939	routers_core1.sin1.he.net	Singapore_SG	8.8.8.8	3356
+net_he	6939	routers_core1.tyo1.he.net	Tokyo_JP	8.8.8.8	3356
