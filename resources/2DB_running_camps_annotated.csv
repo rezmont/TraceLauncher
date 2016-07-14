@@ -1,0 +1,2161 @@
+bg_acad,6802,sf-cr-1,Sofia_BG_1,Sofia BG
+bg_acad,6802,sf-cr-2,Sofia_BG_2,Sofia BG
+br_rnp,1916,"Brasilia, DF",Brasilia_DF_BR,Brasilia DF BR
+br_rnp,1916,"Minas Gerais, MG",Minas_Gerais_BR,Minas Gerais BR
+br_rnp,1916,"Rio de Janeiro, RJ",Rio_de_Janeiro_BR,Rio de Janeiro BR
+br_rnp,1916,"Sao Paulo, SP",Sao_Paulo_BR,Sao Paulo BR
+ca_eastlink,11260,Eastlink Atlantic (AS 11260),Moncton_CA,Moncton CA
+ca_eastlink,15290,Allstream (AS 15290),Toronto_CA,Toronto CA
+ca_eastlink,22799,Eastlink Pacific (AS 22799),Delta_CA,Delta CA
+ca_eastlink,23184,Eastlink Eastern (AS 23184),Garson_CA,Garson CA
+ca_eastlink,3257,TiNET (AS 3257),Frankfurt_DE,Frankfurt DE
+ca_eastlink,3303,Swisscom IP+ (AS 3303),Bern_CH,Bern CH
+ca_eastlink,3549,Global Crossing (AS 3549),Phoenix_AZ_US,Phoenix AZ US
+ca_eastlink,3549,Global Crossing Europe (AS 3549),Caracas_VE,Caracas VE
+ca_eastlink,4323,Time Warner (AS 4323),Littleton_CO_US,Littleton CO US
+ca_eastlink,553,Belwue (AS 553),Stuttgart_DE,Stuttgart DE
+ca_eastlink,5713,SAIX (AS 5713),Pretoria_SA,Pretoria SA
+ca_eastlink,6447,Oregon Exchange (AS 6447),Eugene_OR_US,Eugene OR US
+ca_eastlink,6667,Eunet (AS 6667),Pori_FIN,Pori FIN
+ca_eastlink,6730,Sunrise (AS 6730),Zurich_CH,Zurich CH
+ca_eastlink,7018,AT&T (AS 7018),Bridgeton_MO_US,Bridgeton MO US
+ca_eastlink,7474,Optus (AS 7474),Macquarie_Park_AU,Macquarie Park AU
+ca_eastlink,7922,Comcast (AS 7922),New_York_NY_US,New York NY US
+ca_eastlink,852,TELUS East (AS 852),Rimouski_Quebec_CA,Rimouski Quebec CA
+ca_eastlink,852,TELUS West (AS 852),Burnaby_British_Columbia_CA,Burnaby British Columbia CA
+ch_green,1836,amskl3000.nl.as1836.net,Amsterdam_NL,Amsterdam NL
+ch_green,1836,gtbcs3000.ch.as1836.net,Zurich_CH_1,Zurich CH
+ch_green,1836,gtbcs3001.ch.as1836.net,Zurich_CH_2,Zurich CH
+ch_green,1836,lupin3001.ch.as1836.net,Zurich_CH_3,Zurich CH
+ch_green,1836,zrhlg3002.ch.as1836.net,Zurich_CH_4,Zurich CH
+ch_solnet,3257,TISCALI (AS 3257),Frankfurt_DE,Frankfurt DE
+ch_solnet,3549,Global Crossing (AS 3549),Phoenix_AZ_US,Phoenix AZ US
+ch_solnet,9044,SolNet #1 (AS 9044),Solothurn_CH,Solothurn CH
+ch_switch,559,swiBA2.switch.ch,Zurich_CH_5,Zurich CH
+ch_switch,559,swiCE2.switch.ch,Zurich_CH_1,Zurich CH
+ch_switch,559,swiCE3.switch.ch,Zurich_CH_2,Zurich CH
+ch_switch,559,swiIX1.switch.ch,Zurich_CH_3,Zurich CH
+ch_switch,559,swiIX2.switch.ch,Zurich_CH_4,Zurich CH
+ch_switch,559,swiKR2.switch.ch,Zurich_CH_6,Zurich CH
+co_simbanet,3257,TISCALI (AS 3257),Frankfurt_DE,Frankfurt DE
+co_simbanet,3549,Global Crossing (AS 3549),Phoenix_AZ_US_2,Phoenix AZ US
+co_simbanet,37084,Airtel PE,Airtel_PE,Airtel PE
+co_simbanet,37084,Arusha PE,Arusha_PE,Arusha PE
+co_simbanet,37084,BR Eassy NBO,BR_Eassy_NBO,BR Eassy NBO
+co_simbanet,37084,Bukoba PE,Bukoba_PE,Bukoba PE
+co_simbanet,37084,Core CLS BR1,Core_CLS_BR1,Core CLS BR1
+co_simbanet,37084,Core KIJ,Core_KIJ,Core KIJ
+co_simbanet,37084,Core KIP P1,Core_KIP_P1,Core KIP P1
+co_simbanet,37084,Core SNH DC,Core_SNH_DC,Core SNH DC
+co_simbanet,37084,Core TAN P1,Core_TAN_P1,Core TAN P1
+co_simbanet,37084,Core TIX BR1,Core_TIX_BR1,Core TIX BR1
+co_simbanet,37084,Core Zantel BR1,Core_Zantel_BR1,Core Zantel BR1
+co_simbanet,37084,CTV PE,CTV_PE,CTV PE
+co_simbanet,37084,Dodoma PE,Dodoma_PE,Dodoma PE
+co_simbanet,37084,Ilala PE,Ilala_PE,Ilala PE
+co_simbanet,37084,Iringa PE,Iringa_PE,Iringa PE
+co_simbanet,37084,Kabanga PE,Kabanga_PE,Kabanga PE
+co_simbanet,37084,Kahama PE,Kahama_PE,Kahama PE
+co_simbanet,37084,Kigali PE1,Kigali_PE1,Kigali PE1
+co_simbanet,37084,Kigali PE2,Kigali_PE2,Kigali PE2
+co_simbanet,37084,Kipawa PE,Kipawa_PE,Kipawa PE
+co_simbanet,37084,Kurasini PE,Kurasini_PE,Kurasini PE
+co_simbanet,37084,Lusaka BR,Lusaka_BR,Lusaka BR
+co_simbanet,37084,Lusaka PE,Lusaka_PE,Lusaka PE
+co_simbanet,37084,Mafuta PE,Mafuta_PE,Mafuta PE
+co_simbanet,37084,Masaki PE,Masaki_PE,Masaki PE
+co_simbanet,37084,Mbeya PE,Mbeya_PE,Mbeya PE
+co_simbanet,37084,Millennium PE,Millennium_PE,Millennium PE
+co_simbanet,37084,Mlimani City PE,Mlimani_City_PE,Mlimani City PE
+co_simbanet,37084,Morogoro PE,Morogoro_PE,Morogoro PE
+co_simbanet,37084,Moshi PE,Moshi_PE,Moshi PE
+co_simbanet,37084,Mtwara PE,Mtwara_PE,Mtwara PE
+co_simbanet,37084,Mwanza IXP,Mwanza_IXP,Mwanza IXP
+co_simbanet,37084,Mwanza PE,Mwanza_PE,Mwanza PE
+co_simbanet,37084,Mwanza PE2 CP,Mwanza_PE2_CP,Mwanza PE2 CP
+co_simbanet,37084,Oysterbay PE,Oysterbay_PE,Oysterbay PE
+co_simbanet,37084,QC PE,QC_PE,QC PE
+co_simbanet,37084,Salasala PE,Salasala_PE,Salasala PE
+co_simbanet,37084,Tabora PE,Tabora_PE,Tabora PE
+co_simbanet,37084,Tanga PE,Tanga_PE,Tanga PE
+co_simbanet,37084,Teraco PE,Teraco_PE,Teraco PE
+co_simbanet,37084,Ubungo PE,Ubungo_PE,Ubungo PE
+co_simbanet,37084,UN Road PE,UN_Road_PE,UN Road PE
+co_simbanet,37084,Zantel PE,Zantel_PE,Zantel PE
+co_simbanet,37084,Zanzibar PE,Zanzibar_PE,Zanzibar PE
+co_simbanet,852,Border Dar1,Dar_es_Salaam_TA_1,Dar es Salaam TA
+co_simbanet,852,Bukoba PE,Dar_es_Salaam_TA_3,Dar es Salaam TA
+co_simbanet,852,Core TAZ P1,Dar_es_Salaam_TA_2,Dar es Salaam TA
+co_simbanet,852,Global Crossing,Phoenix_AZ_US_1,Phoenix AZ US
+co_simbanet,852,Oregon Exchange,Eugene_OR_US,Eugene OR US
+co_simbanet,852,TELUS Ontario (AS 852),Rimouski_Quebec_CA,Rimouski Quebec CA
+co_vibe,13335,MDR-CR1,Auckland_NZ_3,Auckland NZ
+co_vibe,13335,QH-RR1,Auckland_NZ_2,Auckland NZ
+co_vibe,13335,SY3-CR1,Auckland_NZ_1,Auckland NZ
+com_centurylink,209,"ASIA: HKG - HK, TSUEN WAN (HGK)",HGK,"HKG - HK, TSUEN WAN"
+com_centurylink,209,"ASIA: JPN - JP, TOKYO (TKO)",TKO,"JPN - JP, TOKYO"
+com_centurylink,209,"NORTH AMERICA: USA - AZ, TEMPE (PHX)",PHX,"USA - AZ, TEMPE"
+com_centurylink,209,"NORTH AMERICA: USA - AZ, TUCSON (TCS)",TCS,"USA - AZ, TUCSON"
+com_centurylink,209,"NORTH AMERICA: USA - CA, BURBANK (BUR)",BUR,"USA - CA, BURBANK"
+com_centurylink,209,"NORTH AMERICA: USA - CA, SAN JOSE (SNJ)",SNJ,"USA - CA, SAN JOSE"
+com_centurylink,209,"NORTH AMERICA: USA - CA, SUNNYVALE (SVL)",SVL,"USA - CA, SUNNYVALE"
+com_centurylink,209,"NORTH AMERICA: USA - CO, COLORADO SPRINGS (CLS2)",LS2,"USA - CO, COLORADO SPRINGS"
+com_centurylink,209,"NORTH AMERICA: USA - CO, DENVER (DVR)",DVR,"USA - CO, DENVER"
+com_centurylink,209,"NORTH AMERICA: USA - CO, HIGHLANDS RANCH (HLR)",HLR,"USA - CO, HIGHLANDS RANCH"
+com_centurylink,209,"NORTH AMERICA: USA - DC, WASHINGTON (DCA)",DCA,"USA - DC, WASHINGTON"
+com_centurylink,209,"NORTH AMERICA: USA - FL, MIAMI (MIA)",MIA,"USA - FL, MIAMI"
+com_centurylink,209,"NORTH AMERICA: USA - FL, TAMPA (TPA)",TPA,"USA - FL, TAMPA"
+com_centurylink,209,"NORTH AMERICA: USA - GA, ATLANTA (ATL)",ATL,"USA - GA, ATLANTA"
+com_centurylink,209,"NORTH AMERICA: USA - HI, HONOLULU (HNL)",HNL,"USA - HI, HONOLULU"
+com_centurylink,209,"NORTH AMERICA: USA - IA, BETTENDORF (DVN)",DVN,"USA - IA, BETTENDORF"
+com_centurylink,209,"NORTH AMERICA: USA - IA, CEDAR RAPIDS (CDR2)",DR2,"USA - IA, CEDAR RAPIDS"
+com_centurylink,209,"NORTH AMERICA: USA - IA, DES MOINES (DES)",DES,"USA - IA, DES MOINES"
+com_centurylink,209,"NORTH AMERICA: USA - IA, SIOUX CITY (SXC2)",XC2,"USA - IA, SIOUX CITY"
+com_centurylink,209,"NORTH AMERICA: USA - ID, BOISE (BOI2)",OI2,"USA - ID, BOISE"
+com_centurylink,209,"NORTH AMERICA: USA - IL, CHICAGO (CER)",CER,"USA - IL, CHICAGO"
+com_centurylink,209,"NORTH AMERICA: USA - MA, BOSTON (BST)",BST,"USA - MA, BOSTON"
+com_centurylink,209,"NORTH AMERICA: USA - MN, DULUTH (DLT)",DLT,"USA - MN, DULUTH"
+com_centurylink,209,"NORTH AMERICA: USA - MN, MINNEAPOLIS (MIN)",MIN,"USA - MN, MINNEAPOLIS"
+com_centurylink,209,"NORTH AMERICA: USA - MN, ROCHESTER (ROC2)",OC2,"USA - MN, ROCHESTER"
+com_centurylink,209,"NORTH AMERICA: USA - MN, ST CLOUD (STC)",STC,"USA - MN, ST CLOUD"
+com_centurylink,209,"NORTH AMERICA: USA - MO, KANSAS CITY (KCM)",KCM,"USA - MO, KANSAS CITY"
+com_centurylink,209,"NORTH AMERICA: USA - MT, BILLINGS (BIL)",BIL,"USA - MT, BILLINGS"
+com_centurylink,209,"NORTH AMERICA: USA - NC, CHARLOTTE (CHR)",CHR,"USA - NC, CHARLOTTE"
+com_centurylink,209,"NORTH AMERICA: USA - NC, ROCKY MT (RCM)",RCM,"USA - NC, ROCKY MT"
+com_centurylink,209,"NORTH AMERICA: USA - ND, BISMARCK (BIS)",BIS,"USA - ND, BISMARCK"
+com_centurylink,209,"NORTH AMERICA: USA - ND, FARGO (FAR2)",AR2,"USA - ND, FARGO"
+com_centurylink,209,"NORTH AMERICA: USA - NE, OMAHA (OMH)",OMH,"USA - NE, OMAHA"
+com_centurylink,209,"NORTH AMERICA: USA - NJ, NEWARK (EWR)",EWR,"USA - NJ, NEWARK"
+com_centurylink,209,"NORTH AMERICA: USA - NM, ALBUQUERQUE (ABQ)",ABQ,"USA - NM, ALBUQUERQUE"
+com_centurylink,209,"NORTH AMERICA: USA - NV, LAS VEGAS (LSV2)",SV2,"USA - NV, LAS VEGAS"
+com_centurylink,209,"NORTH AMERICA: USA - NY, MANHATTAN (JFK)",JFK,"USA - NY, MANHATTAN"
+com_centurylink,209,"NORTH AMERICA: USA - OR, EUGENE (EUG)",EUG,"USA - OR, EUGENE"
+com_centurylink,209,"NORTH AMERICA: USA - OR, PORTLAND (POR)",POR,"USA - OR, PORTLAND"
+com_centurylink,209,"NORTH AMERICA: USA - TX, DALLAS (DAL)",DAL,"USA - TX, DALLAS"
+com_centurylink,209,"NORTH AMERICA: USA - TX, HOUSTON (IAH)",IAH,"USA - TX, HOUSTON"
+com_centurylink,209,"NORTH AMERICA: USA - UT, SALT LAKE CITY (SLC)",SLC,"USA - UT, SALT LAKE CITY"
+com_centurylink,209,"NORTH AMERICA: USA - UT, SALT LAKE CITY (SLC2)",LC2,"USA - UT, SALT LAKE CITY"
+com_centurylink,209,"NORTH AMERICA: USA - WA, SPOKANE (SPK2)",PK2,"USA - WA, SPOKANE"
+com_centurylink,209,"NORTH AMERICA: USA - WA, TUKWILA (TUK)",TUK,"USA - WA, TUKWILA"
+com_centurylink,209,"NORTH AMERICA: USA - WY, CHEYENNE (CHY2)",HY2,"USA - WY, CHEYENNE"
+com_cogent,174,ams04,NL_Amsterdam,Amsterdam NL
+com_cogent,174,ath01,GR_Athens,Athens GR
+com_cogent,174,atl01,US_Atlanta,Atlanta US
+com_cogent,174,bcn01,ES_Barcelona,Barcelona ES
+com_cogent,174,ber01,DE_Berlin,Berlin DE
+com_cogent,174,bod01,FR_Bordeaux,Bordeaux FR
+com_cogent,174,bos01,US_Boston,Boston US
+com_cogent,174,bru01,BE_Brussels,Brussels BE
+com_cogent,174,bts01,SK_Bratislava,Bratislava SK
+com_cogent,174,bud01,HU_Budapest,Budapest HU
+com_cogent,174,buh01,RO_Bucharest,Bucharest RO
+com_cogent,174,cph01,DK_Copenhagen,Copenhagen DK
+com_cogent,174,dca01,US_Washington_DC,Washington DC US
+com_cogent,174,den01,US_Denver,Denver US
+com_cogent,174,dfw01,US_Dallas,Dallas US
+com_cogent,174,dub01,IE_Dublin,Dublin IE
+com_cogent,174,dus01,DE_Dusseldorf,Dusseldorf DE
+com_cogent,174,fra03,DE_Frankfurt,Frankfurt DE
+com_cogent,174,ham01,DE_Hamburg,Hamburg DE
+com_cogent,174,hrk01,UA_Kharkiv,Kharkiv UA
+com_cogent,174,iah01,US_Houston,Houston US
+com_cogent,174,jax01,US_Jacksonville,Jacksonville US
+com_cogent,174,jfk02,US_New_York,New York US
+com_cogent,174,lax01,US_Los_Angeles,Los Angeles US
+com_cogent,174,lis01,PT_Lisbon,Lisbon PT
+com_cogent,174,lon13,GB_London,London GB
+com_cogent,174,lpl01,GB_Southport,Southport GB
+com_cogent,174,mad05,ES_Madrid,Madrid ES
+com_cogent,174,mci01,US_Kansas_City,Kansas City US
+com_cogent,174,mco01,US_Orlando,Orlando US
+com_cogent,174,mex01,MX_Mexico_City,Mexico City MX
+com_cogent,174,mia01,US_Miami,Miami US
+com_cogent,174,mil01,IT_Milan,Milan IT
+com_cogent,174,mrs01,FR_Marseille,Marseille FR
+com_cogent,174,msp01,US_Minneapolis,Minneapolis US
+com_cogent,174,muc01,DE_Munich,Munich DE
+com_cogent,174,nue01,DE_Nuremberg,Nuremberg DE
+com_cogent,174,ord01,US_Chicago,Chicago US
+com_cogent,174,osl01,NO_Oslo,Oslo NO
+com_cogent,174,par01,FR_Paris,Paris FR
+com_cogent,174,phl01,US_Philadelphia,Philadelphia US
+com_cogent,174,rom01,IT_Rome,Rome IT
+com_cogent,174,san01,US_San_Diego,San Diego US
+com_cogent,174,sea01,US_Seattle,Seattle US
+com_cogent,174,sfo01,US_San_Francisco,San Francisco US
+com_cogent,174,sjc01,US_San_Jose,San Jose US
+com_cogent,174,smf01,US_Sacramento,Sacramento US
+com_cogent,174,sof02,BG_Sofia,Sofia BG
+com_cogent,174,sto03,SE_Stockholm,Stockholm SE
+com_cogent,174,tll01,EE_Tallinn,Tallinn EE
+com_cogent,174,tpa01,US_Tampa,Tampa US
+com_cogent,174,tyo01,JP_Tokyo,Tokyo JP
+com_cogent,174,vie01,AT_Vienna,Vienna AT
+com_cogent,174,vlc01,ES_Valencia,Valencia ES
+com_cogent,174,waw01,PL_Warsaw,Warsaw PL
+com_cogent,174,ymq01,CA_Montreal,Montreal CA
+com_cogent,174,yyz01,CA_Toronto,Toronto CA
+com_cogent,174,zrh01,CH_Zurich,Zurich CH
+com_conit,58511,0,Sydney_AU,Sydney AU
+com_conit,58511,1,Melbourne_AU,Melbourne AU
+com_conit,58511,2,Brisbane_AU,Brisbane AU
+com_conit,58511,3,Perth_AU,Perth AU
+com_conit,58511,4,Warragul_AU,Warragul AU
+com_conit,58511,5,Los_Angeles_CA_US,Los Angeles CA US
+com_connect,2764,Melbourne,Melbourne_AU,Melbourne AU
+com_connect,2764,Perth,Perth_AU,Perth AU
+com_connect,2764,Sydney,Sydney_AU,Sydney AU
+com_core,33891,none,New_Orleans_LA_US,New Orleans LA US
+com_flagtel,15412,ALX001-Alexandria,Alexandria_EG,Alexandria EG
+com_flagtel,15412,AMS001-Amsterdam,Amsterdam_NL,Amsterdam NL
+com_flagtel,15412,BAH001-Bahrain,Bahrain,Bahrain
+com_flagtel,15412,CAI001-Cairo,Cairo_EG,Cairo EG
+com_flagtel,15412,CHN001-Chennai,Chennai_IN,Chennai IN
+com_flagtel,15412,DMM001-Al Khobar,Al_Khobar_SA,Al Khobar SA
+com_flagtel,15412,DOH002-Doha,Doha_QAT,Doha QAT
+com_flagtel,15412,DXB001-Dubai,Dubai_UAE,Dubai UAE
+com_flagtel,15412,FRA005-Frankfurt,Frankfurt_DE,Frankfurt DE
+com_flagtel,15412,HKG003-Hong Kong,Hong_Kong_HK,Hong Kong HK
+com_flagtel,15412,JED002-Jeddah,Jeddah_SA,Jeddah SA
+com_flagtel,15412,LAX002-Los Angeles,Los_Angeles_CA_US,Los Angeles CA US
+com_flagtel,15412,LDN001-London,London_UK_1,London UK
+com_flagtel,15412,LDN004-London,London_UK_2,London UK
+com_flagtel,15412,MAD003-Madrid,Madrid_ES,Madrid ES
+com_flagtel,15412,MMB003-Mumbai,Mumbai_IN_1,Mumbai IN
+com_flagtel,15412,MMB004-Mumbai,Mumbai_IN_2,Mumbai IN
+com_flagtel,15412,NYC005-New York,New_York_NY_US_1,New York NY US
+com_flagtel,15412,NYC007-New York,New_York_NY_US_2,New York NY US
+com_flagtel,15412,PAO001-Palo Alto,Palo_Alto_CA_US,Palo Alto CA US
+com_flagtel,15412,PRS001-Paris,Paris_FR_1,Paris FR
+com_flagtel,15412,PRS002-Paris,Paris_FR_2,Paris FR
+com_flagtel,15412,SEO003-Seoul,Seoul_KR,Seoul KR
+com_flagtel,15412,SIN001-Singapore,Singapore_SG,Singapore SG
+com_flagtel,15412,TOK002-Tokyo,Tokyo_JP_1,Tokyo JP
+com_flagtel,15412,TOK007-Tokyo,Tokyo_JP_2,Tokyo JP
+com_flagtel,15412,TPE001-Taipei,Taipei_TW,Taipei TW
+com_flagtel,15412,TRV001-Trivandrum,Trivandrum_IN,Trivandrum IN
+com_fluidhosting,33552,none,New_Jersey,New Jersey US
+com_hgc,9304,none,Hong_Kong_HK,Hong Kong
+com_hgcintl,15169,HongKong,Hong_Kong_HK,Hong Kong HK
+com_hgcintl,15169,London,London_UK,London UK
+com_hgcintl,15169,LosAngeles,Los_Angeles_CA_US,Los Angeles CA US
+com_hgcintl,15169,Malaysia,Malaysia,Malaysia
+com_hgcintl,15169,Singapore,Singapore,Singapore
+com_hgcintl,15169,Taiwan,Taiwan,Taiwan
+com_hostnetworks,4851,"Brisbane (AU), HN Router",Brisbane_AU,"Brisbane, AU"
+com_hostnetworks,4851,"Sydney (AU), HN Router",Sydney_AU,"Sydney, AU"
+com_hostvirtual,36236,bucharest,Bucharest_RO,Bucharest RO
+com_hostvirtual,36236,chicago,Chicago_IL_US,Chicago IL US
+com_hostvirtual,36236,dallas,Dallas_TX_US,Dallas TX US
+com_hostvirtual,36236,ddos-protected-cloud,Los_Angeles_US_DDoS_Protected,Los Angeles US
+com_hostvirtual,36236,denver,Denver_CO_US,Denver CO US
+com_hostvirtual,36236,france-vps,Paris_FR,Paris FR
+com_hostvirtual,36236,frankfurt,Frankfurt_DE,Frankfurt DE
+com_hostvirtual,36236,hong-kong-vps,Hong_Kong_HK,Hong Kong HK
+com_hostvirtual,36236,los-angeles,Los_Angeles_CA_US,Los Angeles CA US
+com_hostvirtual,36236,miami,Miami_FL_US,Miami FL US
+com_hostvirtual,36236,new-york,New_York_NY_US,New York NY US
+com_hostvirtual,36236,nikhef-amsterdam-vps,Amsterdam_NL,Amsterdam NL
+com_hostvirtual,36236,reston-virginia,Reston_VA_US,Reston VA US
+com_hostvirtual,36236,san-jose,San_Jose_CA_US,San Jose CA US
+com_hostvirtual,36236,saopaulo,Sao_Paulo_Brazil,Sao Paulo Brazil
+com_hostvirtual,36236,seattle,Seattle_WA_US,Seattle WA US
+com_hostvirtual,36236,singapore,Singapore_SG,Singapore SG
+com_hostvirtual,36236,sydney-australia,Sydney_AU,Sydney AU
+com_hostvirtual,36236,toronto,Toronto_CA,Toronto CA
+com_hostvirtual,36236,uk-vps,London_United_Kingdom,London United Kingdom
+com_hostvirtual,36236,vps-hosting-india,Chennai_Madras_India,Chennai Madras India
+com_linxtelecom,3327,r10-Tbs-T160-GE,Tbilisi_Georgia,"Tbilisi, Georgia"
+com_linxtelecom,3327,r10-Waw-Lim-PL,Warsaw_Poland_1,"Warsaw, Poland"
+com_linxtelecom,3327,r10-Waw-Linx-PL,Warsaw_Poland_2,"Warsaw, Poland"
+com_linxtelecom,3327,r2-Rix-Btwr-LV,Riga_Latvia,"Riga, Latvia"
+com_linxtelecom,3327,r2-Trt-KJ-EE,Tartu_Estonia,"Tartu, Estonia"
+com_linxtelecom,3327,r2-Vno-Lnrg-LT,Vilnius_Lithuania,"Vilnius, Lithuania"
+com_linxtelecom,3327,r8-Fra-Anct-DE,Frankfurt_Germany_1,"Frankfurt, Germany"
+com_linxtelecom,3327,r9-Fra-Anct-DE,Frankfurt_Germany_2,"Frankfurt, Germany"
+com_linxtelecom,3327,r9-Mow-M9-RU,Moscow_Russia_2,"Moscow, Russia"
+com_linxtelecom,3327,r9-Mow-Mar8-RU,Moscow_Russia_1,"Moscow, Russia"
+com_linxtelecom,3327,r9-Sln-Song-SE,Stockholm_Sweden_1,"Stockholm, Sweden"
+com_linxtelecom,3327,r9-Spb-Boro-RU,StPetersburg_Russia,"St Petersburg, Russia"
+com_linxtelecom,3327,r9-Sto-TC-SE,Stockholm_Sweden_2,"Stockholm, Sweden"
+com_linxtelecom,3327,r9-Tln-Linx-EE,Tallinn_Estonia_1,"Tallinn, Estonia"
+com_linxtelecom,3327,r9-Tln-TIX-EE,Tallinn_Estonia_2,"Tallinn, Estonia"
+com_liquidweb,201682,4,Amsterdam_NL,Amsterdam NL
+com_liquidweb,32244,1,Lansing_MI_US_1,Lansing MI US
+com_liquidweb,32244,2,Lansing_MI_US_2,Lansing MI US
+com_liquidweb,53824,3,Phoenix_AZ_US,Phoenix AZ US
+com_opus1,6373,trace-via-grid.accessone.net,Tucson_AZ_US_1,Tucson AZ US
+com_opus1,6373,trace-via-mci.accessone.net,Tucson_AZ_US_4,Tucson AZ US
+com_opus1,6373,trace-via-sprint.accessone.net,Tucson_AZ_US_3,Tucson AZ US
+com_opus1,6373,trace-via-ua.accessone.net,Tucson_AZ_US_2,Tucson AZ US
+com_pccwglobal,3491,ar01.fus01.pccwbtn.net,FUS01_Fuchsstadt_Germany,Fuchsstadt Germany
+com_pccwglobal,3491,ar01.gbe01.pccwbtn.net,GBE01_Gaborone_Botswana,Gaborone Botswana
+com_pccwglobal,3491,ar01.gbe02.pccwbtn.net,BGE02_Botswana,Botswana
+com_pccwglobal,3491,ar01.gbe02:pccwbtn.net,GBE02_Gaborone_Botswana,Gaborone Botswana
+com_pccwglobal,3491,ar01.gos01.pccwbtn.net,GOS01_Belgium,Belgium
+com_pccwglobal,3491,ar01.her02.pccwbtn.net,HER02_Herndon_Virginia,Herndon Virginia
+com_pccwglobal,3491,ar01.ldn05.pccwbtn.net,LDN05_London_England,London England
+com_pccwglobal,3491,ar02.her01.pccwbtn.net,HER01_Herndon_Virginia,Herndon Virginia
+com_pccwglobal,3491,br01.ash01.pccwbtn.net,ASH01_Ashburn_Virginia,Ashburn Virginia
+com_pccwglobal,3491,br01.atl02.pccwbtn.net,ATL02_Atlanta_Georgia,Atlanta Georgia
+com_pccwglobal,3491,br01.frf05.pccwbtn.net,FRF05_Frankfurt_Germany,Frankfurt Germany
+com_pccwglobal,3491,br01.frf06.pccwbtn.net,FRF06_Frankfurt_Germany,Frankfurt Germany
+com_pccwglobal,3491,br01.frf08.pccwbtn.net,FRF08_Frankfurt_Germany,Frankfurt Germany
+com_pccwglobal,3491,br01.hkg08.pccwbtn.net,HKG08_Hong_Kong,Hong Kong
+com_pccwglobal,3491,br01.hkg12.pccwbtn.net,HKG12_Hong_Kong,Hong Kong
+com_pccwglobal,3491,br01.hkg31.pccwbtn.net,HKG31_Hong_Kong,Hong Kong
+com_pccwglobal,3491,br01.hkg39.pccwbtn.net,HKG39_Hong_Kong,Hong Kong
+com_pccwglobal,3491,br01.lar02.pccwbtn.net,LAR02_Loredo_Texas,Loredo Texas
+com_pccwglobal,3491,br01.ldn03.pccwbtn.net,LDN03_London_England,London England
+com_pccwglobal,3491,br01.ldn04.pccwbtn.net,LDN04_London_England,London England
+com_pccwglobal,3491,br01.ldn12.pccwbtn.net,LDN12_London_England,London England
+com_pccwglobal,3491,br01.mca02.pccwbtn.net,MCA02_McAllen_Texas,McAllen Texas
+com_pccwglobal,3491,br01.mil02.pccwbtn.net,MIL02_Milan_Italy,Milan Italy
+com_pccwglobal,3491,br01.nyc06.pccwbtn.net,NYC06_New_York_City,New York City
+com_pccwglobal,3491,br01.nyc07.pccwbtn.net,NYC07_New_York_City,New York City
+com_pccwglobal,3491,br01.osa01.pccwbtn.net,OSA01_Osaka_Japan,Osaka Japan
+com_pccwglobal,3491,br01.sin03.pccwbtn.net,SIN03_Singapore,Singapore
+com_pccwglobal,3491,br01.tap04.pccwbtn.net,TAP04_Taipei_ROC,Taipei ROC
+com_pccwglobal,3491,br01.tap06.pccwbtn.net,TAP06_Taipei_ROC,Taipei ROC
+com_pccwglobal,3491,br01.wdc02.pccwbtn.net,WDC02_Washington_DC,Washington DC
+com_pccwglobal,3491,br02.tok02.pccwbtn.net,TOK02_Tokyo_Japan,Tokyo Japan
+com_pccwglobal,3491,cr01.ams01.pccwbtn.net,AMS01_Amsterdam_Netherlands,Amsterdam Netherlands
+com_pccwglobal,3491,cr01.ash02.pccwbtn.net,ASH02_Ashburn_Virginia,Ashburn Virginia
+com_pccwglobal,3491,cr01.ath01.pccwbtn.net,ATH01_Athens_Greece,Athens Greece
+com_pccwglobal,3491,cr01.bkk01.pccwbtn.net,BKK01_Bangkok_Thailand,Bangkok Thailand
+com_pccwglobal,3491,cr01.blt01.pccwbtn.net,BLT01_Baltimore_Maryland,Baltimore Maryland
+com_pccwglobal,3491,cr01.dub03.pccwbtn.net,DUB03_Dubai_UAE,Dubai UAE
+com_pccwglobal,3491,cr01.frf02.pccwbtn.net,FRF02_Frankfurt_Germany,Frankfurt Germany
+com_pccwglobal,3491,cr01.hkg04.pccwbtn.net,HKG04_Hong_Kong,Hong Kong
+com_pccwglobal,3491,cr01.hkg05.pccwbtn.net,HKG05_Hong_Kong,Hong Kong
+com_pccwglobal,3491,cr01.hkg15.pccwbtn.net,HKG15_Hong_Kong,Hong Kong
+com_pccwglobal,3491,cr01.jkt01.pccwbtn.net,JKT01_Jakarta_Indonesia,Jakarta Indonesia
+com_pccwglobal,3491,cr01.klp01.pccwbtn.net,KLP01_Kula_Lumpur_Malaysia,Kula Lumpur Malaysia
+com_pccwglobal,3491,cr01.lar01.pccwbtn.net,LAR01_Laredo_Texas,Laredo Texas
+com_pccwglobal,3491,cr01.lax01.pccwbtn.net,LAX01_Los_Angeles_California,Los Angeles California
+com_pccwglobal,3491,cr01.lax04.pccwbtn.net,LAX04_Los_Angeles_California,Los Angeles California
+com_pccwglobal,3491,cr01.lax05.pccwbtn.net,LAX05_Los_Angeles_California,Los Angeles California
+com_pccwglobal,3491,cr01.mca01.pccwbtn.net,MCA01_McAllen_Texas,McAllen Texas
+com_pccwglobal,3491,cr01.mil01.pccwbtn.net,MIL01_Milan_Italy,Milan Italy
+com_pccwglobal,3491,cr01.mnl01.pccwbtn.net,MNL01_Manila_Phillipines,Manila Phillipines
+com_pccwglobal,3491,cr01.nyc02.pccwbtn.net,NYC02_New_York_City,New York City
+com_pccwglobal,3491,cr01.par03.pccwbtn.net,PAR03_Paris_France,Paris France
+com_pccwglobal,3491,cr01.par04.pccwbtn.net,PAR04_Paris_France,Paris France
+com_pccwglobal,3491,cr01.phl02.pccwbtn.net,PHL02_Philadelphia_PA,Philadelphia PA
+com_pccwglobal,3491,cr01.rst01.pccwbtn.net,RST01_Reston_Virginia,Reston Virginia
+com_pccwglobal,3491,cr01.sea01.pccwbtn.net,SEA01_Seattle_Washington,Seattle Washington
+com_pccwglobal,3491,cr01.seo01.pccwbtn.net,SEO01_Seoul_South_Korea,Seoul South Korea
+com_pccwglobal,3491,cr01.sin01.pccwbtn.net,SIN01_Singapore,Singapore
+com_pccwglobal,3491,cr01.sin02.pccwbtn.net,SIN02_Singapore,Singapore
+com_pccwglobal,3491,cr01.sjo01.pccwbtn.net,SJO01_San_Jose_California,San Jose California
+com_pccwglobal,3491,cr01.stk01.pccwbtn.net,STK01_Stockholm_Sweden,Stockholm Sweden
+com_pccwglobal,3491,cr01.syd02.pccwbtn.net,SYD02_Sydney_Australia,Sydney Australia
+com_pccwglobal,3491,cr01.tok01.pccwbtn.net,TOK01_Tokyo_Japan,Tokyo Japan
+com_pccwglobal,3491,cr01.tor01.pccwbtn.net,TOR01_Toronto_Canada,Toronto Canada
+com_pccwglobal,3491,cr02.atl01.pccwbtn.net,ATL01_Atlanta_Georgia,Atlanta Georgia
+com_pccwglobal,3491,cr02.chc01.pccwbtn.net,CHC01_Chicago_Illinois,Chicago Illinois
+com_pccwglobal,3491,cr02.dal01.pccwbtn.net,DAL01_Dallas_Texas,Dallas Texas
+com_pccwglobal,3491,cr02.mia02.pccwbtn.net,MIA02_Miami_Florida,Miami Florida
+com_pccwglobal,3491,cr03.tap01.pccwbtn.net,TAP01_Taipei_ROC,Taipei ROC
+com_pccwglobal,3491,cr04.ldn01.pccwbtn.net,LDN01_London_England,London England
+com_pccwglobal,3491,cvar01.vcc01.pccwbtn.net,VCC01_Malawi,Malawi
+com_pccwglobal,3491,sw01.seo03.pccwbtn.net,SEO03_Seoul_South_Korea,Seoul South Korea
+com_pccwglobal,3491,sw03.ldn07.pccwbtn.net,LDN07_London_England,London England
+com_pccwglobal,3491,var01.acc01.pccwbtn.net,ACC01_Accra_Ghana,Accra Ghana
+com_pccwglobal,3491,var01.beg02.pccwbtn.net,BEG02_Belgrade_Serbia,Belgrade Serbia
+com_pccwglobal,3491,var01.bkk02.pccwbtn.net,BKK02_Bangkok_Thailand,Bangkok Thailand
+com_pccwglobal,3491,var01.bru01.pccwbtn.net,BRU01_Brussels_Belgium,Brussels Belgium
+com_pccwglobal,3491,var01.cai01.pccwbtn.net,CAI01_Cairo_Eygpt,Cairo Eygpt
+com_pccwglobal,3491,var01.cpt01.pccwbtn.net,CPT01_Cape_Town_South_Africa,Cape Town South Africa
+com_pccwglobal,3491,var01.dar01.pccwbtn.net,DAR01_Tanzania,Tanzania
+com_pccwglobal,3491,var01.dar02.pccwbtn.net,DAR02_Tanzania,Tanzania
+com_pccwglobal,3491,var01.dub02.pccwbtn.net,DUB02_Dubai_UAE,Dubai UAE
+com_pccwglobal,3491,var01.han02.pccwbtn.net,HAN02_Hanoi_Vietnam,Hanoi Vietnam
+com_pccwglobal,3491,var01.hcm02.pccwbtn.net,MCM02_Ho_Chi_Min_City,Ho Chi Min City
+com_pccwglobal,3491,var01.hkg14.pccwbtn.net,HKG14_Hong_Kong,Hong Kong
+com_pccwglobal,3491,var01.jnb01.pccwbtn.net,JNB01_Johannesburg_South_Africa,Johannesburg South Africa
+com_pccwglobal,3491,var01.jnb02.pccwbtn.net,JNB02_Johannesburg_South_Africa,Johannesburg South Africa
+com_pccwglobal,3491,var01.kla01.pccwbtn.net,KLA01_Kampala_Uganda,Kampala Uganda
+com_pccwglobal,3491,var01.klp02.pccwbtn.net,KLP02_Kula_Lumpur_Malaysia,Kula Lumpur Malaysia
+com_pccwglobal,3491,var01.ldn06.pccwbtn.net,LDN06_London_England,London England
+com_pccwglobal,3491,var01.los01.pccwbtn.net,LLW01_Lilongwe_Malawi,Lilongwe Malawi
+com_pccwglobal,3491,var01.los01.pccwbtn.net,LOS01_Lagos_Nigeria,Lagos Nigeria
+com_pccwglobal,3491,var01.lun01.pccwbtn.net,LUN01_Lusaka_Zambia,Lusaka Zambia
+com_pccwglobal,3491,var01.mau01.pccwbtn.net,MAU01_Mauritius,Mauritius
+com_pccwglobal,3491,var01.mba01.pccwbtn.net,MBA01_Keyna,Keyna
+com_pccwglobal,3491,var01.mch01.pccwbtn.net,MCH01_Frankurt_Germany,Frankurt Germany
+com_pccwglobal,3491,var01.mnl02.pccwbtn.net,MNL02_Manila_Philippines,Manila Philippines
+com_pccwglobal,3491,var01.mpm01.pccwbtn.net,MPM01_Mozambique,Mozambique
+com_pccwglobal,3491,var01.mpm02.pccwbtn.net,MPM02_Mozambique,Mozambique
+com_pccwglobal,3491,var01.mtu01.pccwbtn.net,MTU01_Mtunzini_South_Africa,Mtunzini South Africa
+com_pccwglobal,3491,var01.nbo01.pccwbtn.net,NBO01_Nairobi_Kenya,Nairobi Kenya
+com_pccwglobal,3491,var01.sof02.pccwbtn.net,SOF02_Sofia_Bulgaria,Sofia Bulgaria
+com_pccwglobal,3491,var01.tap03.pccwbtn.net,TAP03_Taipei_ROC,Taipei ROC
+com_pccwglobal,3491,var02.hcm02.pccwbtn.net,HCM02_Ho_Chi_Minh_City_Vietnam,Ho Chi Minh City Vietnam
+com_pccwglobal,3491,var02.jkt02.pccwbtn.net,JKT02_Jakarta_Indonesia,Jakarta Indonesia
+com_pccwglobal,3491,var02.nbo02.pccwbtn.net,NBO02_Nairobi_Keyna,Nairobi Keyna
+com_pccwglobal,3491,var02.syd04.pccwbtn.net,SYD04_Sydney_Australia,Sydney Australia
+com_pccwglobal,3491,var03.buh01.pccwbtn.net,BUH01_Bucharest_Romainia,Bucharest Romainia
+com_pccwglobal,3491,var04.dub04.pccwbtn.net,DUB04_Dubai_UAE,Dubai UAE
+com_phyber,7012,none,El_Segundo_CA_US,El Segundo CA US
+com_pipe,17999,Adelaide IX (AS17999),IX_Adelaide_AU,Adelaide AU
+com_pipe,17999,Adelaide IX Backup (AS17999),IX_Adelaide_AU_Backup,Adelaide AU
+com_pipe,18398,Sydney IX (AS18398),IX_Sydney_AU,Sydney AU
+com_pipe,18398,Sydney IX Backup (AS18398),IX_Sydney_AU_Backup,Sydney AU
+com_pipe,23741,Hobart IX (AS23741),IX_Hobart_AU,Hobart AU
+com_pipe,23741,Hobart IX Backup (AS23741),IX_Hobart_AU_Backup,Hobart AU
+com_pipe,23745,Melbourne IX (AS23745),IX_Melbourne_AU,Melbourne AU
+com_pipe,23745,Melbourne IX Backup (AS23745),IX_Melbourne_AU_Backup,Melbourne AU
+com_pipe,24130,Adelaide Transit (AS24130),Transit_Adelaide_AU,Transit Adelaide AU
+com_pipe,24130,Brisbane Transit (AS24130),Transit_Brisbane_AU,Transit Brisbane AU
+com_pipe,24130,Melbourne Transit (AS24130),Transit_Melbourne_AU,Transit Melbourne AU
+com_pipe,24130,Sydney Transit (AS24130),Transit_Sydney_AU,Transit Sydney AU
+com_pipe,9722,Brisbane IX (AS9722),IX_Brisbane_AU,Brisbane AU
+com_pipe,9722,Brisbane IX Backup (AS9722),IX_Brisbane_AU_Backup,Brisbane AU
+com_telx,32299,Atlanta,Atlanta_GA_US,Atlanta GA US
+com_telx,32299,Dallas,Dallas_TX_US,Dallas TX US
+com_telx,32299,New York,New_York_NY_US,New York NY US
+com_telx,32299,Phoenix,Phoenix_AZ_US,Phoenix AZ US
+com_towardex,27552,"1 Summer Street, Boston, MA (BST01)",1_Summer_Street_Boston_MA_US,Boston MA US
+com_towardex,27552,rtr1,Guest_Station_Boston_MA_US,Boston MA US
+com_virtutel,24516,"Auckland, NZ",Auckland_NZ,Auckland NZ
+com_virtutel,24516,"Los Angeles, USA",Los_Angeles_US,Los Angeles US
+com_virtutel,24516,Adelaide,Adelaide_AU,Adelaide AU
+com_virtutel,24516,Brisbane,Brisbane_AU,Brisbane AU
+com_virtutel,24516,Melbourne,Melbourne_AU,Melbourne AU
+com_virtutel,24516,Perth,Perth_AU,Perth AU
+com_virtutel,24516,Singapore,Singapore_SG,Singapore SG
+com_virtutel,24516,Sydney,Sydney_AU,Sydney AU
+com_vocus,4826,Sydney,Sydney_AU,Sydney AU
+com_webex,13445,AMS10-WXBB-CRT01,Amsterdam_NL_1,"Amsterdam, NL"
+com_webex,13445,AMS10-WXBB-CRT02,Amsterdam_NL_2,"Amsterdam, NL"
+com_webex,13445,DFW10-WXBB-CRT01,Dallas_TX_1,"Dallas, TX"
+com_webex,13445,DFW10-WXBB-CRT02,Dallas_TX_2,"Dallas, TX"
+com_webex,13445,HKG10-WXBB-CRT01,HongKong_CN_1,"HongKong, CN"
+com_webex,13445,HKG10-WXBB-CRT02,HongKong_CN_2,"HongKong, CN"
+com_webex,13445,IAD02-WXBB-CRT01,Dulles_VA_1,"Dulles, VA"
+com_webex,13445,IAD02-WXBB-CRT02,Dulles_VA_2,"Dulles, VA"
+com_webex,13445,JFK10-WXBB-CRT01,Newyork_NY_1,"Newyork, NY"
+com_webex,13445,JFK10-WXBB-CRT02,Newyork_NY_2,"Newyork, NY"
+com_webex,13445,LAX10-WXBB-CRT01,LosAngles_CA_1,"LosAngles, CA"
+com_webex,13445,LAX10-WXBB-CRT02,LosAngles_CA_2,"LosAngles, CA"
+com_webex,13445,LHR03-WXBB-CRT01,London_UK_1,"London, UK"
+com_webex,13445,LHR03-WXBB-CRT02,London_UK_2,"London, UK"
+com_webex,13445,NRT02-WXBB-CRT01,Nirata_JP_1,"Nirata, JP"
+com_webex,13445,NRT02-WXBB-CRT02,Nirata_JP_2,"Nirata, JP"
+com_webex,13445,NRT03-WXBB-CRT01,Nirata_JP_3,"Nirata, JP"
+com_webex,13445,NRT03-WXBB-CRT02,Nirata_JP_4,"Nirata, JP"
+com_webex,13445,ORD10-WXBB-CRT01,Chicago_IL_1,"Chicago, IL"
+com_webex,13445,ORD10-WXBB-CRT02,Chicago_IL_2,"Chicago, IL"
+com_webex,13445,SIN01-WXBB-CRT01,Singapore_1,Singapore
+com_webex,13445,SIN01-WXBB-CRT02,Singapore_2,Singapore
+com_webex,13445,SJC02-WXBB-CRT01,SanJose_CA_1,"SanJose, CA"
+com_webex,13445,SJC02-WXBB-CRT02,SanJose_CA_2,"SanJose, CA"
+com_webex,13445,SYD10-WXBB-CRT01,Sydney_Australia_1,"Sydney, Australia"
+com_webex,13445,SYD10-WXBB-CRT02,Sydney_Australia_2,"Sydney, Australia"
+com_webex,13445,YYZ01-WXBB-CRT01,Toronto_ON_CA_1,"Toronto, ON, CA"
+com_webex,13445,YYZ01-WXBB-CRT02,Toronto_ON_CA_2,"Toronto, ON, CA"
+com_xmission,3549,Global Crossing (AS3549),Phoenix_AZ_US,Phoenix AZ US
+com_xmission,6315,"(SLC, UT) Border Router #1",Salt_Lake_City_UT_1,Salt Lake City UT
+com_xmission,6315,"(SLC, UT) Border Router #2",Salt_Lake_City_UT_2,Salt Lake City UT
+com_xmission,6447,Oregon Exchange,Eugene_OR_US,Eugene OR US
+com_xmission,7018,AT&T,Bridgeton_MO_US,Bridgeton MO US
+com_xo,2828,Amsterdam-NH.NL,Amsterdam_NH_NL,AmsterdamNL
+com_xo,2828,Austin-TX,Austin_TX,Austin TX
+com_xo,2828,Beaverton-OR,Beaverton_OR,Beaverton OR
+com_xo,2828,Boston-MA,Boston_MA,Boston MA
+com_xo,2828,Buffalo-NY,Buffalo_NY,Buffalo NY
+com_xo,2828,Charlotte-NC,Charlotte_NC,Charlotte NC
+com_xo,2828,Chicago-IL,Chicago_IL,Chicago IL
+com_xo,2828,Cleveland-OH,Cleveland_OH,Cleveland OH
+com_xo,2828,Columbus-OH,Columbus_OH,Columbus OH
+com_xo,2828,Dallas-TX,Dallas_TX,Dallas TX
+com_xo,2828,Englewood-CO,Englewood_CO,Englewood CO
+com_xo,2828,Frankfurt2-HE.DE,Frankfurt2_HE_DE,Frankfurt2 HE DE
+com_xo,2828,Fremont-CA,Fremont_CA,Fremont CA
+com_xo,2828,Henderson-NV,Henderson_NV,Henderson NV
+com_xo,2828,HongKong-CN,HongKong_CN,HongKong CN
+com_xo,2828,Houston-TX,Houston_TX,Houston TX
+com_xo,2828,LA-CA,LA_CA,LA CA
+com_xo,2828,London-EN.UK,London_EN_UK,London EN UK
+com_xo,2828,MarylandHeights-MO,MarylandHeights_MO,MarylandHeights MO
+com_xo,2828,Memphis-TN,Memphis_TN,Memphis TN
+com_xo,2828,Miami-FL,Miami_FL,Miami FL
+com_xo,2828,Minneapolis-MN,Minneapolis_MN,Minneapolis MN
+com_xo,2828,Nashville-TN,Nashville_TN,Nashville TN
+com_xo,2828,Newark-NJ,Newark_NJ,Newark NJ
+com_xo,2828,NYC-NY,NYC_NY,NYC NY
+com_xo,2828,Philadelphia-PA,Philadelphia_PA,Philadelphia PA
+com_xo,2828,Phoenix-AZ,Phoenix_AZ,Phoenix AZ
+com_xo,2828,Roseville-CA,Roseville_CA,Roseville CA
+com_xo,2828,SaltLake2-UT,SaltLake2_UT,SaltLake2 UT
+com_xo,2828,SanDiego-CA,SanDiego_CA,SanDiego CA
+com_xo,2828,SantaAna-CA,SantaAna_CA,SantaAna CA
+com_xo,2828,Seattle-WA,Seattle_WA,Seattle WA
+com_xo,2828,Smyrna-GA,Smyrna_GA,Smyrna GA
+com_xo,2828,Southfield-MI,Southfield_MI,Southfield MI
+com_xo,2828,Spokane-WA,Spokane_WA,Spokane WA
+com_xo,2828,Tampa-FL,Tampa_FL,Tampa FL
+com_xo,2828,Toronto-ON.CA,Toronto_ON_CA,Toronto ON CA
+com_xo,2828,Washington-DC,Washington_DC,Washington DC
+com_zayo,6461,"Amsterdam, Netherlands",Amsterdam_Netherlands,"Amsterdam, Netherlands"
+com_zayo,6461,"Ashburn, VA",Ashburn_VA,"Ashburn, VA"
+com_zayo,6461,"Atlanta, GA",Atlanta_GA,"Atlanta, GA"
+com_zayo,6461,"Austin, TX",Austin_TX,"Austin, TX"
+com_zayo,6461,"Baltimore, MD",Baltimore_MD,"Baltimore, MD"
+com_zayo,6461,"Boston, MA",Boston_MA,"Boston, MA"
+com_zayo,6461,"Chicago, IL",Chicago_IL,"Chicago, IL"
+com_zayo,6461,"Cleveland, OH",Cleveland_OH,"Cleveland, OH"
+com_zayo,6461,"Dallas, TX",Dallas_TX,"Dallas, TX"
+com_zayo,6461,"Denver, CO",Denver_CO,"Denver, CO"
+com_zayo,6461,"Frankfurt, Germany",Frankfurt_Germany,"Frankfurt, Germany"
+com_zayo,6461,"Houston, TX",Houston_TX,"Houston, TX"
+com_zayo,6461,"Kansas City, MO",Kansas_City_MO,"Kansas City, MO"
+com_zayo,6461,"Las Vegas, NV",Las_Vegas_NV,"Las Vegas, NV"
+com_zayo,6461,"London, England",London_England,"London, England"
+com_zayo,6461,"Los Angeles, CA",Los_Angeles_CA,"Los Angeles, CA"
+com_zayo,6461,"Memphis, TN",Memphis_TN,"Memphis, TN"
+com_zayo,6461,"Miami, FL",Miami_FL,"Miami, FL"
+com_zayo,6461,"Minneapolis, MN",Minneapolis_MN,"Minneapolis, MN"
+com_zayo,6461,"Nashville, TN",Nashville_TN,"Nashville, TN"
+com_zayo,6461,"New York, NY",New_York_NY,"New York, NY"
+com_zayo,6461,"Newark, NJ",Newark_NJ,"Newark, NJ"
+com_zayo,6461,"Palo Alto, CA",Palo_Alto_CA,"Palo Alto, CA"
+com_zayo,6461,"Paris, France",Paris_France,"Paris, France"
+com_zayo,6461,"Philadelphia, PA",Philadelphia_PA,"Philadelphia, PA"
+com_zayo,6461,"Phoenix, AZ",Phoenix_AZ,"Phoenix, AZ"
+com_zayo,6461,"Pittsburgh, PA",Pittsburgh_PA,"Pittsburgh, PA"
+com_zayo,6461,"Portland, OR",Portland_OR,"Portland, OR"
+com_zayo,6461,"Salt Lake City, UT",Salt_Lake_City_UT,"Salt Lake City, UT"
+com_zayo,6461,"San Francisco, CA",San_Francisco_CA,"San Francisco, CA"
+com_zayo,6461,"San Jose, CA",San_Jose_CA,"San Jose, CA"
+com_zayo,6461,"Seattle, WA",Seattle_WA,"Seattle, WA"
+com_zayo,6461,"Stamford, CT",Stamford_CT,"Stamford, CT"
+com_zayo,6461,"Toronto, Canada",Toronto_Canada,"Toronto, Canada"
+com_zayo,6461,"Washington, DC",Washington_DC,"Washington, DC"
+de_belwue,553,route-server.belwue.de,Stuttgart_DE,Stuttgart DE
+de_kamp,8648,none,Kamp_DE,Kamp DE
+de_manda,8365,routeserver.man-da.de,Darmstadt_DE,Darmstadt DE
+de_netcologne,8422,rtlg (Cologne),Koeln_DE,Koeln DE
+edu_aarnet,7575,none,Sydney_AU,Sydney AU
+edu_princeton,88,none,Princeton_NJ_US,Princeton NJ US
+edu_stanford,3671,none,Stanford_CA_US,Stanford CA US
+edu_usc,47,none,Los_Angeles_CA_US,Los Angeles CA US
+es_rediris,766,130.206.194.254,Madrid_ES_1,Madrid ES
+es_rediris,766,130.206.195.254,Madrid_ES_6,Madrid ES
+es_rediris,766,130.206.198.125,Madrid_ES_3,Madrid ES
+es_rediris,766,130.206.198.254,Madrid_ES_5,Madrid ES
+es_rediris,766,130.206.201.254,Madrid_ES_8,Madrid ES
+es_rediris,766,130.206.206.250,Madrid_ES_4,Madrid ES
+es_rediris,766,130.206.211.254,Madrid_ES_7,Madrid ES
+es_rediris,766,130.206.212.254,Madrid_ES_2,Madrid ES
+eu_as8218,8218,tcr1.eqx.zrh,Zurich_CH,Zurich CH
+eu_as8218,8218,tcr1.eun.ams,Amsterdam_NL_1,Amsterdam NL
+eu_as8218,8218,tcr1.gs.par,Paris_FR_3,Paris FR
+eu_as8218,8218,tcr1.itx.bru,Brussels_BE,Brussels BE
+eu_as8218,8218,tcr1.itx.vie,Vienna_AT_2,Vienna AT
+eu_as8218,8218,tcr1.itx1.fra,Frankfurt_DE_1,Frankfurt DE
+eu_as8218,8218,tcr1.rb.par,Paris_FR_1,Paris FR
+eu_as8218,8218,tcr1.tc2.ams,Amsterdam_NL_2,Amsterdam NL
+eu_as8218,8218,tcr1.th2.par,Paris_FR_2,Paris FR
+eu_as8218,8218,tcr1.thn.lon,London_UK,London UK
+eu_as8218,8218,tcr1.vix.vie,Vienna_AT_1,Vienna AT
+eu_as8218,8218,tcr2.itx1.fra,Frankfurt_DE_2,Frankfurt DE
+eu_ecritel,8304,"Telx, NYC, USA",New_York_NY_US,New York NY US
+gs_sg,24482,HK1 - Edge-1,Hong_Kong_HK,Hong Kong HK
+gs_sg,24482,LAX1 - Edge-1,Los_Angeles_CA_US,Los Angeles CA US
+gs_sg,24482,NYC1 - Edge-1,New_York_NY_US,New York NY US
+gs_sg,24482,SG1 - Edge 1,Singapore_SG,Singapore SG
+gs_sg,24482,SG1 - Edge 2,Singapore_SG,Singapore SG
+gs_sg,24482,SG3 - Edge-1,Singapore_SG,Singapore SG
+gs_sg,24482,SG3 - Edge-2,Singapore_SG,Singapore SG
+hu_hbone,1955,rtr2,Budapest_HU,Budapest HU
+ie_heanet,1213,Blanchardstown - blanch-sr1.services.hea.net,Dublin_IE,Dublin IE
+ie_magnet,3257,d-clon-border1,Dublin_IE,Dublin IE
+ie_magnet,3257,Global Crossing,Phoenix_AZ_US,Phoenix AZ US
+ie_magnet,3257,Oregon Exchange,Eugene_OR_US,Eugene OR US
+ie_magnet,3257,TISCALI (AS 3257),Frankfurt_DE,Frankfurt DE
+it_garr,137,r.bo1.garr.net,Bologna_IT_01,Bologna IT
+it_garr,137,r.mi1.garr.net,Milan_IT_02,Milan IT
+it_garr,137,r.mi2.garr.net,Rome_IT_02,Rome IT
+it_garr,137,r.rm2.garr.net,Milan_IT_01,Milan IT
+it_garr,137,rc.ag.garr.net,Rome_IT_64,Rome IT
+it_garr,137,rc.ba1.garr.net,Rome_IT_48,Rome IT
+it_garr,137,rc.br.garr.net,Rome_IT_57,Rome IT
+it_garr,137,rc.cs.garr.net,Rome_IT_58,Rome IT
+it_garr,137,rc.ct1.garr.net,Rome_IT_63,Rome IT
+it_garr,137,rc.cz.garr.net,Rome_IT_55,Rome IT
+it_garr,137,rc.fg.garr.net,Rome_IT_51,Rome IT
+it_garr,137,rc.le.garr.net,Rome_IT_56,Rome IT
+it_garr,137,rc.maz.garr.net,Rome_IT_61,Rome IT
+it_garr,137,rc.me.garr.net,Rome_IT_54,Rome IT
+it_garr,137,rc.na1.garr.net,Rome_IT_49,Rome IT
+it_garr,137,rc.na2.garr.net,Rome_IT_50,Rome IT
+it_garr,137,rc.pa1.garr.net,Rome_IT_53,Rome IT
+it_garr,137,rc.rg.garr.net,Rome_IT_59,Rome IT
+it_garr,137,rc.sa.garr.net,Rome_IT_52,Rome IT
+it_garr,137,rc.sr.garr.net,Rome_IT_60,Rome IT
+it_garr,137,rc.tp.garr.net,Rome_IT_62,Rome IT
+it_garr,137,re1.an.garr.net,Bologna_IT_04,Bologna IT
+it_garr,137,re1.aq1.garr.net,Rome_IT_14,Rome IT
+it_garr,137,re1.fe.garr.net,Bari_IT_01,Bari IT 01
+it_garr,137,re1.fra.garr.net,Rome_IT_15,Rome IT
+it_garr,137,re1.ge1.garr.net,Rome_IT_16,Rome IT
+it_garr,137,re1.me.garr.net,Rome_IT_17,Rome IT
+it_garr,137,re1.mt.garr.net,Rome_IT_18,Rome IT
+it_garr,137,re1.pg.garr.net,Rome_IT_19,Rome IT
+it_garr,137,re1.pv.garr.net,Milan_IT_14,Milan IT
+it_garr,137,re1.pz.garr.net,Rome_IT_20,Rome IT
+it_garr,137,re1.rm4.garr.net,Rome_IT_21,Rome IT
+it_garr,137,re1.ss.garr.net,Rome_IT_22,Rome IT
+it_garr,137,re1.tn.garr.net,Rome_IT_23,Rome IT
+it_garr,137,re1.ve.garr.net,Rome_IT_24,Rome IT
+it_garr,137,re2.an.garr.net,Rome_IT_25,Rome IT
+it_garr,137,re2.aq1.garr.net,Rome_IT_26,Rome IT
+it_garr,137,re2.fe.garr.net,Rome_IT_27,Rome IT
+it_garr,137,re2.fra.garr.net,Rome_IT_28,Rome IT
+it_garr,137,re2.ge1.garr.net,Rome_IT_29,Rome IT
+it_garr,137,re2.mt.garr.net,Rome_IT_30,Rome IT
+it_garr,137,re2.pg.garr.net,Rome_IT_31,Rome IT
+it_garr,137,re2.pv.garr.net,Milan_IT_15,Milan IT
+it_garr,137,re2.pz.garr.net,Rome_IT_32,Rome IT
+it_garr,137,re2.rm4.garr.net,Rome_IT_33,Rome IT
+it_garr,137,re2.ss.garr.net,Rome_IT_34,Rome IT
+it_garr,137,re2.tn.garr.net,Rome_IT_35,Rome IT
+it_garr,137,re2.ve.garr.net,Rome_IT_36,Rome IT
+it_garr,137,rx1.bo1.garr.net,Milan_IT_03,Milan IT
+it_garr,137,rx1.bo3.garr.net,Rome_IT_03,Rome IT
+it_garr,137,rx1.br.garr.net,Rome_IT_45,Rome IT
+it_garr,137,rx1.ca1.garr.net,Rome_IT_04,Rome IT
+it_garr,137,rx1.cs.garr.net,Rome_IT_40,Rome IT
+it_garr,137,rx1.ct1.garr.net,Rome_IT_05,Rome IT
+it_garr,137,rx1.cz.garr.net,Rome_IT_44,Rome IT
+it_garr,137,rx1.fg.garr.net,Rome_IT_41,Rome IT
+it_garr,137,rx1.fi1.garr.net,Rome_IT_06,Rome IT
+it_garr,137,rx1.le.garr.net,Rome_IT_47,Rome IT
+it_garr,137,rx1.me.garr.net,Rome_IT_42,Rome IT
+it_garr,137,rx1.mi1.garr.net,Milan_IT_04,Milan IT
+it_garr,137,rx1.mi2.garr.net,Milan_IT_05,Milan IT
+it_garr,137,rx1.mi3.garr.net,Milan_IT_06,Milan IT
+it_garr,137,rx1.mi4.garr.net,Rome_IT_37,Rome IT
+it_garr,137,rx1.na1.garr.net,Naples_IT_01,Naples IT
+it_garr,137,rx1.na2.garr.net,Rome_IT_39,Rome IT
+it_garr,137,rx1.na6.garr.net,Rome_IT_43,Rome IT
+it_garr,137,rx1.pa1.garr.net,Rome_IT_07,Rome IT
+it_garr,137,rx1.pd2.garr.net,Bologna_IT_02,Bologna IT
+it_garr,137,rx1.pi1.garr.net,Milan_IT_07,Milan IT
+it_garr,137,rx1.rc.garr.net,Rome_IT_38,Rome IT
+it_garr,137,rx1.rm1.garr.net,Rome_IT_08,Rome IT
+it_garr,137,rx1.rm2.garr.net,Rome_IT_09,Rome IT
+it_garr,137,rx1.sa.garr.net,Naples_IT_02,Naples IT
+it_garr,137,rx1.to1.garr.net,Milan_IT_08,Milan IT
+it_garr,137,rx1.ts1.garr.net,Milan_IT_09,Milan IT
+it_garr,137,rx2.ba1.garr.net,Rome_IT_10,Rome IT
+it_garr,137,rx2.bo1.garr.net,Bologna_IT_03,Bologna IT
+it_garr,137,rx2.ct1.garr.net,Rome_IT_11,Rome IT
+it_garr,137,rx2.mi1.garr.net,Rome_IT_12,Rome IT
+it_garr,137,rx2.mi2.garr.net,Milan_IT_10,Milan IT
+it_garr,137,rx2.mi3.garr.net,Milan_IT_11,Milan IT
+it_garr,137,rx2.na1.garr.net,Rome_IT_01,Rome IT
+it_garr,137,rx2.pa1.garr.net,Rome_IT_13,Rome IT
+it_garr,137,rx2.pd2.garr.net,Milan_IT_12,Milan IT
+it_garr,137,rx2.rm2.garr.net,Milan_IT_13,Milan IT
+it_garr,137,rx3.ba1.garr.net,Rome_IT_46,Rome IT
+mn_gemnet,45204,br1.fra.gemnet.mn:juniper,Frankfurt_DE,Frankfurt DE
+mn_gemnet,45204,br1.lax.gemnet.mn:cisco,Los_Angeles_CA_US,Los Angeles CA US
+mn_gemnet,45204,cr2.uln.gemnet.mn:cisco,Ulaanbaatar_MN,Ulaanbaatar MN
+net_appliedops,40475,none,San_Francisco_CA_US,San Francisco CA US
+net_arpnetworks,25795,none,Sylmar_CA_US,Sylmar CA US
+net_as8681,8681,fr.aub.tbr01,Frankfurt_DE,Frankfurt DE
+net_as8681,8681,gg.ftl.rrr01,Saint_Helier_JE_3,Saint Helier JE
+net_as8681,8681,je.cen.rrr01,Saint_Helier_JE_1,Saint Helier JE
+net_as8681,8681,je.trs.rrr01,Saint_Helier_JE_2,Saint Helier JE
+net_as8681,8681,uk.pwg.tbr01,London_UK_2,London UK
+net_as8681,8681,uk.the.pbr01,London_UK_4,London UK
+net_as8681,8681,uk.thn.pbr01,London_UK_3,London UK
+net_as8681,8681,uk.thn.tbr01,London_UK_1,London UK
+net_asdasd,28929,ash,Ashburn_VA_US,Ashburn VA US
+net_asdasd,28929,bras-bl-05,Belluno_IT,Belluno IT
+net_asdasd,28929,bras-pd-04,Padova_IT,Padova IT
+net_asdasd,28929,bras-tv-01,Povegliano_Treviso_IT_1,Povegliano Treviso IT
+net_asdasd,28929,bras-tv-06,Povegliano_Treviso_IT_2,Povegliano Treviso IT
+net_asdasd,28929,bras-ve-07,Venice_IT,Venice IT
+net_asdasd,28929,flr-tix,Florence_IT,Florence IT
+net_asdasd,28929,gblx,Caracas_Venezuela,Caracas Venezuela
+net_asdasd,28929,lax,Los_Angeles_CA_US,Los Angeles CA US
+net_asdasd,28929,london,London_UK,London UK
+net_asdasd,28929,marghera-core,Marghera_Venice_IT,Marghera Venice IT
+net_asdasd,28929,mi-caldera-ix,Milan_IT,Milan IT
+net_asdasd,28929,pd-core,Padua_IT,Padua IT
+net_asdasd,28929,tinet,Frankfurt_DE,Frankfurt DE
+net_asdasd,28929,tn-core,Trento_IT,Trento IT
+net_asdasd,28929,vsix,VSIX_Padua_IT,VSIX Padua IT
+net_atlmetro,32903,none,Parsippany_NJ_US,Parsippany NJ US
+net_atrato,5580,noc.dal1.us,Dallas_TX_US,Dallas TX US
+net_atrato,5580,noc.mia1.us,Miami_FL_US,Miami FL US
+net_atrato,5580,noc.sng2.sg,Singapore_SG,Singapore SG
+net_atrato,5580,noc.war1.pl,Warsaw_PL,Warsaw PL
+net_atrato,5580,rc1.ams1.nl,Amsterdam_NL,Amsterdam NL
+net_atrato,5580,rc1.ash1.us,Ashburn_VA_US,Ashburn VA US
+net_atrato,5580,rc1.atl1.us,Atlanta_GA_US,Atlanta GA US
+net_atrato,5580,rc1.fra6.de,Frankfurt_DE,Frankfurt DE
+net_atrato,5580,rc1.lax1.us,Los_Angeles_CA_US,Los Angeles CA US
+net_atrato,5580,rc1.par2.fr,Paris_FR,Paris FR
+net_bboi,19151,AMS,AMS_Amsterdam_Netherlands,AMS Amsterdam Netherlands
+net_bboi,19151,ASH,ASH_Ashburn_VA_US,ASH Ashburn VA US
+net_bboi,19151,ATL,Atlanta_GA,Atlanta GA
+net_bboi,19151,BOC,BOC_Boca_Raton_FL_US,Boca Raton FL US
+net_bboi,19151,CHI,CHI_Chicago_IL_US,Chicago IL US
+net_bboi,19151,COL,COL_Columbus_OH_US,Columbus OH US
+net_bboi,19151,DAL,DAL_Dallas_TX_US,Dallas TX US
+net_bboi,19151,IND,IND_Indianapolis_IN_US,Indianapolis IN US
+net_bboi,19151,LA2,LA2_Los_Angeles_CA_US_Equinix,Los Angeles CA US
+net_bboi,19151,LAX,LAX_Los_Angeles_CA_US,Los Angeles CA US
+net_bboi,19151,LON,LON_London_England,London England
+net_bboi,19151,LVA,LVA_Las_Vegas_NV_US,Las Vegas NV US
+net_bboi,19151,MAD,MAD_Madison_WI_US,Madison WI US
+net_bboi,19151,MIA,MIA_Miami_FL_US,Miami FL US
+net_bboi,19151,NJ,NJ_Newark_NJ_US,Newark NJ US
+net_bboi,19151,NSH,NSH_Nashville_TN_US,Nashville TN US
+net_bboi,19151,NYC,NYC_New_York_NY_US_60_Hudson,New York NY US 60 Hudson
+net_bboi,19151,NYC111,NYC111_New_York_NY_US_111_8th,New York NY US 111 8th
+net_bboi,19151,PAO,PAO_Palo_Alto_CA_US,Palo Alto CA US
+net_bboi,19151,PHX,PHX_Phoenix_AZ_US,Phoenix AZ US
+net_bboi,19151,PIT,PIT_Pittsburgh_PA_US,Pittsburgh PA US
+net_bboi,19151,SEA,SEA_Seattle_WA_US,Seattle WA US
+net_bboi,19151,SJC,SJC_San_Jose_CA_US,SJC San Jose CA US
+net_bell,577,Calgary,Calgary_AB_CA,Calgary AB CA
+net_bell,577,Chicago,Chicago_IL_US,Chicago IL US
+net_bell,577,Montreal,Montreal_QC_CA,Montreal QC CA
+net_bell,577,New York,New_York_NY_US,New York NY US
+net_bell,577,Seattle,Seattle_WA_US,Seattle WA US
+net_bell,577,Toronto,Toronto_ON_CA,Toronto ON CA
+net_bell,577,Vancouver,Vancouver_BC_CA,Vancouver BC CA
+net_bt,3300,AU-SYT:Australia Sydney AS3300 - t1a1.au-syt,Sydney_AU,Sydney AU
+net_bt,3300,BR-SPL:Brazil Sao Paulo AS3300 - t1a1.br-spl,Sao_Paulo_BR,Sao Paulo BR
+net_bt,3300,CN-HKG:Hong Kong AS3300 - t1a1.cn-hkg,Hong_Kong_HK,Hong Kong HK
+net_bt,3300,JP-TOK:Japan Tokyo AS3300 - t1a1.jp-tok,Tokyo_JP,Tokyo JP
+net_bt,3300,US-LOA:United States Los Angeles AS3300 - t1a1.us-loa,Los_Angeles_CA_US,Los Angeles CA US
+net_bt,3300,US-NYC:United States New York AS3300 - t1a1.us-nyc,New_York_NY_US_2,New York NY US
+net_bt,3300,US-SNJ:United States San Jose AS3300 - t1a1.us-snj,San_Jose_CA_US,San Jose CA US
+net_bt,3300,US-WDC:United States Washington AS3300 - t1a1.us-wdc,Washington_DC_US,Washington DC US
+net_bt,5400,AT-VIE:Austria - t3a1.at-vie,Vienna_AT,Vienna AT
+net_bt,5400,BE-BRU:Belgium - t2a1.be-bru,Brussels_BE,Brussels BE
+net_bt,5400,CH-ZUR:Switzerland - t3a1.ch-zrh,Zurich_CH,Zurich CH
+net_bt,5400,CZ-PRA:Czech Republic - t2a1.cz-pra,Prague_CZ,Prague CZ
+net_bt,5400,DE-FRA:Germany - t2a1.de-fra,Frankfurt_DE,Frankfurt DE
+net_bt,5400,DK-COP:Denmark - t3a1.dk-cop,Copenhagen_DK,Copenhagen DK
+net_bt,5400,ES-BAR:Spain - t2a1.es-bar,Barcelona_ES,Barcelona ES
+net_bt,5400,ES-MAD3:Spain - t2a5.es-mad3,Madrid_ES,Madrid ES
+net_bt,5400,FI-HEL:Finland - t3a2.fi-hel,Helsinki_FI,Helsinki FI
+net_bt,5400,FR-PAR2:France - t2a1.fr-par2,Paris_FR,Paris FR
+net_bt,5400,HU-BUD:Hungary - t2a1.hu-bud,Budapest_HU,Budapest HU
+net_bt,5400,IE-DUB2:Ireland - t2a1.ie-dub2,Dublin_IE,Dublin IE
+net_bt,5400,IT-MIL2:Italy - t2a1.it-mil2,Milan_IT,Milan IT
+net_bt,5400,NL-AMS2:Netherlands - t2a5.nl-ams2,Amsterdam_NL,Amsterdam NL
+net_bt,5400,SE-STO:Sweden - t2a1.se-sto,Stockholm_SE,Stockholm SE
+net_bt,5400,UK-LON1:United Kingdom - t2a2.uk-lon1,London_UK,London UK
+net_bt,5400,US-ASH:United States - ixp1.us-ash,Ashburn_VA_US,Ashburn VA US
+net_bt,5400,US-NYC:United States - ixp1.us-nyc,New_York_NY_US_1,New York NY US
+net_clara,8426,de,Frankfurt_DE,Frankfurt DE
+net_clara,8426,es,Barcelona_ES,Barcelona ES
+net_clara,8426,fr,Paris_FR,Paris FR
+net_clara,8426,nl,Netherlands,Netherlands
+net_clara,8426,pt,Lisbon_PT,Lisbon PT
+net_clara,8426,uk,London_UK,London UK
+net_clearfly,27400,none,Billings_MT_US,Billings MT US
+net_corbina,3216,cat05.Moscow.gldn.net(DR25),Moscow_RU_3,Moscow RU
+net_corbina,3216,cat08.Moscow.gldn.net(M9),Moscow_RU_2,Moscow RU
+net_corbina,3216,mx01.Amsterdam (Equinix),Amsterdam_NL,Amsterdam NL
+net_corbina,3216,mx01.Frankfurt (Ancotel),Frankfurt_DE,Frankfurt DE
+net_corbina,3216,mx01.Stockholm (Telecity),Stockholm_SE,Stockholm SE
+net_corbina,3216,pe29.Moscow.gldn.net(KK12),Moscow_RU_1,Moscow RU
+net_corbina,8402,ang17-bb.vlg,Sim_RU,Sim RU
+net_corbina,8402,b71-bb.spb,Moscow_RU_9,Moscow RU
+net_corbina,8402,bkun28-bb.spb,Moscow_RU_11,Moscow RU
+net_corbina,8402,bmor18-bb,Moscow_RU_6,Moscow RU
+net_corbina,8402,bmor18-bb.spb,Moscow_RU_7,Moscow RU
+net_corbina,8402,chk28-bb.tver,Moscow_RU_14,Moscow RU
+net_corbina,8402,chrn14a-bb.kur,Vladimir_RU,Vladimir RU
+net_corbina,8402,hq-rr,Moscow_RU_4,Moscow RU
+net_corbina,8402,len244-bb.stv,Moscow_RU_13,Moscow RU
+net_corbina,8402,len57a-bb.tul,Moscow_RU_15,Moscow RU
+net_corbina,8402,line21-bb.spb,Moscow_RU_8,Moscow RU
+net_corbina,8402,ltolst54-bb.ul,Moscow_RU_16,Moscow RU
+net_corbina,8402,mosk53-bb.yar,Moscow_RU_17,Moscow RU
+net_corbina,8402,msu-rr,Moscow_RU_5,Moscow RU
+net_corbina,8402,ordzh14-bb.perm,Moscow_RU_12,Moscow RU
+net_corbina,8402,perv75-bb.ast,Volgograd_RU,Volgograd RU
+net_corbina,8402,pioner7-bb.brn,Orenburg_RU,Orenburg RU
+net_corbina,8402,stank1-bb.ivn,Ivanovo_RU,Ivanovo RU
+net_corbina,8402,ucheb5-bb.spb,Moscow_RU_10,Moscow RU
+net_docler,34655,80.77.112.247,Budapest_HU,Budapest HU
+net_dts,12437,Juniper MX104 KG,Herford_DE_3,Herford DE
+net_dts,30941,Juniper M7i Beckum,Beckum_DE,Beckum DE
+net_dts,43421,Juniper M7i HH im HG,Hamburg_DE,Hamburg DE
+net_dts,43421,Juniper M7i HH im SG,Herford_DE_4,Herford DE
+net_dts,51000,Juniper M7i Aarhus 1,Aarhus_DK_1,Aarhus DK
+net_dts,51000,Juniper M7i Aarhus 2,Aarhus_DK_2,Aarhus DK
+net_dts,6447,Oregon Exchange (AS6447),Eugene_OR_US,Eugene OR US
+net_dts,8879,Juniper M10i Frankfurt,Frankfurt_DE,Frankfurt DE
+net_dts,8879,Juniper MX80 1 Herford,Herford_DE_1,Herford DE
+net_dts,8879,Juniper MX80 2 Herford,Herford_DE_2,Herford DE
+net_emix,8966,Etisalat Emix Router IPv4,Dubai_UAE,Dubai UAE
+net_eurorings,286,"Miami, Florida (US)",Miami_Florida_US,Miami Florida US
+net_eurorings,286,Amsterdam (NL),Amsterdam_NL,Amsterdam NL
+net_eurorings,286,Ashburn (US),Ashburn_US,Ashburn US
+net_eurorings,286,Barleben (DE),Barleben_DE,Barleben DE
+net_eurorings,286,Brussels (BE),Brussels_BE,Brussels BE
+net_eurorings,286,Chicago (US),Chicago_US,Chicago US
+net_eurorings,286,Copenhagen (DK),Copenhagen_DK,Copenhagen DK
+net_eurorings,286,Dallas (US),Dallas_US,Dallas US
+net_eurorings,286,Frankfurt (DE),Frankfurt_DE,Frankfurt DE
+net_eurorings,286,Geneve (CH),Geneve_CH,Geneve CH
+net_eurorings,286,Hamburg (DE),Hamburg_DE,Hamburg DE
+net_eurorings,286,Helsinki (FI),Helsinki_FI,Helsinki FI
+net_eurorings,286,Istanbul (TR),Istanbul_TR,Istanbul TR
+net_eurorings,286,London (UK),London_UK,London UK
+net_eurorings,286,Los Angeles (US),Los_Angeles_US,Los Angeles US
+net_eurorings,286,Madrid (ES),Madrid_ES,Madrid ES
+net_eurorings,286,Manchester (UK),Manchester_UK,Manchester UK
+net_eurorings,286,Milan (IT),Milan_IT,Milan IT
+net_eurorings,286,Munich (DE),Munich_DE,Munich DE
+net_eurorings,286,New York (US),New_York_US,New York US
+net_eurorings,286,Oslo (NO),Oslo_NO,Oslo NO
+net_eurorings,286,Paris (FR),Paris_FR,Paris FR
+net_eurorings,286,Prague (CZ),Prague_CZ,Prague CZ
+net_eurorings,286,San Jose (US),San_Jose_US,San Jose US
+net_eurorings,286,Vienna (AT),Vienna_AT,Vienna AT
+net_eurorings,286,Warsaw (PL),Warsaw_PL,Warsaw PL
+net_evolink,8262,Border Router 2 (International),Frankfurt_DE,Frankfurt DE
+net_evolink,8262,Peering Router 2,Sofia_BG,Sofia BG
+net_fdc,30058,http://lg.ams-c.fdcservers.net,Amsterdam_Cogent,Amsterdam NL
+net_fdc,30058,http://lg.ams-z.fdcservers.net,Amsterdam_Zayo,Amsterdam NL
+net_fdc,30058,http://lg.chi-c.fdcservers.net,Chicago_Cogent,Chicago US
+net_fdc,30058,http://lg.chi-z.fdcservers.net,Chicago_Zayo,Chicago US
+net_fdc,30058,http://lg.chi2-c.fdcservers.net,Chicago_Enterprise_Cogent,Chicago US
+net_fdc,30058,http://lg.chi2-z.fdcservers.net,Chicago_Enterprise_Zayo,Chicago US
+net_fdc,30058,http://lg.den-c.fdcservers.net,Denver_Cogent,Denver US
+net_fdc,30058,http://lg.den-z.fdcservers.net,Denver_Zayo,Denver US
+net_fdc,30058,http://lg.den2-c.fdcservers.net,Denver_Enterprise_Cogent,Denver US
+net_fdc,30058,http://lg.fra-c.fdcservers.net,Frankfurt_Cogent,Frankfurt US
+net_fdc,30058,http://lg.fra-z.fdcservers.net,Frankfurt_Zayo,Frankfurt US
+net_fdc,30058,http://lg.la-c.fdcservers.net,Los_Angeles_1_Cogent,Los Angeles US
+net_fdc,30058,http://lg.la-z.fdcservers.net,Los_Angeles_1_Zayo,Los Angeles US
+net_fdc,30058,http://lg.la2-c.fdcservers.net,Los_Angeles_2_Cogent,Los Angeles US
+net_fdc,30058,http://lg.lon-c.fdcservers.net,London,London UK
+net_fdc,30058,http://lg.mia-c.fdcservers.net,Miami,Miami
+net_fdc,30058,http://lg.ny-z.fdcservers.net,New_York,New York
+net_fdc,30058,http://lg.par-c.fdcservers.net,Paris,Paris
+net_fdc,30058,http://lg.sea-z.fdcservers.net,Seattle,Seattle
+net_fdc,30058,http://lg.vie-c.fdcservers.net,Vienna,Vienna
+net_fdc,30058,http://lg.zlin-z.fdcservers.net,Zlin,Zlin
+net_forethought,6653,none,none,Denver CO US
+net_gldn,3216,ang17-bb.vlg,Velikiy_Novgorod_RU,Velikiy Novgorod RU
+net_gldn,3216,b71-bb.spb,Moscow_RU_08,Moscow RU
+net_gldn,3216,bkun28-bb.spb,Moscow_RU_10,Moscow RU
+net_gldn,3216,bmor18-bb,Moscow_RU_06,Moscow RU
+net_gldn,3216,cat05.Moscow.gldn.net(DR25),Moscow_RU_03,Moscow RU
+net_gldn,3216,cat08.Moscow.gldn.net(M9),Moscow_RU_02,Moscow RU
+net_gldn,3216,chk28-bb.tver,Moscow_RU_16,Moscow RU
+net_gldn,3216,chrn14a-bb.kur,Vladimir_RU,Vladimir RU
+net_gldn,3216,hq-rr,Moscow_RU_04,Moscow RU
+net_gldn,3216,len244-bb.stv,Moscow_RU_15,Moscow RU
+net_gldn,3216,len57a-bb.tul,Moscow_RU_17,Moscow RU
+net_gldn,3216,line21-bb.spb,Moscow_RU_07,Moscow RU
+net_gldn,3216,ltolst54-bb.ul,Moscow_RU_18,Moscow RU
+net_gldn,3216,mosk-bb.klg,Moscow_RU_13,Moscow RU
+net_gldn,3216,mosk53-bb.yar,Moscow_RU_19,Moscow RU
+net_gldn,3216,msu-rr,Moscow_RU_05,Moscow RU
+net_gldn,3216,ordzh14-bb.perm,Moscow_RU_14,Moscow RU
+net_gldn,3216,pe01.Spb.gldn.net,Moscow_RU_01,Moscow RU
+net_gldn,3216,perv75-bb.ast,Volgograd_RU,Volgograd RU
+net_gldn,3216,pioner7-bb.brn,Moscow_RU_11,Moscow RU
+net_gldn,3216,stank1-bb.ivn,Moscow_RU_12,Moscow RU
+net_gldn,3216,ucheb5-bb.spb,Moscow_RU_09,Moscow RU
+net_global,3549,104714,Miami_UNITED_STATES_MIA2,Miami UNITED STATES
+net_global,3549,104830,Oslo_NORWAY_OSL2,Oslo NORWAY
+net_global,3549,118042,Antwerp_BELGIUM_NDL1_ANT,Antwerp BELGIUM
+net_global,3549,118462,Chicago_UNITED_STATES_CHI1,Chicago UNITED STATES
+net_global,3549,118468,Dallas_UNITED_STATES_DAL1,Dallas UNITED STATES
+net_global,3549,118724,Los_Angeles_UNITED_STATES_LAX1,Los Angeles UNITED STATES
+net_global,3549,119403,New_York_UNITED_STATES_JFK1,New York UNITED STATES
+net_global,3549,119409,Phoenix_UNITED_STATES_PHX1,Phoenix UNITED STATES
+net_global,3549,119611,Amsterdam_NETHERLANDS_AMS2,Amsterdam NETHERLANDS
+net_global,3549,119621,Atlanta_UNITED_STATES_ATL1,Atlanta UNITED STATES
+net_global,3549,119627,Clichy_FRANCE_CDG2,Clichy FRANCE
+net_global,3549,119637,Chai_Wan_CHINA_CLK1,Chai Wan CHINA
+net_global,3549,119643,Philadelphia_UNITED_STATES_PHI1,Philadelphia UNITED STATES
+net_global,3549,119649,Sunnyvale_UNITED_STATES_SNV2,Sunnyvale UNITED STATES
+net_global,3549,131943,Miami_UNITED_STATES_MIA1,Miami UNITED STATES
+net_global,3549,131962,London_UNITED_KINGDOM_LON3,London UNITED KINGDOM
+net_global,3549,135272,Washington_UNITED_STATES_WDC2,Washington UNITED STATES
+net_global,3549,137719,Denver_UNITED_STATES_DEN2,Denver UNITED STATES
+net_global,3549,137725,Indianapolis_UNITED_STATES_IND1,Indianapolis UNITED STATES
+net_global,3549,137731,Madrid_SPAIN_MAD1,Madrid SPAIN
+net_global,3549,137782,Frankfurt_GERMANY_FRA4,Frankfurt GERMANY
+net_global,3549,137803,Sacramento_UNITED_STATES_SAC1,Sacramento UNITED STATES
+net_global,3549,137902,Cleveland_UNITED_STATES_CLE1,Cleveland UNITED STATES
+net_global,3549,144422,Minneapolis_UNITED_STATES_MIN1,Minneapolis UNITED STATES
+net_global,3549,144482,Toronto_CANADA_YYZ1,Toronto CANADA
+net_global,3549,144523,Anaheim_UNITED_STATES_SNA1,Anaheim UNITED STATES
+net_global,3549,145146,Stockholm_SWEDEN_ARN3,Stockholm SWEDEN
+net_global,3549,145366,Singapore_SINGAPORE_QPG1,Singapore SINGAPORE
+net_global,3549,145422,Kansas_City_UNITED_STATES_KCY1,Kansas City UNITED STATES
+net_global,3549,145522,Chuo_ku_Tokyo_JAPAN_TYO1,Chuo ku Tokyo JAPAN
+net_global,3549,145705,Boston_UNITED_STATES_BOS1,Boston UNITED STATES
+net_global,3549,146167,Tampa_UNITED_STATES_TPA1,Tampa UNITED STATES
+net_global,3549,146667,Houston_UNITED_STATES_HOU1,Houston UNITED STATES
+net_global,3549,146702,Ultimo_AUSTRALIA_RSE1,Ultimo AUSTRALIA
+net_global,3549,147205,Dublin_IRELAND_DUB1,Dublin IRELAND
+net_global,3549,147487,Southfield_UNITED_STATES_DET1,Southfield UNITED STATES
+net_global,3549,149262,Leigh_UNITED_KINGDOM_MAN1,Leigh UNITED KINGDOM
+net_global,3549,149276,Nottingham_UNITED_KINGDOM_NQT1,Nottingham UNITED KINGDOM
+net_global,3549,149302,Leeds_UNITED_KINGDOM_LBA1,Leeds UNITED KINGDOM
+net_global,3549,149316,San_Diego_UNITED_STATES_SAN1,San Diego UNITED STATES
+net_global,3549,149362,Munich_Germany_MUN1,Munich Germany
+net_global,3549,149904,Basingstoke_Hampshire_UNITED_KINGDOM_BBS1,Basingstoke Hampshire UNITED KINGDOM
+net_global,3549,149962,Saint_Louis_UNITED_STATES_STL1_STL,Saint Louis UNITED STATES
+net_global,3549,149982,Glostrup_DENMARK_CPH1,Glostrup DENMARK
+net_global,3549,149996,Hamburg_GERMANY_HAM1,Hamburg GERMANY
+net_global,3549,150042,Rochester_UNITED_STATES_ROC1,Rochester UNITED STATES
+net_global,3549,150196,Berlin_GERMANY_KIT1_BER,Berlin GERMANY
+net_global,3549,150227,Stuttgart_GERMANY_VDL1_STR,Stuttgart GERMANY
+net_global,3549,151242,Charlotte_UNITED_STATES_CLT1_CLT,Charlotte UNITED STATES
+net_global,3549,151255,Milwaukee_UNITED_STATES_MKE1_MKE,Milwaukee UNITED STATES
+net_global,3549,151269,Salt_Lake_City_UNITED_STATES_SLC1_SLC,Salt Lake City UNITED STATES
+net_global,3549,152142,Paris_FRANCE_CDG3,Paris FRANCE
+net_global,3549,152202,London_UNITED_KINGDOM_LON2,London UNITED KINGDOM
+net_global,3549,153102,Buenos_Aires_ARGENTINA_EZE1,Buenos Aires ARGENTINA
+net_global,3549,153562,Sao_Paulo_BRAZIL_GRU1,Sao Paulo BRAZIL
+net_global,3549,153584,Panama_City_PANAMA_PTY1,Panama City PANAMA
+net_global,3549,153622,Santiago_CHILE_SCL1,Santiago CHILE
+net_global,3549,153887,Ashburn_UNITED_STATES_DCA3,Ashburn UNITED STATES
+net_global,3549,153980,Solihull_UNITED_KINGDOM_BHX1,Solihull UNITED KINGDOM
+net_global,3549,154024,Sao_Cristavao_Rio_de_Janeiro_BRAZIL_GIG1,Sao Cristavao Rio de Janeiro BRAZIL
+net_global,3549,154059,Palo_Alto_UNITED_STATES_PAO2,Palo Alto UNITED STATES
+net_global,3549,154077,San_Jose_UNITED_STATES_SJC2,San Jose UNITED STATES
+net_global,3549,154360,Slough_UNITED_KINGDOM_LHR1,Slough UNITED KINGDOM
+net_global,3549,154394,Baltimore_UNITED_STATES_BWI1_BWI,Baltimore UNITED STATES
+net_global,3549,154487,Vienna_AUSTRIA_VIE1,Vienna AUSTRIA
+net_global,3549,154731,Rotterdam_NETHERLANDS_VDG1_RTM,Rotterdam NETHERLANDS
+net_global,3549,154771,Luxembourg_LUXEMBOURG_BCE1_LUX,Luxembourg LUXEMBOURG
+net_global,3549,154931,Helsinki_FINLAND_HEL1,Helsinki FINLAND
+net_global,3549,163364,Pittsburgh_UNITED_STATES_PIT2_PIT,Pittsburgh UNITED STATES
+net_global,3549,186781,Milano_ITALY_LIN1,Milano ITALY
+net_global,3549,192297,Seattle_UNITED_STATES_SEA1,Seattle UNITED STATES
+net_global,3549,407018,Bogota_COLUMBIA_CXV1_BOG,Bogota COLUMBIA
+net_global,3549,407165,Quito_ECUADOR_TUI1_UIO,Quito ECUADOR
+net_he,6939,routers_core1.ams1.he.net,Amsterdam_NL,Amsterdam NL
+net_he,6939,routers_core1.ash1.he.net,Ashburn_VA_US,Ashburn VA US
+net_he,6939,routers_core1.atl1.he.net,Atlanta_GA_US,Atlanta GA US
+net_he,6939,routers_core1.bcn1.he.net,Barcelona_ES,Barcelona ES
+net_he,6939,routers_core1.ber1.he.net,Berlin_DE,Berlin DE
+net_he,6939,routers_core1.bos1.he.net,Boston_MA_US,Boston MA US
+net_he,6939,routers_core1.bud1.he.net,Budapest_HU,Budapest HU
+net_he,6939,routers_core1.buh1.he.net,Bucharest_RO,Bucharest RO
+net_he,6939,routers_core1.chi1.he.net,Chicago_IL_US,Chicago IL US
+net_he,6939,routers_core1.clt1.he.net,Charlotte_NC_US,Charlotte NC US
+net_he,6939,routers_core1.cmh1.he.net,Columbus_OH_US,Columbus OH US
+net_he,6939,routers_core1.cph1.he.net,Copenhagen_DK,Copenhagen DK
+net_he,6939,routers_core1.dal1.he.net,Dallas_TX_US,Dallas TX US
+net_he,6939,routers_core1.den1.he.net,Denver_CO_US,Denver CO US
+net_he,6939,routers_core1.dub1.he.net,Dublin_IE,Dublin IE
+net_he,6939,routers_core1.dus1.he.net,Dusseldorf_DE,Dusseldorf DE
+net_he,6939,routers_core1.fmt1.he.net,Fremont_CA_US_1,Fremont CA US
+net_he,6939,routers_core1.fmt2.he.net,Fremont_CA_US_2,Fremont CA US
+net_he,6939,routers_core1.fra1.he.net,Frankfurt_DE,Frankfurt DE
+net_he,6939,routers_core1.ham1.he.net,Hamburg_DE,Hamburg DE
+net_he,6939,routers_core1.hkg1.he.net,Hong_Kong_HK,Hong Kong HK
+net_he,6939,routers_core1.las1.he.net,Las_Vegas_NV_US,Las Vegas NV US
+net_he,6939,routers_core1.lax1.he.net,Los_Angeles_CA_US_1,Los Angeles CA US
+net_he,6939,routers_core1.lax2.he.net,Los_Angeles_CA_US_2,Los Angeles CA US
+net_he,6939,routers_core1.lon1.he.net,London_UK_1,London UK
+net_he,6939,routers_core1.lon2.he.net,London_UK_2,London UK
+net_he,6939,routers_core1.mad1.he.net,Madrid_ES,Madrid ES
+net_he,6939,routers_core1.mci1.he.net,Kansas_City_MO_US_1,Kansas City MO US
+net_he,6939,routers_core1.mci2.he.net,Kansas_City_MO_US_2,Kansas City MO US
+net_he,6939,routers_core1.mci3.he.net,Kansas_City_MO_US_3,Kansas City MO US
+net_he,6939,routers_core1.mia1.he.net,Miami_FL_US,Miami FL US
+net_he,6939,routers_core1.mil1.he.net,Milan_IT,Milan IT
+net_he,6939,routers_core1.mrs1.he.net,Marseille_FR,Marseille FR
+net_he,6939,routers_core1.msn1.he.net,Madison_WI_US,Madison WI US
+net_he,6939,routers_core1.msp1.he.net,Minneapolis_MN_US,Minneapolis MN US
+net_he,6939,routers_core1.muc1.he.net,Munchen_DE,München DE
+net_he,6939,routers_core1.nyc4.he.net,New_York_NY_US_1,New York NY US
+net_he,6939,routers_core1.nyc5.he.net,New_York_NY_US_2,New York NY US
+net_he,6939,routers_core1.nyc6.he.net,New_York_NY_US_3,New York NY US
+net_he,6939,routers_core1.pao1.he.net,Palo_Alto_CA_US,Palo Alto CA US
+net_he,6939,routers_core1.par1.he.net,Paris_FR_1,Paris FR
+net_he,6939,routers_core1.par2.he.net,Paris_FR_2,Paris FR
+net_he,6939,routers_core1.pdx1.he.net,Portland_OR_US,Portland OR US
+net_he,6939,routers_core1.phx1.he.net,Phoenix_AZ_US_1,Phoenix AZ US
+net_he,6939,routers_core1.phx2.he.net,Phoenix_AZ_US_2,Phoenix AZ US
+net_he,6939,routers_core1.prg1.he.net,Prague_CZ,Prague CZ
+net_he,6939,routers_core1.rst1.he.net,Rochester_MN_US,Rochester MN US
+net_he,6939,routers_core1.sea1.he.net,Seattle_WA_US,Seattle WA US
+net_he,6939,routers_core1.sfo1.he.net,San_Francisco_CA_US,San Francisco CA US
+net_he,6939,routers_core1.sin1.he.net,Singapore_SG,Singapore SG
+net_he,6939,routers_core1.sjc1.he.net,San_Jose_CA_US_1,San Jose CA US
+net_he,6939,routers_core1.sjc2.he.net,San_Jose_CA_US_2,San Jose CA US
+net_he,6939,routers_core1.slc1.he.net,Salt_Lake_City_UT,Salt Lake City UT
+net_he,6939,routers_core1.sof1.he.net,Sofia_BG,Sofia BG
+net_he,6939,routers_core1.stl1.he.net,St_Louis_MO,St Louis MO
+net_he,6939,routers_core1.sto1.he.net,Stockholm_SE,Stockholm SE
+net_he,6939,routers_core1.tor1.he.net,Toronto_ON_CA,Toronto ON CA
+net_he,6939,routers_core1.tyo1.he.net,Tokyo_JP,Tokyo JP
+net_he,6939,routers_core1.vie1.he.net,Vienna_AT,Vienna AT
+net_he,6939,routers_core1.waw1.he.net,Warsaw_PL,Warsaw PL
+net_he,6939,routers_core1.ymq1.he.net,Montreal_QC_CA,Montreal QC CA
+net_he,6939,routers_core1.yvr1.he.net,Vancouver_BC_CA,Vancouver BC CA
+net_he,6939,routers_core1.ywg1.he.net,Winnipeg_MB_CA,Winnipeg MB CA
+net_he,6939,routers_core1.yyc1.he.net,Calgary_AB_CA,Calgary AB CA
+net_he,6939,routers_core1.zrh1.he.net,Zurich_CH,Zurich CH
+net_hlkomm,3257,AS3257 Tiscali,Frankfurt_DE_4,Frankfurt DE
+net_hlkomm,3303,AS3303 Swisscom,Bern_CH,Bern CH
+net_hlkomm,3320,AMSMA2.hlkomm.net,Amsterdam_NL,Amsterdam NL
+net_hlkomm,3320,FMA2.hlkomm.net,Frankfurt_DE_2,Frankfurt DE
+net_hlkomm,3320,LMA11.hlkomm.net,Frankfurt_DE_3,Frankfurt DE
+net_hlkomm,3320,LMR1.hlkomm.net,Frankfurt_DE_1,Frankfurt DE
+net_hlkomm,3549,AS3549 Global Crossing,Phoenix_AZ_US,Phoenix AZ US
+net_hlkomm,553,AS553 BelWue,Stuttgart_DE,Stuttgart DE
+net_hlkomm,6730,AS6730 Sunrise Schweiz,Zurich_CH,Zurich CH
+net_hlkomm,852,AS852 TELUS,Rimouski_Quebec_CA,Rimouski Quebec CA
+net_hwng,12989,"BBR1.MIA1 (Miami, FL)",BBR1_MIA1_Miami_FL_US,Miami FL US
+net_hwng,12989,"BBR2.ASH1 (Ashburn, VA)",BBR2_ASH1_Ashburn_VA_US,Ashburn VA US
+net_hwng,12989,"R1.MA (Madrid, ES)",R1_MA_Madrid_ES,Madrid ES
+net_hwng,12989,"R1.SI (Singapore, SG)",R1_SI_Singapore_SG,Singapore SG
+net_hwng,12989,"R1.SK (Stockholm, SE)",R1_SK_Stockholm_SE,Stockholm SE
+net_hwng,12989,"R1.SL (Seoul, KR)",R1_SL_Seoul_KR,Seoul KR
+net_hwng,12989,"R1.SY (Sydney, AU)",R1_SY_Sydney_AU,Sydney AU
+net_hwng,12989,"R1.TK (Tokyo, JP)",R1_TK_Tokyo_JP,Tokyo JP
+net_hwng,12989,"R2.SE (Seattle, WA)",R2_SE_Seattle_WA_US,Seattle WA US
+net_hwng,12989,R1.AM (Amsterdam NL),R1_AM_Amsterdam_NL,Amsterdam NL
+net_hwng,12989,R1.AT (Atlanta GA),R1_AT_Atlanta_GA_US,Atlanta GA US
+net_hwng,12989,R1.BR (Brussels BE),R1_BR_Brussels_BE,Brussels BE
+net_hwng,12989,R1.DA (Dallas TX),R1_DA_Dallas_TX_US,Dallas TX US
+net_hwng,12989,R1.DC (Ashburn VA),R1_DC_Ashburn_VA_US,Ashburn VA US
+net_hwng,12989,R1.FR (Frankfurt DE),R1_FR_Frankfurt_DE,Frankfurt DE
+net_hwng,12989,R1.LO (London UK),R1_LO_London_UK,London UK
+net_hwng,12989,R1.MI (Miami FL),R1_MI_Miami_FL_US,Miami FL US
+net_hwng,12989,R1.PA (Paris FR),R1_PA_Paris_FR,Paris FR
+net_hwng,12989,R1.RJ (Rio de Janeiro BR),R1_RJ_Rio_de_Janeiro_BR,Rio de Janeiro BR
+net_hwng,12989,R1.SJ (San Jose CA),R1_SJ_San_Jose_CA_US,San Jose CA US
+net_hwng,12989,R1.SP (Sao Paulo BR),R1_SP_Sao_Paulo_BR,Sao Paulo BR
+net_hwng,12989,R2.AM (Amsterdam NL),R2_AM_Amsterdam_NL,Amsterdam NL
+net_hwng,12989,R2.AT (Atlanta GA),R2_AT_Atlanta_GA_US,Atlanta GA US
+net_hwng,12989,R2.CH (Chicago IL),R2_CH_Chicago_IL_US,Chicago IL US
+net_hwng,12989,R2.DC (Ashburn VA),R2_DC_Ashburn_VA_US,Ashburn VA US
+net_hwng,12989,R2.FR (Frankfurt DE),R2_FR_Frankfurt_DE,Frankfurt DE
+net_hwng,12989,R2.LA (Los Angeles CA),R2_LA_Los_Angeles_CA_US,Los Angeles CA US
+net_hwng,12989,R2.LO (London UK),R2_LO_London_UK,London UK
+net_hwng,12989,R2.NY (New York NY),R2_NY_New_York_NY_US,New York NY US
+net_hwng,12989,R2.SP (Sao Paulo BR),R2_SP_Sao_Paulo_BR,Sao Paulo BR
+net_hwng,12989,R3.AM (Amsterdam NL),R3_AM_Amsterdam_NL,Amsterdam NL
+net_hwng,12989,R3.DC (Ashburn VA),R3_DC_Ashburn_VA_US,Ashburn VA US
+net_hwng,12989,R3.NY (New York NY),R3_NY_New_York_NY_US,New York NY US
+net_hwng,12989,R3.PH (Phoenix AZ),R3_PH_Phoenix_AZ_US,Phoenix AZ US
+net_hwng,12989,R4.AM (Amsterdam NL),R4_AM_Amsterdam_NL,Amsterdam NL
+net_hwng,12989,R4.DC (Ashburn VA),R4_DC_Ashburn_VA_US,Ashburn VA US
+net_i3d,49544,ar0.nikhef.ams.as49544.net,NL_Amsterdam_AR0,Amsterdam NL
+net_i3d,49544,cr0.smartdc.rtd.as49544.net,NL_Rotterdam_CR0,Rotterdam NL
+net_i3d,49544,cr1.smartdc.rtd.as49544.net,NL_Rotterdam_CR1,Rotterdam NL
+net_i3d,49544,fr0.ix1.frm.as49544.net,DE_Frankfurt_FR0,Frankfurt DE
+net_i3d,49544,lr0.th-n.lon.as49544.net,UK_London_LR0,London UK
+net_i3d,49544,syd0.eqx1.as49544.net,AUS_Sydney_SR0,Sydney AUS
+net_i3d,49544,tok0.kvh.as49544.net,JP_Tokyo_TR0,Tokyo JP
+net_iinet,4739,"AS4739 - Adelaide, AU",Adelaide_AU,Adelaide AU
+net_iinet,4739,"AS4739 - Ashburn, USA",Ashburn_VA_US,Ashburn VA US
+net_iinet,4739,"AS4739 - Brisbane, AU",Brisbane_AU,Brisbane AU
+net_iinet,4739,"AS4739 - Hobart, AU",Hobart_AU,Hobart AU
+net_iinet,4739,"AS4739 - Hong Kong, HK",Hong_Kong_HK,Hong Kong HK
+net_iinet,4739,"AS4739 - London, UK",London_UK,London UK
+net_iinet,4739,"AS4739 - Los Angeles, USA",Los_Angeles_CA_US,Los Angeles CA US
+net_iinet,4739,"AS4739 - Melbourne, AU",Melbourne_AU,Melbourne AU
+net_iinet,4739,"AS4739 - Perth, AU",Perth_AU,Perth AU
+net_iinet,4739,"AS4739 - San Jose, USA",San_Jose_CA_US,San Jose CA US
+net_iinet,4739,"AS4739 - Singapore, SG",Singapore_SG,Singapore SG
+net_iinet,4739,"AS4739 - Sydney, AU",Sydney_AU,Sydney AU
+net_iinet,4739,"AS4739 - Tokyo, JP",Tokyo_JP,Tokyo JP
+net_ilan,378,GP0,Jerusalem_IL,Jerusalem IL
+net_ilan,378,SH,Jerusalem_IL,Jerusalem IL
+net_inerail,33031,lga2,New_York_NY_US,New York NY US
+net_infowest,11071,InfoWest D3C Border,Saint_George_UT,Saint George UT
+net_infowest,11071,InfoWest TDC Border,Denver_CO_US,Denver CO US
+net_init7,13030,none,Zagreb_HR,Zagreb HR
+net_integra,7385,ar13.boisidpz.integra.net:cisco,Boise_ID_US,Boise ID US
+net_integra,7385,ar13.dnvrcoet.integra.net:cisco,Denver_CO_US,Denver CO US
+net_integra,7385,ar13.lsvlnv23.integra.net:cisco,Las_Vegas_NV_US,Las Vegas NV US
+net_integra,7385,ar13.mplsmncd.integra.net:cisco,Minneapolis_MN_US,Minneapolis MN US
+net_integra,7385,ar13.phnzaz87.integra.net:cisco,Phoenix_AZ_US,Phoenix AZ US
+net_integra,7385,ar13.ptldorfj.integra.net:cisco,Portland_OR_US,Portland OR US
+net_integra,7385,ar13.rcrdcauu.integra.net:cisco,Rancho_Cordova_CA_US,Rancho Cordova CA US
+net_integra,7385,ar13.renonvmp.integra.net:cisco,Reno_NV_US,Reno NV US
+net_integra,7385,ar13.slkcutxd.integra.net:cisco,Salt_Lake_City_UT_US,Salt Lake City UT US
+net_integra,7385,ar13.sntdcabl.integra.net:cisco,Santa_Clara_CA_US,Santa Clara CA US
+net_integra,7385,br02.asbnva16.integra.net:cisco,Ashburn_VA_US,Ashburn VA US
+net_integra,7385,br02.chcgildt.integra.net:cisco,Chicago_IL_US,Chicago IL US
+net_integra,7385,br02.dllstx97.integra.net:cisco,Dallas_TX_US,Dallas TX US
+net_integra,7385,br02.lsancarc.integra.net:cisco,Los_Angeles_CA_US,Los Angeles CA US
+net_integra,7385,br02.nycmny83.integra.net:cisco,New_York_NY_US,New York NY US
+net_integra,7385,br02.plalca01.integra.net:cisco,Palo_Alto_CA_US,Palo Alto CA US
+net_integra,7385,br02.snjucacl.integra.net:cisco,San_Jose_CA_US,San Jose CA US
+net_integra,7385,br02.sttlwawb.integra.net:cisco,Seattle_WA_US,Seattle WA US
+net_interworld,5726,none,none,Torrance CA US
+net_ints,6886,Donetsk Core,Donetsk_UA,Donetsk UA
+net_iprimus,3257,TISCALI (AS 3257),Frankfurt_DE,Frankfurt DE
+net_iprimus,3549,Global Crossing (AS 3549),Phoenix_AZ_US,Phoenix AZ US
+net_iprimus,3549,Global Crossing,Phoenix_AZ_US,Phoenix AZ US
+net_iprimus,6447,Oregon Exchange,Eugene_OR_US,Eugene OR US
+net_iprimus,7018,AT&T,Bridgeton_MO_US,Bridgeton MO US
+net_iprimus,852,TELUS Ontario (AS 852),Rimouski_Quebec_CA,Rimouski Quebec CA
+net_iprimus,9443,Melbourne #1,Melbourne_AU,Melbourne AU
+net_iprimus,9443,Sydney #1,Sydney_AU_1,Sydney AU
+net_iprimus,9443,Sydney #2,Sydney_AU_2,Sydney AU
+net_iptp,41095,"IPTP Limassol, Cyprus",IPTP_Limassol_Cyprus,Limassol
+net_iptp,41095,"IPTP Nicosia, Cyprus",IPTP_Nicosia_Cyprus,Nicosia
+net_iptp,41095,IPTP Amsterdam NIKHEF,IPTP_Amsterdam_NIKHEF,Amsterdam
+net_iptp,41095,IPTP Amsterdam TC1,IPTP_Amsterdam_TC1,Amsterdam
+net_iptp,41095,IPTP Ashburn Equinix,IPTP_Ashburn_Equinix,Ashburn
+net_iptp,41095,IPTP Atlanta Telx,IPTP_Atlanta_Telx,Atlanta
+net_iptp,41095,IPTP Chicago Equinix,IPTP_Chicago_Equinix,Chicago
+net_iptp,41095,IPTP Dallas Equinix,IPTP_Dallas_Equinix,Dallas
+net_iptp,41095,IPTP Denver Coresite,IPTP_Denver_Coresite,Denver
+net_iptp,41095,IPTP Frankfurt Ancotel,IPTP_Frankfurt_Ancotel,Frankfurt
+net_iptp,41095,IPTP Hong Kong Equinix,IPTP_Hong_Kong_Equinix,Hong Kong
+net_iptp,41095,IPTP Hong Kong Mega-i,IPTP_Hong_Kong_Mega_i,Hong Kong
+net_iptp,41095,IPTP Kiev NewTelco,IPTP_Kiev_NewTelco,Kiev
+net_iptp,41095,IPTP London LD5,IPTP_London_LD5,London
+net_iptp,41095,IPTP London TC2,IPTP_London_TC2,London
+net_iptp,41095,IPTP London THN,IPTP_London_THN,London
+net_iptp,41095,IPTP Los Angeles CoreSite,IPTP_Los_Angeles_CoreSite,Los Angeles
+net_iptp,41095,IPTP Los Angeles Equinix,IPTP_Los_Angeles_Equinix,Los Angeles
+net_iptp,41095,IPTP Madrid ESpanix,IPTP_Madrid_ESpanix,Madrid
+net_iptp,41095,IPTP Miami Terremark,IPTP_Miami_Terremark,Miami
+net_iptp,41095,IPTP Moscow M1,IPTP_Moscow_M1,Moscow
+net_iptp,41095,IPTP Moscow M9,IPTP_Moscow_M9,Moscow
+net_iptp,41095,IPTP New York 111 8th,IPTP_New_York_111_8th,New York
+net_iptp,41095,IPTP Paris TH2,IPTP_Paris_TH2,Paris
+net_iptp,41095,IPTP Seattle Westin Building,IPTP_Seattle_Westin_Building,Seattle
+net_iptp,41095,IPTP Singapore SG1,IPTP_Singapore_SG1,Singapore
+net_iptp,41095,IPTP Tokyo Equinix TY2,IPTP_Tokyo_Equinix_TY2,Tokyo
+net_iptp,41095,IPTP Toronto Equinix,IPTP_Toronto_Equinix,Toronto
+net_iptp,41095,IPTP Zurich InterXion,IPTP_Zurich_InterXion,Zurich
+net_ja,786,aber-ban1.ja.net/Juniper,Aberdeen_UK_1,Aberdeen UK
+net_ja,786,aber-ban2.ja.net/Juniper,Aberdeen_UK_2,Aberdeen UK
+net_ja,786,aldess-rbr1.ja.net/Juniper,Aldershot_UK,Aldershot UK
+net_ja,786,bathbc-rbr1.ja.net/Juniper,Bath_UK_1,Bath UK
+net_ja,786,bathub-rbr1.ja.net/Juniper,Bath_UK_2,Bath UK
+net_ja,786,belfab-rbr2.ja.net/Juniper,Belfast_UK_2,Belfast UK
+net_ja,786,belfnl-rbr2.ja.net/Juniper,Belfast_UK_1,Belfast UK
+net_ja,786,birm-rbr1.ja.net/Cisco,Birmingham_UK_1,Birmingham UK
+net_ja,786,birmub-rbr1.ja.net/Juniper,Birmingham_UK_2,Birmingham UK
+net_ja,786,bourss-rbr1.ja.net/Juniper,Bournemouth_UK,Bournemouth UK
+net_ja,786,bradcb-rbr1.ja.net/Juniper,Bradford_UK_1,Bradford UK
+net_ja,786,bradjb-rbr1.ja.net/Juniper,Bradford_UK_2,Bradford UK
+net_ja,786,bradss-ban1.ja.net/Juniper,Bradford_UK_3,Bradford UK
+net_ja,786,bradss-sbr1.ja.net/Juniper,Bradshaw_UK,Bradshaw UK
+net_ja,786,brisub-rbr1.ja.net/Juniper,Bristol_UK_1,Bristol UK
+net_ja,786,briswe-rbr1.ja.net/Juniper,Bristol_UK_2,Bristol UK
+net_ja,786,brom-rbr2.ja.net/Juniper,Bromsgrove_UK,Bromsgrove UK
+net_ja,786,camb-rbr2.ja.net/Juniper,Cambridge_UK,Cambridge UK
+net_ja,786,chel-rbr2.ja.net/Cisco,Cheltenham_UK_1,Cheltenham UK
+net_ja,786,chelgc-rbr1.ja.net/Juniper,Cheltenham_UK_2,Cheltenham UK
+net_ja,786,chelug-rbr1.ja.net/Juniper,Cheltenham_UK_3,Cheltenham UK
+net_ja,786,cove-rbr1.ja.net/Cisco,Coventry_UK,Coventry UK
+net_ja,786,darltu-rbr1.ja.net/Juniper,Darlington_UK,Darlington UK
+net_ja,786,dund-ban1.ja.net/Juniper,Dundee_UK_1,Dundee UK
+net_ja,786,dund-ban3.ja.net/Juniper,Dundee_UK_2,Dundee UK
+net_ja,786,durhud-rbr1.ja.net/Juniper,Durham_UK_1,Durham UK
+net_ja,786,durhud-rbr2.ja.net/Juniper,Durham_UK_2,Durham UK
+net_ja,786,edin-ban1.ja.net/Cisco,Edinburgh_UK,Edinburgh UK
+net_ja,786,erdiss-sbr1.ja.net/Juniper,Erdington_UK,Erdington UK
+net_ja,786,exetec-rbr1.ja.net/Juniper,Exeter_UK_1,Exeter UK
+net_ja,786,exetue-rbr1.ja.net/Juniper,Exeter_UK_2,Exeter UK
+net_ja,786,glas-ban1.ja.net/Cisco,Glasgow_UK_1,Glasgow UK
+net_ja,786,glasss-ban1.ja.net/Juniper,Glasgow_UK_2,Glasgow UK
+net_ja,786,glasss-sbr1.ja.net/Juniper,Glasgow_UK_3,Glasgow UK
+net_ja,786,harw-ssr2.ja.net/Cisco,Harwich_UK_1,Harwich UK
+net_ja,786,harwat-rbr1.ja.net/Juniper,Harwich_UK_2,Harwich UK
+net_ja,786,herehc-rbr1.ja.net/Juniper,Hereford_UK,Hereford UK
+net_ja,786,hovess-rbr1.ja.net/Juniper,Hove_UK,Hove UK
+net_ja,786,huddbs-rbr1.ja.net/Juniper,Huddersfield_UK_1,Huddersfield UK
+net_ja,786,huddcs-rbr1.ja.net/Juniper,Huddersfield_UK_2,Huddersfield UK
+net_ja,786,hullcc-rbr1.ja.net/Juniper,Hull_UK_1,Hull UK
+net_ja,786,hullfb-rbr1.ja.net/Juniper,Hull_UK_2,Hull UK
+net_ja,786,inve-ban1.ja.net/Cisco,Inverness_UK,Inverness UK
+net_ja,786,ipsw-rbr2.ja.net/Juniper,Ipswich_UK,Ipswich UK
+net_ja,786,kiddkc-rbr1.ja.net/Juniper,Kidderminster_UK,Kidderminster UK
+net_ja,786,kirk-ban1.ja.net/Cisco,Kirkcaldy_UK,Kirkcaldy UK
+net_ja,786,leed-ban3.ja.net/Cisco,Leeds_UK_4,Leeds UK
+net_ja,786,leedaq-rbr1.ja.net/Juniper,Leeds_UK_1,Leeds UK
+net_ja,786,leedaq-sbr1.ja.net/Juniper,Leeds_UK_5,Leeds UK
+net_ja,786,leedlm-rbr1.ja.net/Juniper,Leeds_UK_2,Leeds UK
+net_ja,786,leedlu-rbr1.ja.net/Juniper,Leeds_UK_3,Leeds UK
+net_ja,786,lond-ban5.ja.net/Cisco,London_UK_01,London UK
+net_ja,786,lond-ban6.ja.net/Cisco,London_UK_02,London UK
+net_ja,786,lond-rbr1.ja.net/Juniper,London_UK_11,London UK
+net_ja,786,londhx-ban1.ja.net/Juniper,London_UK_03,London UK
+net_ja,786,londhx-sbr1.ja.net/Juniper,London_UK_09,London UK
+net_ja,786,londic-rbr2.ja.net/Juniper,London_UK_12,London UK
+net_ja,786,londpg-ban1.ja.net/Juniper,London_UK_04,London UK
+net_ja,786,londpg-sbr1.ja.net/Juniper,London_UK_07,London UK
+net_ja,786,londsh-rbr2.ja.net/Juniper,London_UK_13,London UK
+net_ja,786,londtn-ban1.ja.net/Juniper,London_UK_05,London UK
+net_ja,786,londtn-sbr1.ja.net/Juniper,London_UK_10,London UK
+net_ja,786,londtw-ban1.ja.net/Juniper,London_UK_06,London UK
+net_ja,786,londtw-sbr1.ja.net/Juniper,London_UK_08,London UK
+net_ja,786,lowdss-ban1.ja.net/Juniper,Lowdham_UK_1,Lowdham UK
+net_ja,786,lowdss-sbr1.ja.net/Juniper,Lowdham_UK_2,Lowdham UK
+net_ja,786,ludllc-rbr1.ja.net/Juniper,Ludlow_UK,Ludlow UK
+net_ja,786,malvsw-rbr1.ja.net/Juniper,Malvern_UK,Malvern UK
+net_ja,786,manc-ban2.ja.net/Cisco,Manchester_UK_1,Manchester UK
+net_ja,786,manckh-ban1.ja.net/Juniper,Manchester_UK_2,Manchester UK
+net_ja,786,manckh-sbr1.ja.net/Juniper,Manchester_UK_3,Manchester UK
+net_ja,786,middtu-rbr1.ja.net/Juniper,Middlesbrough_UK_1,Middlesbrough UK
+net_ja,786,middtu-rbr2.ja.net/Juniper,Middlesbrough_UK_2,Middlesbrough UK
+net_ja,786,milt-rbr1.ja.net/Juniper,Milton_Keynes_UK,Milton Keynes UK
+net_ja,786,newccl-rbr1.ja.net/Juniper,Newcastle_Upon_Tyne_UK_3,Newcastle Upon Tyne UK
+net_ja,786,newcct-ban1.ja.net/Juniper,Newcastle_Upon_Tyne_UK_1,Newcastle Upon Tyne UK
+net_ja,786,newcct-rbr1.ja.net/Juniper,Newcastle_Upon_Tyne_UK_2,Newcastle Upon Tyne UK
+net_ja,786,norw-rbr2.ja.net/Juniper,Norwich_UK,Norwich UK
+net_ja,786,oxfo-rbr2.ja.net/Juniper,Oxford_UK_1,Oxford UK
+net_ja,786,oxfoii-rbr1.ja.net/Juniper,Oxford_UK_2,Oxford UK
+net_ja,786,oxforq-rbr1.ja.net/Juniper,Oxford_UK_3,Oxford UK
+net_ja,786,pete-rbr1.ja.net/Juniper,Peterborough_UK,Peterborough UK
+net_ja,786,plympc-rbr1.ja.net/Juniper,Plymouth_UK_1,Plymouth UK
+net_ja,786,plymup-rbr1.ja.net/Juniper,Plymouth_UK_2,Plymouth UK
+net_ja,786,read-rbr2.ja.net/Juniper,Reading_UK_1,Reading UK
+net_ja,786,readdy-rbr1.ja.net/Juniper,Reading_UK_3,Reading UK
+net_ja,786,readss-rbr1.ja.net/Juniper,Reading_UK_2,Reading UK
+net_ja,786,shefbs-rbr1.ja.net/Juniper,Sefton_UK_1,Sefton UK
+net_ja,786,shefcb-rbr1.ja.net/Juniper,Sefton_UK_2,Sefton UK
+net_ja,786,shefhb-rbr1.ja.net/Juniper,Sefton_UK_3,Sefton UK
+net_ja,786,shresc-rbr1.ja.net/Juniper,Shrewsbury_UK,Shrewsbury UK
+net_ja,786,sloudc-ban1.ja.net/Juniper,Slough_UK_1,Slough UK
+net_ja,786,sloudc-ban2.ja.net/Juniper,Slough_UK_2,Slough UK
+net_ja,786,smal-rbr1.ja.net/Cisco,Small_Heath_UK,Small Heath UK
+net_ja,786,stafsc-rbr1.ja.net/Juniper,Stafford_UK,Stafford UK
+net_ja,786,stocud-rbr1.ja.net/Juniper,Stockton_on_Tees_UK,Stockton on Tees UK
+net_ja,786,stonss-rbr1.ja.net/Juniper,Stonehenge_UK,Stonehenge UK
+net_ja,786,sundus-rbr1.ja.net/Juniper,Sunderland_UK_1,Sunderland UK
+net_ja,786,sundus-rbr2.ja.net/Juniper,Sunderland_UK_2,Sunderland UK
+net_ja,786,swin-rbr1.ja.net/Juniper,Swindon_UK_8,Swindon UK
+net_ja,786,taunsc-rbr1.ja.net/Cisco,Taunton_UK,Taunton UK
+net_ja,786,telfvm-rbr1.ja.net/Juniper,Telford_UK,Telford UK
+net_ja,786,warw-rbr1.ja.net/Cisco,Ware_UK_1,Ware UK
+net_ja,786,warwuw-rbr1.ja.net/Juniper,Ware_UK_2,Ware UK
+net_ja,786,wolv-rbr1.ja.net/Cisco,Wolverhampton_UK,Wolverhampton UK
+net_ja,786,worc-rbr2.ja.net/Juniper,Worcester_UK,Worcester UK
+net_ja,786,wymess-rbr1.ja.net/Juniper,Wymeswold_UK,Wymeswold UK
+net_ja,786,yarm-rbr1.ja.net/Cisco,Yarmouth_UK,Yarmouth UK
+net_ja,786,yorkbs-rbr1.ja.net/Juniper,York_UK_1,York UK
+net_ja,786,yorktd-rbr1.ja.net/Juniper,York_UK_2,York UK
+net_level3,3356,bar1.bcl1,Barcellona_Spain,Barcellona Spain
+net_level3,3356,bar1.bdp1,Budapest_Hungary,Budapest Hungary
+net_level3,3356,bar1.bos1,Boston_MA,Boston MA
+net_level3,3356,bar1.bru1,Brussels_Belgium,Brussels Belgium
+net_level3,3356,bar1.buf1,Buffalo_NY,Buffalo NY
+net_level3,3356,bar1.cin1,Cincinnati_OH,Cincinnati OH
+net_level3,3356,bar1.cle1,Cleveland_OH,Cleveland OH
+net_level3,3356,bar1.clt1,Charlotte_NC,Charlotte NC
+net_level3,3356,bar1.cop1,Copenhagen_Denmark,Copenhagen Denmark
+net_level3,3356,bar1.det1,Detroit_MI,Detroit MI
+net_level3,3356,bar1.dub1,Dublin_Ireland,Dublin Ireland
+net_level3,3356,bar1.gen1,Geneva_Switzerland,Geneva Switzerland
+net_level3,3356,bar1.ham1,Hamburg_Germany,Hamburg Germany
+net_level3,3356,bar1.jed1,Jeddah_Saudi_Arabia,Jeddah Saudi Arabia
+net_level3,3356,bar1.kac1,Kansas_City_KS,Kansas City KS
+net_level3,3356,bar1.lju1,Ljubljana_Slovenia,Ljubljana Slovenia
+net_level3,3356,bar1.lvg1,Las_Vegas_NV,Las Vegas NV
+net_level3,3356,bar1.mad1,Madrid_Spain,Madrid Spain
+net_level3,3356,bar1.mln1,Milan_Italy,Milan Italy
+net_level3,3356,bar1.mrs1,Marseille_France,Marseille France
+net_level3,3356,bar1.mun1,Munich_Germany,Munich Germany
+net_level3,3356,bar1.nvl1,Nashville_TN,Nashville TN
+net_level3,3356,bar1.orl1,Orlando_FL,Orlando FL
+net_level3,3356,bar1.phi1,Philadelphia_PA,Philadelphia PA
+net_level3,3356,bar1.por1,Portland_OR,Portland OR
+net_level3,3356,bar1.sfo1,San_Francisco_CA,San Francisco CA
+net_level3,3356,bar1.slc1,Salt_Lake_City_UT,Salt Lake City UT
+net_level3,3356,bar1.sof1,Sofia_Bulgaria,Sofia Bulgaria
+net_level3,3356,bar1.syr2,Syracuse_NY,Syracuse NY
+net_level3,3356,bar1.tmp1,Tampa_FL,Tampa FL
+net_level3,3356,bar1.tor1,Toronto_Canada,Toronto Canada
+net_level3,3356,bar1.val3,Valencia_Spain,Valencia Spain
+net_level3,3356,bar1.vie1,Viena_Austria,Viena Austria
+net_level3,3356,bar1.waw1,Warsaw_Poland,Warsaw Poland
+net_level3,3356,bar1.zag1,Zagreb_Croatia,Zagreb Croatia
+net_level3,3356,bar1.zur1,Zurich_Switzerland,Zurich Switzerland
+net_level3,3356,bear1.bch1,Bucharest_Romania,Bucharest Romania
+net_level3,3356,bear1.cpt2,Cape_Town_South_Africa,Cape Town South Africa
+net_level3,3356,bear1.jnb2,Johannesburg_South_Africa,Johannesburg South Africa
+net_level3,3356,bear1.osl2,Oslo_Norway,Oslo Norway
+net_level3,3356,bear1.par10,Monaco,Monaco
+net_level3,3356,bear1.pit3,Pittsburge_PA,Pittsburge PA
+net_level3,3356,bear1.xae3,Dubai_United_Arab_Emirates,Dubai United Arab Emirates
+net_level3,3356,bear1.xit2,Rome_Italy,Rome Italy
+net_level3,3356,bear1.xrs2,Belgrade_Serbia,Belgrade Serbia
+net_level3,3356,bear1.xru2,Moscow_Russia,Moscow Russia
+net_level3,3356,car1.bal1,Baltimore_MD,Baltimore MD
+net_level3,3356,car1.ber1,Berlin_Germany,Berlin Germany
+net_level3,3356,car1.btr5,Baton_Rouge_LA,Baton Rouge LA
+net_level3,3356,car1.btv1,Burlington_VT,Burlington VT
+net_level3,3356,car1.cho1,Charlottesville_VA,Charlottesville VA
+net_level3,3356,car1.clb4,Columbus_OH,Columbus OH
+net_level3,3356,car1.fll1,Fort_Lauderdale_FL,Fort Lauderdale FL
+net_level3,3356,car1.fmy1,Fort_Myers_FL,Fort Myers FL
+net_level3,3356,car1.har1,Harrisburg_PA,Harrisburg PA
+net_level3,3356,car1.jan1,Jackson_MS,Jackson MS
+net_level3,3356,car1.jax1,Jacksonville_FL,Jacksonville FL
+net_level3,3356,car1.lex1,Lexington_KY,Lexington KY
+net_level3,3356,car1.lit2,Little_Rock_AR,Little Rock AR
+net_level3,3356,car1.lou2,Louisville_KY,Louisville KY
+net_level3,3356,car1.lux1,Luxemburg_Luxemburg,Luxemburg Luxemburg
+net_level3,3356,car1.lys1,Lyon_France,Lyon France
+net_level3,3356,car1.man1,Manchester_England,Manchester England
+net_level3,3356,car1.mob4,Mobile_AL,Mobile AL
+net_level3,3356,car1.mon2,Montreal_Canada,Montreal Canada
+net_level3,3356,car1.ngu1,Norfolk_VA,Norfolk VA
+net_level3,3356,car1.prg1,Prague_Czech_Rep,Prague Czech Rep
+net_level3,3356,car1.ral1,Raleigh_NC,Raleigh NC
+net_level3,3356,car1.rch1,Richmond_VA,Richmond VA
+net_level3,3356,car1.sac1,Sacremento_CA,Sacremento CA
+net_level3,3356,car1.sce1,State_College_PA,State College PA
+net_level3,3356,car1.scr1,Scranton_PA,Scranton PA
+net_level3,3356,car1.stm1,Stamford_CT,Stamford CT
+net_level3,3356,car1.tls1,Toulouse_France,Toulouse France
+net_level3,3356,car1.tri1,Tri_Cities_TN,Tri Cities TN
+net_level3,3356,car1.wch1,Wichita_KS,Wichita KS
+net_level3,3356,ear1.ams1,Amsterdam_Netherlands,Amsterdam Netherlands
+net_level3,3356,ear1.atl2,Atlanta_GA,Atlanta GA
+net_level3,3356,ear1.chi2,Chicago_IL,Chicago IL
+net_level3,3356,ear1.dal1,Dallas_TX,Dallas TX
+net_level3,3356,ear1.den1,Denver_CO,Denver CO
+net_level3,3356,ear1.frf1,Frankfort_Germany,Frankfort Germany
+net_level3,3356,ear1.hou1,Houston_TX,Houston TX
+net_level3,3356,ear1.lax1,Los_Angeles_CA,Los Angeles CA
+net_level3,3356,ear1.lon15,London_England_15,London England
+net_level3,3356,ear1.lon2,London_England_2,London England
+net_level3,3356,ear1.mia2,Miami_FL,Miami FL
+net_level3,3356,ear1.nwr1,Newark_NJ,Newark NJ
+net_level3,3356,ear1.nyc1,New_York_NY,New York NY
+net_level3,3356,ear1.par1,Paris_France,Paris France
+net_level3,3356,ear1.phx1,Phoenix_AZ,Phoenix AZ
+net_level3,3356,ear1.sjo1,San_Jose_CA,San Jose CA
+net_level3,3356,ear1.stk2,Stockholm_Swedan,Stockholm Swedan
+net_level3,3356,ear1.tus1,Tustin_CA,Tustin CA
+net_level3,3356,ear1.wdc1,Washington_DC,Washington DC
+net_level3,3356,edge1.djb1,Djibouti_Djibouti,Djibouti Djibouti
+net_level3,3356,edge1.lon1,London_England,London England
+net_level3,3356,edge1.min1,Minneapolis_MN,Minneapolis MN
+net_level3,3356,edge1.oak2,Oakland_CA,Oakland CA
+net_level3,3356,edge1.sdg1,San_Diego_CA,San Diego CA
+net_level3,3356,edge1.sea1,Seattle_WA,Seattle WA
+net_level3,3356,edge1.stl1,Saint_Louis_MO,Saint Louis MO
+net_level3,3356,edge3.dus1,Dusseldorf_Germany,Dusseldorf Germany
+net_linx,5459,none,London_UK,London UK
+net_lonap,8330,collector,London_UK,London UK
+net_nac,8001,1,New_York_NY_US,New York NY US
+net_nac,8001,4,Newark_NJ_US,Newark NJ US
+net_nac,8001,7,Parsippany_NJ_US_1,Parsippany NJ US
+net_nac,8001,8,Parsippany_NJ_US_2,Parsippany NJ US
+net_nac,8001,9,Cedar_Knolls_NJ_US,Cedar Knolls NJ US
+net_netins,5056,none,Des_Moines_IA_US,Des Moines IA US
+net_nexicom,11666,Nexicom AS11666,Millbrook_ON_CA,Millbrook ON CA
+net_nlayer,4436,AMS2,Amsterdam_NL_AMS2,Amsterdam NL AMS2
+net_nlayer,4436,ATL1,Atlanta_GA_US_ATL1,Atlanta GA US
+net_nlayer,4436,CDG1,Paris_FR_CDG1,Paris FR
+net_nlayer,4436,DFW1,Dallas_TX_US_DFW1,Dallas TX US
+net_nlayer,4436,EWR1,Newark_NJ_US_EWR1,Newark NJ US
+net_nlayer,4436,FRA1,Frankfurt_DE_FRA1,Frankfurt DE
+net_nlayer,4436,IAD1,Ashburn_VA_US_IAD1,Ashburn VA US
+net_nlayer,4436,IAH1,Houston_TX_US_IAH1,Houston TX US
+net_nlayer,4436,LAX1,Los_Angeles_CA_US_LAX1,Los Angeles CA US
+net_nlayer,4436,LAX2,Los_Angeles_CA_US_LAX2,Los Angeles CA US
+net_nlayer,4436,LHR1,London_UK_LHR1,London UK
+net_nlayer,4436,LHR2,London_UK_LHR2,London UK
+net_nlayer,4436,MIA1,Miami_FL_MIA1,Miami FL
+net_nlayer,4436,MTL1,Montreal_QC_CA_MTL1,Montreal QC CA
+net_nlayer,4436,NYC2,New_York_NY_US_NYC2,New York NY US
+net_nlayer,4436,NYC3,New_York_NY_US_NYC3,New York NY US
+net_nlayer,4436,ORD1,Chicago_IL_US_ORD1,Chicago IL US
+net_nlayer,4436,ORD7,Chicago_IL_US_ORD7,Chicago IL US
+net_nlayer,4436,PAO1,Palo_Alto_CA_US_PAO1,Palo Alto CA US
+net_nlayer,4436,PHL1,Philadelphia_PA_US_PHL1,Philadelphia PA US
+net_nlayer,4436,SEA1,Seattle_WA_SEA1,Seattle WA
+net_nlayer,4436,SFO1,San_Francisco_CA_US_SFO1,San Francisco CA US
+net_nlayer,4436,SJC1,San_Jose_CA_US_SJC1,San Jose CA US
+net_nlayer,4436,SLC1,Salt_Lake_City_UT_US_SLC1,Salt Lake City UT US
+net_nlayer,4436,TOR1,Toronto_ON_CA_TOR1,Toronto ON CA
+net_nordu,2603,ch-gva,Geneva_CH,Geneva CH
+net_nordu,2603,de-ffm,Frankfurt_DE,Frankfurt DE
+net_nordu,2603,de-hmb,Hamburg_DE,Hamburg DE
+net_nordu,2603,dk-ore,Copenhagen_DK,Copenhagen DK
+net_nordu,2603,dk-uni,Lyngby_DK,Lyngby DK
+net_nordu,2603,fi-csc,Helsinki_FI,Helsinki FI
+net_nordu,2603,nl-sar,Amsterdam_NL_1,Amsterdam NL
+net_nordu,2603,nl-sar2,Amsterdam_NL_2,Amsterdam NL
+net_nordu,2603,no-usi,Oslo_NO,Oslo NO
+net_nordu,2603,se-fre,Stockholm_SE_3,Stockholm SE
+net_nordu,2603,se-fre2,Stockholm_SE_4,Stockholm SE
+net_nordu,2603,se-kst,Stockholm_SE_5,Stockholm SE
+net_nordu,2603,se-lla,Lulea_SE,Lulea SE
+net_nordu,2603,se-tug,Stockholm_SE_1,Stockholm SE
+net_nordu,2603,se-tug2,Stockholm_SE_2,Stockholm SE
+net_nordu,2603,uk-hex,London_UK,London UK
+net_nordu,2603,us-ash,Ashburn_VA_US,Ashburn VA US
+net_nordu,2603,us-chi,Chicago_IL_US,Chicago IL US
+net_nordu,2603,us-man,New_York_NY_US,New York NY US
+net_nordu,2603,us-mia,Miami_FL_US,Miami FL US
+net_nordu,2603,us-pal,Palo_Alto_CA_US,Palo Alto CA US
+net_noris,3257,TISCALI (AS 3257),Nuremburg_DE_08,Nuremburg DE
+net_noris,3549,Global Crossing (AS 3549),Nuremburg_DE_11,Nuremburg DE
+net_noris,6539,GT Group Telecom (AS 6539),Nuremburg_DE_12,Nuremburg DE
+net_noris,852,AT&T,Nuremburg_DE_02,Nuremburg DE
+net_noris,852,Colt,Nuremburg_DE_06,Nuremburg DE
+net_noris,852,Energis,Nuremburg_DE_05,Nuremburg DE
+net_noris,852,Exodus Communications,Nuremburg_DE_07,Nuremburg DE
+net_noris,852,Global Crossing,Nuremburg_DE_03,Nuremburg DE
+net_noris,852,Group Telecom,Nuremburg_DE_10,Nuremburg DE
+net_noris,852,noris network AG,Nuremburg_DE_01,Nuremburg DE
+net_noris,852,Oregon Exchange,Nuremburg_DE_04,Nuremburg DE
+net_noris,852,TELUS Ontario (AS 852),Nuremburg_DE_09,Nuremburg DE
+net_ntt,2914,"Ashburn, VA - US",Ashburn_VA_US,Ashburn VA US
+net_ntt,2914,"Atlanta, GA - US",Atlanta_GA_US,Atlanta GA US
+net_ntt,2914,"Boston, MA - US",Boston_MA_US,Boston MA US
+net_ntt,2914,"Chicago, IL - US",Chicago_IL_US,Chicago IL US
+net_ntt,2914,"Dallas, TX - US",Dallas_TX_US,Dallas TX US
+net_ntt,2914,"Houston, TX - US",Houston_TX_US,Houston TX US
+net_ntt,2914,"Los Angeles, CA - US",Los_Angeles_CA_US,Los Angeles CA US
+net_ntt,2914,"Miami, FL - US",Miami_FL_US,Miami FL US
+net_ntt,2914,"Milpitas, CA - US",Milpitas_CA_US,Milpitas CA US
+net_ntt,2914,"New York, NY - US",New_York_NY_US,New York NY US
+net_ntt,2914,"Palo Alto, CA - US",Palo_Alto_CA_US,Palo Alto CA US
+net_ntt,2914,"Sacramento, CA - US",Sacramento_CA_US,Sacramento CA US
+net_ntt,2914,"San Jose, CA - US",San_Jose_CA_US,San Jose CA US
+net_ntt,2914,"Seattle, WA - US",Seattle_WA_US,Seattle WA US
+net_ntt,2914,"Sterling, VA - US",Sterling_VA_US,Sterling VA US
+net_ntt,2914,Amsterdam - NL,Amsterdam_NL,Amsterdam NL
+net_ntt,2914,Bangkok - TH,Bangkok_TH,Bangkok TH
+net_ntt,2914,Barcelona - ES,Barcelona_ES,Barcelona ES
+net_ntt,2914,Brunei Darussalam - BN,Brunei_Darussalam_BN,Brunei Darussalam BN
+net_ntt,2914,Brussels - BE,Brussels_BE,Brussels BE
+net_ntt,2914,Bucharest - RO,Bucharest_RO,Bucharest RO
+net_ntt,2914,Budapest - HU,Budapest_HU,Budapest HU
+net_ntt,2914,Düsseldorf - DE,Dusseldorf_DE,Dusseldorf DE
+net_ntt,2914,Frankfurt - DE,Frankfurt_DE,Frankfurt DE
+net_ntt,2914,Hong Kong - HK,Hong_Kong_HK,Hong Kong HK
+net_ntt,2914,Jakarta - ID,Jakarta_ID,Jakarta ID
+net_ntt,2914,Kuala Lumpur - MY,Kuala_Lumpur_MY,Kuala Lumpur MY
+net_ntt,2914,London - GB,London_GB,London GB
+net_ntt,2914,Luxembourg City - LU,Luxembourg_City_LU,Luxembourg City LU
+net_ntt,2914,Madrid - ES,Madrid_ES,Madrid ES
+net_ntt,2914,Milan - IT,Milan_IT,Milan IT
+net_ntt,2914,Munich - DE,Munich_DE,Munich DE
+net_ntt,2914,Osaka - JP,Osaka_JP,Osaka JP
+net_ntt,2914,Paris - FR,Paris_FR,Paris FR
+net_ntt,2914,Seoul - KR,Seoul_KR,Seoul KR
+net_ntt,2914,Singapore - SG,Singapore_SG,Singapore SG
+net_ntt,2914,Sofia - BU,Sofia_BU,Sofia BU
+net_ntt,2914,Stockholm - SE,Stockholm_SE,Stockholm SE
+net_ntt,2914,Sydney - AU,Sydney_AU,Sydney AU
+net_ntt,2914,São Paulo - BR,Sao_Paulo_BR,Sao Paulo BR
+net_ntt,2914,Taipei - TW,Taipei_TW,Taipei TW
+net_ntt,2914,Tokyo - JP,Tokyo_JP,Tokyo JP
+net_ntt,2914,Valencia - ES,Valencia_ES,Valencia ES
+net_ntt,2914,Vienna - AT,Vienna_AT,Vienna AT
+net_ntt,2914,Warsaw - PL,Warsaw_PL,Warsaw PL
+net_olsson,31027,"UNI*C_Core1, DTU, Lyngby",Lyngby_DK,Lyngby DK
+net_onvoy,5006,none,Buffalo_MN_US,Buffalo MN US
+net_pch,42,netnod.woodynet.pch.net:cisco,Netnod_Stockholm_SE,Stockholm SE
+net_pch,42,route-collector.akl.pch.net:cisco,APE_Auckland_NZ,Auckland NZ
+net_pch,42,route-collector.ams.pch.net:cisco,AMS_IX_Amsterdam_NL,Amsterdam NL
+net_pch,42,route-collector.ark.pch.net:cisco,AIXP_Arusha_TA,Arusha TA
+net_pch,42,route-collector.atl.pch.net:cisco,AtlantaIX_Atlanta_GA_US,Atlanta GA US
+net_pch,42,route-collector.bah.pch.net:cisco,GulfIX_Bahrain_Manama_BH,Manama BH
+net_pch,42,route-collector.ber.pch.net:cisco,BCIX_Berlin_DE,Berlin DE
+net_pch,42,route-collector.bey.pch.net:cisco,BeirutIX_Beirut_LB,Beirut LB
+net_pch,42,route-collector.bjl.pch.net:cisco,SIXP_Serrekunda_GM,Serrekunda GM
+net_pch,42,route-collector.blz.pch.net:cisco,Malawi_IXP_Blantyre_MW,Blantyre MW
+net_pch,42,route-collector.bom.pch.net:cisco,Mumbai_CH_Mumbai_CH,Mumbai CH
+net_pch,42,route-collector.bos.pch.net:cisco,Boston_IX_Boston_MA,Boston MA
+net_pch,42,route-collector.bur.pch.net:cisco,Equinix_LA_Los_Angeles_CA_US,Los Angeles CA US
+net_pch,42,route-collector.cai.pch.net:cisco,CAIX_Cairo_EG,Cairo EG
+net_pch,42,route-collector.cdg.pch.net:cisco,France_IX_Paris_FR,Paris FR
+net_pch,42,route-collector.chix.pch.net:cisco,ChIX_Chicago_IL_US,Chicago IL US
+net_pch,42,route-collector.cor.pch.net:cisco,NAP_CABASE_Cordoba_Cordoba_CA_US,CABASE Cordoba Cordoba CA US
+net_pch,42,route-collector.cpt.pch.net:cisco,CINX_Cape_Town_SA,Cape Town SA
+net_pch,42,route-collector.dac.pch.net:cisco,BDIX_Dhaka_BD,Dhaka BD
+net_pch,42,route-collector.dar.pch.net:cisco,TIX_Dar_es_Salaam_TA,Dar es Salaam TA
+net_pch,42,route-collector.dom.pch.net:cisco,DANIX_Roseau_DM,Roseau DM
+net_pch,42,route-collector.dub.pch.net:cisco,INEX_Dublin_IE,Dublin IE
+net_pch,42,route-collector.dur.pch.net:cisco,DINX_Durban_SA,Durban SA
+net_pch,42,route-collector.dxb.pch.net:cisco,UAE_IX_Dubai_UAE,Dubai UAE
+net_pch,42,route-collector.ecix-ber.pch.net:cisco,BLNX_ECIX_BER_Berlin_DE,Berlin DE
+net_pch,42,route-collector.ecix-dus.pch.net:cisco,ECIX_DUS_Dusseldorf_DE,Dusseldorf DE
+net_pch,42,route-collector.ecix-fra.pch.net:cisco,ECIX_Frankfurt_Frankfurt_DE,Frankfurt Frankfurt DE
+net_pch,42,route-collector.ecix-ham.pch.net:cisco,ECIX_HAM_Hamburg_DE,Hamburg DE
+net_pch,42,route-collector.equinix-paris.pch.net:cisco,Equinix_Paris_Paris_FR,Paris FR
+net_pch,42,route-collector.equinix-sg.pch.net:cisco,Equinix_Singapore_Singapore_SG,Singapore SG
+net_pch,42,route-collector.eze.pch.net:cisco,NAP_CABASE_Buenos_Aires_AR,CABASE Buenos Aires AR
+net_pch,42,route-collector.fra.pch.net:cisco,DE_CIX_Frankfurt_DE,Frankfurt DE
+net_pch,42,route-collector.gnd.pch.net:cisco,GREX_St__Georges_GD,Georges GD
+net_pch,42,route-collector.gru.pch.net:cisco,PTTMetro_Sao_Paulo_Sao_Paulo_BR,Sao Paulo BR
+net_pch,42,route-collector.gza.pch.net:cisco,PIX_Ramallah_PS,Ramallah PS
+net_pch,42,route-collector.hkg.pch.net:cisco,HKIX_Hong_Kong_HK,Hong Kong HK
+net_pch,42,route-collector.iad.pch.net:cisco,Equinix_Ashburn_Ashburn_VA,Ashburn VA
+net_pch,42,route-collector.icn.pch.net:cisco,KINX_Seoul_KR,Seoul KR
+net_pch,42,route-collector.ist.pch.net:cisco,IST_IX_Istanbul_TR,Istanbul TR
+net_pch,42,route-collector.jax.pch.net:cisco,JXIX_Jacksonville_FL,Jacksonville FL
+net_pch,42,route-collector.jkt.pch.net:cisco,IIX_Jakarta_ID,Jakarta ID
+net_pch,42,route-collector.jnb.pch.net:cisco,JINX_Johannesburg_SA,Johannesburg SA
+net_pch,42,route-collector.jpix.pch.net:cisco,JPIX_Tokyo_JP,Tokyo JP
+net_pch,42,route-collector.kbp.pch.net:cisco,Giganet_Kiev_UKR,Kiev UKR
+net_pch,42,route-collector.kgl.pch.net:cisco,RINEX_Kigali_RW,Kigali RW
+net_pch,42,route-collector.kin.pch.net:cisco,JAIXP_Kingston_JM,Kingston JM
+net_pch,42,route-collector.klu.pch.net:cisco,AAIX_Klagenfurt_AT,Klagenfurt AT
+net_pch,42,route-collector.krt.pch.net:cisco,SIXP_Khartoum_SU,Khartoum SU
+net_pch,42,route-collector.ktm.pch.net:cisco,NPIX_Kathmandu_NP,Kathmandu NP
+net_pch,42,route-collector.kul.pch.net:cisco,MyIX_Kuala_Lumpur_MY,Kuala Lumpur MY
+net_pch,42,route-collector.lax.pch.net:cisco,LAIIX_Los_Angeles_CA_US,Los Angeles CA US
+net_pch,42,route-collector.lba.pch.net:cisco,IXLeeds_Leeds_UK,Leeds UK
+net_pch,42,route-collector.lga.pch.net:cisco,Equinix_NY_New_York_NY_US,New York NY US
+net_pch,42,route-collector.lhr.pch.net:cisco,LINX_London_UK,London UK
+net_pch,42,route-collector.lonap.pch.net:cisco,LoNAP_London_UK,London UK
+net_pch,42,route-collector.los.pch.net:cisco,IXPN_Lagos_Lagos_NG,Lagos Lagos NG
+net_pch,42,route-collector.lpb.pch.net:cisco,IX_LAPAZ_La_Paz_BO,La Paz BO
+net_pch,42,route-collector.lys.pch.net:cisco,LyonIX_Lyon_FR,Lyon FR
+net_pch,42,route-collector.man.pch.net:cisco,IXManchester_Manchester_UK,Manchester UK
+net_pch,42,route-collector.mcix.pch.net:cisco,MCIX_Jakarta_ID,Jakarta ID
+net_pch,42,route-collector.mex.pch.net:cisco,CCIT_Mexico_DF_MX,Mexico DF MX
+net_pch,42,route-collector.mia.pch.net:cisco,NOTA_Miami_FL_US,Miami FL US
+net_pch,42,route-collector.mnl.pch.net:cisco,PhOpenIX_Manila_PH,Manila PH
+net_pch,42,route-collector.mpm.pch.net:cisco,MOZIX_Maputo_MOZ,Maputo MOZ
+net_pch,42,route-collector.mru.pch.net:cisco,MIXP_Port_Louis_MA,Port Louis MA
+net_pch,42,route-collector.muc.pch.net:cisco,INXS_Munich_DE,Munich DE
+net_pch,42,route-collector.nbe.pch.net:cisco,TuniXP_Enfidha_Enfidha_TN,Enfidha TN
+net_pch,42,route-collector.nbo.pch.net:cisco,KIXP_Nairobi_KE,Nairobi KE
+net_pch,42,route-collector.netix.pch.net:cisco,NetIX_Sofia_BG,Sofia BG
+net_pch,42,route-collector.nl-ix.pch.net:cisco,NL_ix_Amsterdam_NL,Amsterdam NL
+net_pch,42,route-collector.nlv.pch.net:cisco,Peering_cz_Prague_CZ,Prague CZ
+net_pch,42,route-collector.nqn.pch.net:cisco,NAP_CABASE_Neuquen_Neuquen_AR,CABASE Neuquen Neuquen AR
+net_pch,42,route-collector.nrt.pch.net:cisco,DIX_IE_Tokyo_JP,Tokyo JP
+net_pch,42,route-collector.nsw-ix.pch.net:cisco,NSW_IX_Sydney_AU,Sydney AU
+net_pch,42,route-collector.nyiix.pch.net:cisco,NYIIX_New_York_NY_US,New York NY US
+net_pch,42,route-collector.ord.pch.net:cisco,Equinix_Chicago_IBX_Chicago_IL_US,Chicago IL US
+net_pch,42,route-collector.paix-sea.pch.net:cisco,Equinix_Seattle_Seattle_WA_US,Seattle WA US
+net_pch,42,route-collector.pao.pch.net:cisco,Equinix_Palo_Alto_Palo_Alto_CA_US,Palo Alto CA US
+net_pch,42,route-collector.pap.pch.net:cisco,AIX_Port_au_Prince_HT,Port au Prince HT
+net_pch,42,route-collector.pdx.pch.net:cisco,NWAX_Portland_OR_US,Portland OR US
+net_pch,42,route-collector.per.pch.net:cisco,WAIX_Perth_AU,Perth AU
+net_pch,42,route-collector.pos.pch.net:cisco,TTIX_Barataria_LA_US,Barataria LA US
+net_pch,42,route-collector.qpg.pch.net:cisco,SGIX_Singapore_SG,Singapore SG
+net_pch,42,route-collector.rno.pch.net:cisco,TahoeIX_Reno_NV_US,Reno NV US
+net_pch,42,route-collector.sdb.pch.net:cisco,NAPAfrica_Cape_Town_SA,Cape Town SA
+net_pch,42,route-collector.sea.pch.net:cisco,SIX_Seattle_WA_US,Seattle WA US
+net_pch,42,route-collector.sfinx.pch.net:cisco,SFINX_Paris_FR,Paris FR
+net_pch,42,route-collector.sfo.pch.net:cisco,SFMIX_San_Francisco_CA_US,San Francisco CA US
+net_pch,42,route-collector.sin.pch.net:cisco,SOX_Singapore_SG,Singapore SG
+net_pch,42,route-collector.sjo.pch.net:cisco,IXP_Costa_Rica_San_Jose_CR,Costa Rica San Jose CR
+net_pch,42,route-collector.sna.pch.net:cisco,Any2_Los_Angeles_CA_US,Angeles CA US
+net_pch,42,route-collector.sof.pch.net:cisco,BIX_BG_Sofia_BG,Sofia BG
+net_pch,42,route-collector.syd.pch.net:cisco,Equinix_Sydney_AU,Sydney AU
+net_pch,42,route-collector.tie-ny.pch.net:cisco,TIE_New_York_New_York_NY_US,New York NY US
+net_pch,42,route-collector.tll.pch.net:cisco,RTIX_Tallinn_EST,Tallinn EST
+net_pch,42,route-collector.tmp.pch.net:cisco,TREX_Tampere_FIN,Tampere FIN
+net_pch,42,route-collector.trn.pch.net:cisco,TOP_ix_Torino_IT,Torino IT
+net_pch,42,route-collector.tun.pch.net:cisco,TunIXP_Tunis_Tunis_TN,Tunis TN
+net_pch,42,route-collector.vie.pch.net:cisco,VIX_Vienna_AT,Vienna AT
+net_pch,42,route-collector.vli.pch.net:cisco,VIX_Port_Vila_VU,Port Vila VU
+net_pch,42,route-collector.waw.pch.net:cisco,PLIX_Warsaw_PL,Warsaw PL
+net_pch,42,route-collector.wdh.pch.net:cisco,WHKIX_Windhoek_NA,Windhoek NA
+net_pch,42,route-collector.wlg.pch.net:cisco,WIX_Wellington_NZ,Wellington NZ
+net_pch,42,route-collector.wpgix.pch.net:cisco,WPGIX_Winnipeg_MB_CA,Winnipeg MB CA
+net_pch,42,route-collector.yow.pch.net:cisco,OttIX_Ottawa_CA,Ottawa CA
+net_pch,42,route-collector.yul.pch.net:cisco,QIX_Montreal_QC_CA,Montreal QC CA
+net_pch,42,route-collector.ywg.pch.net:cisco,MBIX_Winnipeg_MB_CA,Winnipeg MB CA
+net_pch,42,route-collector.yyc.pch.net:cisco,YYCIX_Calgary_AB_CA,Calgary AB CA
+net_pch,42,route-collector.yyz.pch.net:cisco,TORIX_Toronto_CA,Toronto CA
+net_pch,42,route-collector.zrh.pch.net:cisco,SwissIX_Zurich_CH,Zurich CH
+net_peer1,13768,"Amsterdam, NL (AS13768)",Amsterdam_NL,"Amsterdam, NL"
+net_peer1,13768,"Atlanta, GA (AS13768)",Atlanta_GA,"Atlanta, GA"
+net_peer1,13768,"Chicago, IL (AS13768)",Chicago_IL,"Chicago, IL"
+net_peer1,13768,"Dallas, TX (AS13768)",Dallas_TX,"Dallas, TX"
+net_peer1,13768,"London, EN (AS13768)",London_EN,"London, EN"
+net_peer1,13768,"Los Angeles, CA (AS13768)",Los_Angeles_CA,"Los Angeles, CA"
+net_peer1,13768,"Miami, FL (AS13768)",Miami_FL,"Miami, FL"
+net_peer1,13768,"Montreal, QC (AS13768)",Montreal_QC,"Montreal, QC"
+net_peer1,13768,"New York, NY (AS13768)",New_York_NY,"New York, NY"
+net_peer1,13768,"San Jose, CA (AS13768)",San_Jose_CA,"San Jose, CA"
+net_peer1,13768,"Seattle, WA (AS13768)",Seattle_WA,"Seattle, WA"
+net_peer1,13768,"Toronto, ON (AS13768)",Toronto_ON,"Toronto, ON"
+net_peer1,13768,"Vancouver, BC (AS13768)",Vancouver_BC,"Vancouver, BC"
+net_peer1,13768,"Washington, DC (AS13768)",Washington_DC,"Washington, DC"
+net_retn,9002,1,RU_Moscow_M9,Moscow RU
+net_retn,9002,10,RU_Tula_KVT,Tula RU
+net_retn,9002,11,RU_Kamensk_Shaht__KVT,Kamensk Shaht  RU
+net_retn,9002,12,RU_Belgorod_CTC,Belgorod RU
+net_retn,9002,13,RU_Rostov_na_Donu_TMT,Rostov na Donu RU
+net_retn,9002,14,RU_Novosibirsk_CIF,Novosibirsk RU
+net_retn,9002,15,RU_Krasnoyarsk_ITT,Krasnoyarsk RU
+net_retn,9002,16,RU_Kazan_ITP,Kazan RU
+net_retn,9002,17,RU_Ufa_UFN,Ufa RU
+net_retn,9002,18,RU_Ryazan_STC,Ryazan RU
+net_retn,9002,19,RU_Chelyabinsk_HPN,Chelyabinsk RU
+net_retn,9002,1a,RU_Goritcy_EPS,Goritcy RU
+net_retn,9002,1c,RU_Gubkin_AT5,Gubkin RU
+net_retn,9002,1d,RU_Cheboksary_ETW,Cheboksary RU
+net_retn,9002,1e,RU_Ekaterinburg_UDC,Ekaterinburg RU
+net_retn,9002,1f,RU_Perm_TIM,Perm RU
+net_retn,9002,2,RU_Moscow_M9P,Moscow RU
+net_retn,9002,20,RU_Omsk_KNX,Omsk RU
+net_retn,9002,21,RU_Tyumen_NMS,Tyumen RU
+net_retn,9002,22,RU_Surgut_NFB,Surgut RU
+net_retn,9002,23,RU_Irkutsk_VSV,Irkutsk RU
+net_retn,9002,24,RU_Krasnodar_ATC,Krasnodar RU
+net_retn,9002,25,RU_Samara_SMT,Samara RU
+net_retn,9002,5,RU_Moscow_MR,Moscow RU
+net_retn,9002,6,RU_St_Petersburg_BM,St Petersburg RU
+net_retn,9002,62,BY_Minsk_NCT,Minsk BY
+net_retn,9002,64,UA_Lviv_UAR,Lviv UA
+net_retn,9002,65,UA_Kyiv_NTL0,Kyiv UA
+net_retn,9002,66,UA_Kyiv_NTL1,Kyiv UA
+net_retn,9002,69,UA_Uzhgorod_ATR,Uzhgorod UA
+net_retn,9002,6f,UA_Kharkov_BH,Kharkov UA
+net_retn,9002,7,RU_St_Petersburg_OV,St Petersburg RU
+net_retn,9002,73,UA_Donetsk_ATR,Donetsk UA
+net_retn,9002,78,UA_Zaporozhye_ATR,Zaporozhye UA
+net_retn,9002,7b,UA_Nikolaev_ATR,Nikolaev UA
+net_retn,9002,7d,UA_Odessa_HST,Odessa UA
+net_retn,9002,8,RU_St_Petersburg_KM,St Petersburg RU
+net_retn,9002,82,UA_Dnepropetrovsk_DSF,Dnepropetrovsk UA
+net_retn,9002,96,FI_Helsinki_TNR,Helsinki FI
+net_retn,9002,97,FI_Helsinki_HMO,Helsinki FI
+net_retn,9002,98,EE_Tallinn_ELN,Tallinn EE
+net_retn,9002,99,LV_Riga_RTC,Riga LV
+net_retn,9002,9b,SE_Stockholm_TC1,Stockholm SE
+net_retn,9002,9c,LT_Kaunas_RTC,Kaunas LT
+net_retn,9002,9d,LT_Klaipeda_BTC,Klaipeda LT
+net_retn,9002,9e,LT_Vilnius_TIC,Vilnius LT
+net_retn,9002,9f,LT_Siauliai_OMT,Siauliai LT
+net_retn,9002,a,RU_Vladimir_KSZ,Vladimir RU
+net_retn,9002,a1,DE_Frankfurt_IRX,Frankfurt DE
+net_retn,9002,a2,DE_Frankfurt_EQX,Frankfurt DE
+net_retn,9002,a5,DE_Hamburg_GCN,Hamburg DE
+net_retn,9002,a6,DE_Berlin_SB,Berlin DE
+net_retn,9002,a7,PL_Warsaw_LIM,Warsaw PL
+net_retn,9002,a8,CH_Zurich_IRX,Zurich CH
+net_retn,9002,a9,IT_Milan_IFC,Milan IT
+net_retn,9002,aa,CZ_Prague_STL,Prague CZ
+net_retn,9002,ab,PL_Poznan_BND,Poznan PL
+net_retn,9002,ac,PL_Katowice_QTL,Katowice PL
+net_retn,9002,ad,HU_Budapest_DPX,Budapest HU
+net_retn,9002,ae,SK_Bratislava_STL,Bratislava SK
+net_retn,9002,af,AT_Vienna_IRX,Vienna AT
+net_retn,9002,b,RU_V_Novgorod_RAY,V Novgorod RU
+net_retn,9002,b0,PL_Krakov_CND,Krakov PL
+net_retn,9002,b4,NL_Amsterdam_TC2,Amsterdam NL
+net_retn,9002,b5,NL_Dronten_SRV,Dronten NL
+net_retn,9002,b6,BE_Brussels_IRX,Brussels BE
+net_retn,9002,b7,ES_Madrid_MEX,Madrid ES
+net_retn,9002,b9,FR_Paris_THV,Paris FR
+net_retn,9002,be,UK_London_TC2,London UK
+net_retn,9002,c,RU_Lipetsk_RTC,Lipetsk RU
+net_retn,9002,c9,US_New_York_TLX,New York US
+net_retn,9002,cb,US_Ashburn_EQX,Ashburn US
+net_retn,9002,d,RU_Voronezh_ES,Voronezh RU
+net_retn,9002,d2,US_Los_Angeles_CRS,Los Angeles US
+net_retn,9002,d8,US_Chicago_EQX,Chicago US
+net_retn,9002,e,RU_N_Novgorod_RTC,N Novgorod RU
+net_retn,9002,e6,JP_Tokyo_EQX,Tokyo JP
+net_retn,9002,eb,CN_Hong_Kong_IAD,Hong Kong CN
+net_retn,9002,f,RU_Saratov_INT,Saratov RU
+net_savvis,3561,3px,Phoenix_AZ_US,Phoenix AZ US
+net_savvis,3561,ald,Atlanta_GA_US,Atlanta GA US
+net_savvis,3561,amx,Amsterdam_NL,Amsterdam NL
+net_savvis,3561,bol,Boston_MA_US,Boston MA US
+net_savvis,3561,chd,Chicago_IL_US,Chicago IL US
+net_savvis,3561,dan,Dallas_TX_US,Dallas TX US
+net_savvis,3561,dck,Washington_DC_US,Washington DC US
+net_savvis,3561,den,Denver_CO_US,Denver CO US
+net_savvis,3561,ft3,Frankfurt_DE,Frankfurt DE
+net_savvis,3561,lay,Los_Angeles_CA_US,Los Angeles CA US
+net_savvis,3561,mmd,Miami_FL_US,Miami FL US
+net_savvis,3561,nyr,New_York_NY_US,New York NY US
+net_savvis,3561,phy,Philadelphia_PA_US,Philadelphia PA US
+net_savvis,3561,prx,Paris_FR,Paris FR
+net_savvis,3561,sel,Seattle_WA_US,Seattle WA US
+net_savvis,3561,sfo,San_Francisco_CA_US,San Francisco CA US
+net_savvis,3561,tnc,Toronto_CA,Toronto CA
+net_seabone,6762,Accra,Accra_GH,Accra GH
+net_seabone,6762,Amsterdam,Amsterdam_NL,Amsterdam NL
+net_seabone,6762,Ashburn,Ashburn_VA_US,Ashburn VA US
+net_seabone,6762,Athens,Athens_GR,Athens GR
+net_seabone,6762,Atlanta,Atlanta_GA_US,Atlanta GA US
+net_seabone,6762,Bratislava,Bratislava_SK,Bratislava SK
+net_seabone,6762,Bucharest,Bucharest_RO,Bucharest RO
+net_seabone,6762,BuenosAires,Buenos_Aires_AR,Buenos Aires AR
+net_seabone,6762,Catania,Catania_IT,Catania IT
+net_seabone,6762,Chicago,Chicago_IL_US,Chicago IL US
+net_seabone,6762,Dallas,Dallas_TX_US,Dallas TX US
+net_seabone,6762,Daressalaam,Dar_es_Salaam_TA,Dar es Salaam TA
+net_seabone,6762,Djibouti,Djibouti,Djibouti
+net_seabone,6762,Fortaleza,Fortaleza_BR,Fortaleza BR
+net_seabone,6762,Frankfurt,Frankfurt_DE,Frankfurt DE
+net_seabone,6762,Hamburg,Hamburg_DE,Hamburg DE
+net_seabone,6762,HongKong,Hong_Kong_HK,Hong Kong HK
+net_seabone,6762,Istanbul,Istanbul_TR,Istanbul TR
+net_seabone,6762,Lima,Lima_PE,Lima PE
+net_seabone,6762,London,London_UK,London UK
+net_seabone,6762,LosAngeles,Los_Angeles_CA_US,Los Angeles CA US
+net_seabone,6762,Madrid,Madrid_ES,Madrid ES
+net_seabone,6762,Marseille,Marseille_FR,Marseille FR
+net_seabone,6762,Miami,Miami_FL_US,Miami FL US
+net_seabone,6762,Milano,Milano_IT,Milano IT
+net_seabone,6762,Newark,Newark_NJ_US,Newark NJ US
+net_seabone,6762,NewYork,New_York_NY_US,New York NY US
+net_seabone,6762,Palermo,Palermo_IT,Palermo IT
+net_seabone,6762,PaloAlto,Palo_Alto_CA_US,Palo Alto CA US
+net_seabone,6762,Panama,Panama,Panama
+net_seabone,6762,Paris,Paris_FR,Paris FR
+net_seabone,6762,Prague,Prague_CZ,Prague CZ
+net_seabone,6762,RioDeJaneiro,Rio_De_Janeiro_BR,Rio De Janeiro BR
+net_seabone,6762,Rome,Rome_IT,Rome IT
+net_seabone,6762,Santiago,Santiago_CL,Santiago CL
+net_seabone,6762,SaoPaulo,Sao_Paulo_BR,Sao Paulo BR
+net_seabone,6762,Singapore,Singapore_SG,Singapore SG
+net_seabone,6762,Wien,Wien_AT,Wien AT
+net_semaphore,3742,cr1.sea1.semaphore.net,Seattle_WA_US,Seattle WA US
+net_silesnet,702,none,Cesky_Tesin_CZ,Cesky Tesin CZ
+net_space,5539,none,Munich_DE,Munich DE
+net_sprint,1239,287P07nz2aiD,Stockholm_Sweden,Stockholm Sweden
+net_sprint,1239,2iSckqktK2XD,Brussels_Belgium,Brussels Belgium
+net_sprint,1239,2M2KVLrFZKNY,Omaha_NE,Omaha NE
+net_sprint,1239,3hKdM5UuU5jt,Anaheim_CA,Anaheim CA
+net_sprint,1239,3Jvfj1OdTDxm,Pearl_City_HI,Pearl City HI
+net_sprint,1239,4LipX6k5RkI4,Vancouver_Canada,Vancouver Canada
+net_sprint,1239,5vaRg5dvgh5d,Dublin_Ireland,Dublin Ireland
+net_sprint,1239,6hIrFdYfJOR2,Copenhagen_Denmark,Copenhagen Denmark
+net_sprint,1239,7pIZhbqMhelA,Ft_Worth_TX,Ft Worth TX
+net_sprint,1239,8F0bGhzaIk5R,Seattle_WA,Seattle WA
+net_sprint,1239,8NTwEWcQr4Vj,Amsterdam_Holland,Amsterdam Holland
+net_sprint,1239,aFIL61h5kF58,Saint_Paul_MN,Saint Paul MN
+net_sprint,1239,AYyGuj3ulp3y,North_Lenexa_KS,North Lenexa KS
+net_sprint,1239,b4b1Y6RoN1ZJ,Cheyenne_WY,Cheyenne WY
+net_sprint,1239,BEeGnd7LZYuC,Frankfurt_Germany,Frankfurt Germany
+net_sprint,1239,cV3xr4qUHf4N,Phoenix_AZ,Phoenix AZ
+net_sprint,1239,DC0Rvlsrzgjt,Dallas_TX,Dallas TX
+net_sprint,1239,DFzyLB3Avsup,Lee_Summit_MO,Lee Summit MO
+net_sprint,1239,dMlY3NCZeQNZ,Paris_France,Paris France
+net_sprint,1239,e4bhpCqHBTU4,Taipei_Taiwan,Taipei Taiwan
+net_sprint,1239,EKkoU0sjAvoa,San_Jose_CA,San Jose CA
+net_sprint,1239,EL8RH53YdXTE,Sao_Paulo_Brazil,Sao Paulo Brazil
+net_sprint,1239,EzdmZBqO3caF,Tuckerton_NJ,Tuckerton NJ
+net_sprint,1239,FJRCnMmhFMbg,Springfield_MA,Springfield MA
+net_sprint,1239,gRQWKVjSZm7A,Palo_Alto_CA,Palo Alto CA
+net_sprint,1239,GVlanMxtdlup,Fairfax_SC,Fairfax SC
+net_sprint,1239,HbLbpqJ2rL2y,Miami_FL,Miami FL
+net_sprint,1239,hrmhYB0zCWtL,Pueblo_Viejo_Puerto_Rico,Pueblo Viejo Puerto Rico
+net_sprint,1239,Hs1lRrxgR43t,Detroit_MI,Detroit MI
+net_sprint,1239,ILkr2Tkw2egU,Secaucus_NJ,Secaucus NJ
+net_sprint,1239,IPySaEhYP2Oq,Harrison_NJ,Harrison NJ
+net_sprint,1239,iqDrVtinaols,Kansas_City_MO,Kansas City MO
+net_sprint,1239,jHxTzvo2hQmL,Philadelphia_PA,Philadelphia PA
+net_sprint,1239,jkZOW7h7NTqj,St__Louis_MO,St Louis MO
+net_sprint,1239,jYhXJsC5JUav,Relay_MD,Relay MD
+net_sprint,1239,kFCviVuijoN7,Rio_De_Janeiro_Brazil,Rio De Janeiro Brazil
+net_sprint,1239,KU03SUqJBsmK,Milan_Italy,Milan Italy
+net_sprint,1239,kWYOx7ns6Doa,Seoul_South_Korea,Seoul South Korea
+net_sprint,1239,lLH6uaP5Hrm7,New_York_NY,New York NY
+net_sprint,1239,lMsC207gh87S,Montreal_Canada,Montreal Canada
+net_sprint,1239,MFAvpxVQkYCP,Medellin_Colombia,Medellin Colombia
+net_sprint,1239,MfBaDIGPTkmJ,Burbank_CA,Burbank CA
+net_sprint,1239,mqinHnWnPUvR,Rialto_CA,Rialto CA
+net_sprint,1239,NWwpoCDSyxq1,Zurich_Switzerland,Zurich Switzerland
+net_sprint,1239,ob6gPSiZ0BPx,Ashburn_VA,Ashburn VA
+net_sprint,1239,onMwmgPwsmS8,Stockton_CA,Stockton CA
+net_sprint,1239,pDRbeJIVO1UI,Manasquan_NJ,Manasquan NJ
+net_sprint,1239,QbJLfqUg0yCK,Rancho_Cordova_CA,Rancho Cordova CA
+net_sprint,1239,QfwZjgEgQoul,Orlando_FL,Orlando FL
+net_sprint,1239,R1vxUIuwmsJI,Hamburg_Germany,Hamburg Germany
+net_sprint,1239,RCPuZAyqu8Ay,Hong_Kong_China,Hong Kong China
+net_sprint,1239,S4PjNjVh2CaV,Sydney_Australia,Sydney Australia
+net_sprint,1239,sbaeM0OMX7GP,Santiago_Chile,Santiago Chile
+net_sprint,1239,SsuBX6kPJXUc,Kuala_Lumpur_Malaysia,Kuala Lumpur Malaysia
+net_sprint,1239,SVjXwKSDOuOe,Oslo_Norway,Oslo Norway
+net_sprint,1239,SVOtKhp7DpRd,Denver_CO,Denver CO
+net_sprint,1239,UB6G3uLE8MAs,Singapore,Singapore
+net_sprint,1239,uPfNB0yGYyYf,Pittsburgh_PA,Pittsburgh PA
+net_sprint,1239,UWihYn2lr0jr,Tacoma_WA,Tacoma WA
+net_sprint,1239,V1UpCtUZDh5E,Oroville_CA,Oroville CA
+net_sprint,1239,VFMze7JHd3rs,Nashville_TN,Nashville TN
+net_sprint,1239,VvM7ou1DlZgb,Stockholm_Telecity_Sweden,Stockholm Telecity Sweden
+net_sprint,1239,vxqUbuJ3mTAO,Santa_Clara_CA,Santa Clara CA
+net_sprint,1239,wKYbe2kLQ1Tv,Reston_VA,Reston VA
+net_sprint,1239,WloDfpUZmxtQ,Los_Angeles_CA,Los Angeles CA
+net_sprint,1239,WS7KmgHZLqZz,Pennsauken_NJ,Pennsauken NJ
+net_sprint,1239,x1R6CyPrWXP0,Houston_TX,Houston TX
+net_sprint,1239,XhtBOdZn6tqh,London_Telecity_UK,London Telecity UK
+net_sprint,1239,XkjNzWEFhvP6,Boston_MA,Boston MA
+net_sprint,1239,xKmboUt6mfHR,London_UK,London UK
+net_sprint,1239,XQOvrYw75wKU,Tokyo_Japan,Tokyo Japan
+net_sprint,1239,xT3tUd3MAal5,Calgary_Canada,Calgary Canada
+net_sprint,1239,xwDfnFtzEtLv,Atlanta_GA,Atlanta GA
+net_sprint,1239,YboPkqh8dDjy,Roachdale_IN,Roachdale IN
+net_sprint,1239,YGJdo7dRtW8Q,Chicago_IL,Chicago IL
+net_sprint,1239,YUEAsimQqCRB,Vienna_Austria,Vienna Austria
+net_sprint,1239,yuJCdYqKtlMr,Caracas_Venezuela,Caracas Venezuela
+net_sprint,1239,yxHbE7jIQxLZ,Toronto_Canada,Toronto Canada
+net_sprint,1239,zIwlrN352xhx,Washington_DC,Washington DC
+net_steadfast,32748,Chicago,Chicago_IL_US,Chicago IL US
+net_steadfast,32748,Edison,Edison_NJ_US,Edison NJ US
+net_supranet,4150,Chicago,Chicago_IL_US,Chicago IL US
+net_supranet,4150,Madison,Madison_WI_US,Madison WI US
+net_supranet,4150,Minneapolis,Minneapolis_MN_US,Minneapolis MN US
+net_tac,852,TELUS_EAST,Rimouski_Quebec_CA,Rimouski Quebec CA
+net_tac,852,TELUS_WEST,Burnaby_British_Columbia_CA,Burnaby British Columbia CA
+net_tata,6453,gin-00s-core1,US_Seattle_00S,Seattle US
+net_tata,6453,gin-1mh-core1,AU_Sydney_1MH,Sydney AU
+net_tata,6453,gin-2n1-core1,KE_Nairobi_2N1,Nairobi KE
+net_tata,6453,gin-40b-thar1,SG_Singapore_40B,Singapore SG
+net_tata,6453,gin-41b-core1,TZ_Dar_Es_Salaam_41B,Dar Es Salaam TZ
+net_tata,6453,gin-a56-har1,US_Atlanta_A56,Atlanta US
+net_tata,6453,gin-ad1-tcore1,NL_Amsterdam_AD1,Amsterdam NL
+net_tata,6453,gin-aeq-tcore1,US_Ashburn_AEQ,Ashburn US
+net_tata,6453,gin-av2-tcore1,NL_Amsterdam_AV2,Amsterdam NL
+net_tata,6453,gin-avu-thar1,NL_Amsterdam_AVU,Amsterdam NL
+net_tata,6453,gin-b1d-thar1,BE_Brussels_B1D,Brussels BE
+net_tata,6453,gin-bjz-core1,ES_Barcelona_BJZ,Barcelona ES
+net_tata,6453,gin-bk7-core1,TH_Bangkok_BK7,Bangkok TH
+net_tata,6453,gin-cfo-core1,IN_Chennai_CFO,Chennai IN
+net_tata,6453,gin-cov-core1,IN_Cochin_COV,Cochin IN
+net_tata,6453,gin-ct8-core1,US_Chicago_CT8,Chicago US
+net_tata,6453,gin-cxr-tcore1,IN_Chennai_CXR,Chennai IN
+net_tata,6453,gin-cyr-core1,EG_Cairo_CYR,Cairo EG
+net_tata,6453,gin-ddv-core1,US_Denver_DDV,Denver US
+net_tata,6453,gin-dt8-tcore1,US_Dallas_DT8,Dallas US
+net_tata,6453,gin-dtx-core1,US_Dallas_DTX,Dallas US
+net_tata,6453,gin-dvs-tcore1,ES_Bilbao_DVS,Bilbao ES
+net_tata,6453,gin-e14-thar1,JP_Osaka_E14,Osaka JP
+net_tata,6453,gin-eql-tcore1,US_Los_Angeles_EQL,Los Angeles US
+net_tata,6453,gin-f2c-thar1,DE_Frankfurt_F2C,Frankfurt DE
+net_tata,6453,gin-fnm-tcore1,DE_Frankfurt_FNM,Frankfurt DE
+net_tata,6453,gin-fr0-tcore1,DE_Frankfurt_FR0,Frankfurt DE
+net_tata,6453,gin-fr1-thar1,DE_Frankfurt_FR1,Frankfurt DE
+net_tata,6453,gin-h71-core1,HK_Hong_Kong_H71,Hong Kong HK
+net_tata,6453,gin-h81-thar1,HK_Hong_Kong_H81,Hong Kong HK
+net_tata,6453,gin-hk2-core3,HK_Hong_Kong_HK2,Hong Kong HK
+net_tata,6453,gin-hnn-thar1,NL_Amsterdam_HNN,Amsterdam NL
+net_tata,6453,gin-hw1-thar1,GB_High_Wycombe_HW1,High Wycombe GB
+net_tata,6453,gin-ih4-core1,SG_Singapore_IH4,Singapore SG
+net_tata,6453,gin-it5-tcore1,TR_Istanbul_IT5,Istanbul TR
+net_tata,6453,gin-it6-tcore1,TR_Ankara_IT6,Ankara TR
+net_tata,6453,gin-jsd-core1,SA_Jeddah_JSD,Jeddah SA
+net_tata,6453,gin-jso-tcore1,ZA_Johannesburg_JSO,Johannesburg ZA
+net_tata,6453,gin-klt-tcore1,ZA_Cape_Town_KLT,Cape Town ZA
+net_tata,6453,gin-kth-core1,HK_Hong_Kong_KTH,Hong Kong HK
+net_tata,6453,gin-l78-mcore3,GB_London_L78,London GB
+net_tata,6453,gin-laa-mcore3,US_Los_Angeles_LAA,Los Angeles US
+net_tata,6453,gin-lau-core3,CA_Laurentides_LAU,Laurentides CA
+net_tata,6453,gin-lcn-core3,CA_Lake_Cowichan_LCN,Lake Cowichan CA
+net_tata,6453,gin-ld5-thar1,GB_Slough_LD5,Slough GB
+net_tata,6453,gin-ldn-core4,GB_London_LDN,London GB
+net_tata,6453,gin-lhx-core1,GB_London_LHX,London GB
+net_tata,6453,gin-lrs-thar1,GB_London_LRS,London GB
+net_tata,6453,gin-lrt-thar1,GB_London_LRT,London GB
+net_tata,6453,gin-lvw-tcore1,US_Los_Angeles_LVW,Los Angeles US
+net_tata,6453,gin-m3h-core2,AU_Sydney_M3H,Sydney AU
+net_tata,6453,gin-mdo-har2,ES_Madrid_MDO,Madrid ES
+net_tata,6453,gin-mln-core5,US_Miami_MLN,Miami US
+net_tata,6453,gin-mlt-core3,IT_Milan_MLT,Milan IT
+net_tata,6453,gin-mlv-core2,IN_Mumbai_MLV,Mumbai IN
+net_tata,6453,gin-mtt-tcore1,CA_Montreal_MTT,Montreal CA
+net_tata,6453,gin-mx2-har1,ES_Madrid_MX2,Madrid ES
+net_tata,6453,gin-n0v-thar1,US_New_York_N0V,New York US
+net_tata,6453,gin-n71-core1,AE_Fujairah_N71,Fujairah AE
+net_tata,6453,gin-n75-tcore1,US_New_York_N75,New York US
+net_tata,6453,gin-njy-thar1,US_Newark_NJY,Newark US
+net_tata,6453,gin-nto-tcore1,US_New_York_NTO,New York US
+net_tata,6453,gin-nw8-tcore1,US_New_York_NW8,New York US
+net_tata,6453,gin-nyy-mcore4,US_New_York_NYY,New York US
+net_tata,6453,gin-os1-core2,NO_Oslo_OS1,Oslo NO
+net_tata,6453,gin-pdi-mcore4,US_Palo_Alto_PDI,Palo Alto US
+net_tata,6453,gin-pg1-tcore1,FR_Paris_PG1,Paris FR
+net_tata,6453,gin-pv0-har1,FR_Paris_PV0,Paris FR
+net_tata,6453,gin-pv4-core1,GU_Piti_PV4,Piti GU
+net_tata,6453,gin-pv9-core2,PT_Lisbon_PV9,Lisbon PT
+net_tata,6453,gin-pvu-tcore1,FR_Paris_PVU,Paris FR
+net_tata,6453,gin-pye-core1,FR_Paris_PYE,Paris FR
+net_tata,6453,gin-qby-core1,PH_Manila_QBY,Manila PH
+net_tata,6453,gin-rct-thar1,IT_Rome_RCT,Rome IT
+net_tata,6453,gin-rsd-core2,SA_Riyadh_RSD,Riyadh SA
+net_tata,6453,gin-sqn-tcore1,US_San_Jose_SQN,San Jose US
+net_tata,6453,gin-stk-har1,SE_Stockholm_STK,Stockholm SE
+net_tata,6453,gin-sv8-tcore1,GB_Highbridge_SV8,Highbridge GB
+net_tata,6453,gin-svq-tcore1,SG_Singapore_SVQ,Singapore SG
+net_tata,6453,gin-svw-tcore1,SG_Singapore_SVW,Singapore SG
+net_tata,6453,gin-sz5-core1,PT_Seixal_SZ5,Seixal PT
+net_tata,6453,gin-tnk-tcore1,CA_Toronto_TNK,Toronto CA
+net_tata,6453,gin-ttt-mcore3,CA_Toronto_TTT,Toronto CA
+net_tata,6453,gin-tv2-core1,JP_Tokyo_TV2,Tokyo JP
+net_tata,6453,gin-vcw-core3,CA_Vancouver_VCW,Vancouver CA
+net_tata,6453,gin-vi8-thar1,FR_Vitry_Sur_Seine_VI8,Vitry Sur Seine FR
+net_tata,6453,gin-w1t-thar1,PL_Warsaw_W1T,Warsaw PL
+net_tata,6453,gin-w42-thar1,SG_Singapore_W42,Singapore SG
+net_tata,6453,gin-w6c-tcore1,CA_Montreal_W6C,Montreal CA
+net_tata,6453,gin-wi3-thar1,IT_Milan_WI3,Milan IT
+net_tata,6453,gin-wv6-core2,ES_Madrid_WV6,Madrid ES
+net_tata,6453,gin-wyn-core1,FR_Marseille_WYN,Marseille FR
+net_telia,1299,Amsterdam,Amsterdam_NL,Amsterdam NL
+net_telia,1299,Ashburn,Ashburn_VA_US,Ashburn VA US
+net_telia,1299,Atlanta,Atlanta_GA_US,Atlanta GA US
+net_telia,1299,Barcelona,Barcelona_ES,Barcelona ES
+net_telia,1299,Berlin,Berlin_DE,Berlin DE
+net_telia,1299,Boston,Boston_MA_US,Boston MA US
+net_telia,1299,Bratislava,Bratislava_SVK,Bratislava SVK
+net_telia,1299,Brussels,Brussels_BE,Brussels BE
+net_telia,1299,Bucharest,Bucharest_RO,Bucharest RO
+net_telia,1299,Budapest,Budapest_HU,Budapest HU
+net_telia,1299,Buffalo,Buffalo_NY_US,Buffalo NY US
+net_telia,1299,Charlotte,Charlotte_NC_US,Charlotte NC US
+net_telia,1299,Chicago,Chicago_IL_US,Chicago IL US
+net_telia,1299,Cleveland,Cleveland_OH_US,Cleveland OH US
+net_telia,1299,Cologne,Cologne_DE,Cologne DE
+net_telia,1299,Copenhagen,Copenhagen_DK,Copenhagen DK
+net_telia,1299,Dallas,Dallas_TX_US,Dallas TX US
+net_telia,1299,Denver,Denver_CO_US,Denver CO US
+net_telia,1299,Doha,Doha_QAT,Doha QAT
+net_telia,1299,Dubai,Dubai_UAE,Dubai UAE
+net_telia,1299,Dublin,Dublin_IE,Dublin IE
+net_telia,1299,Dusseldorf,Dusseldorf_DE,Dusseldorf DE
+net_telia,1299,Frankfurt,Frankfurt_DE,Frankfurt DE
+net_telia,1299,GRX segment,Stockholm_SE_3,Stockholm SE
+net_telia,1299,Hamburg,Hamburg_DE,Hamburg DE
+net_telia,1299,Helsinki,Helsinki_FIN,Helsinki FIN
+net_telia,1299,Hong Kong,Hong_Kong_HK,Hong Kong HK
+net_telia,1299,Kansas City,Kansas_City_MO_US,Kansas City MO US
+net_telia,1299,Kiev,Kiev_UKR,Kiev UKR
+net_telia,1299,London,London_UK,London UK
+net_telia,1299,Los Angeles,Los_Angeles_CA_US,Los Angeles CA US
+net_telia,1299,Madrid,Madrid_ES,Madrid ES
+net_telia,1299,Malmo,Malmo_SE,Malmo SE
+net_telia,1299,Marseille,Marseille_FR,Marseille FR
+net_telia,1299,McAllen,McAllen_TX_US,McAllen TX US
+net_telia,1299,Miami,Miami_FL_US,Miami FL US
+net_telia,1299,Milan,Milan_IT,Milan IT
+net_telia,1299,Moscow,Moscow_RU,Moscow RU
+net_telia,1299,Munich,Munich_DE,Munich DE
+net_telia,1299,Muscat,Muscat_OMN,Muscat OMN
+net_telia,1299,Nashville,Nashville_TN_US,Nashville TN US
+net_telia,1299,New York,New_York_NY_US,New York NY US
+net_telia,1299,Oslo,Oslo_NOR,Oslo NOR
+net_telia,1299,Palo Alto,Palo_Alto_CA_US,Palo Alto CA US
+net_telia,1299,Paris,Paris_FR,Paris FR
+net_telia,1299,Phoenix,Phoenix_AZ_US,Phoenix AZ US
+net_telia,1299,Poznan,Poznan_PL,Poznan PL
+net_telia,1299,Prague,Prague_CZ,Prague CZ
+net_telia,1299,Riga,Riga_LVA,Riga LVA
+net_telia,1299,San Jose,San_Jose_CA_US,San Jose CA US
+net_telia,1299,Seattle,Seattle_WA_US,Seattle WA US
+net_telia,1299,Singapore,Singapore_SG,Singapore SG
+net_telia,1299,Sofia,Sofia_BG,Sofia BG
+net_telia,1299,St.-Petersburg,St_Petersburg_RU,St Petersburg RU
+net_telia,1299,Stockholm,Stockholm_SE_1,Stockholm SE
+net_telia,1299,Stockholm-3301,Stockholm_SE_2,Stockholm SE
+net_telia,1299,Tallinn,Tallinn_EST,Tallinn EST
+net_telia,1299,Toronto,Toronto_ON_CA,Toronto ON CA
+net_telia,1299,Valencia,Valencia_ES,Valencia ES
+net_telia,1299,Vienna,Vienna_AT,Vienna AT
+net_telia,1299,Warsaw,Warsaw_PL,Warsaw PL
+net_telia,1299,Zurich,Zurich_CH,Zurich CH
+net_tellurian,10848,,Newton_NJ,"Newton, NJ, USA"
+net_telstra,1221,none,Melbourne_AU,Melbourne AU
+net_totiig,38040,Global Crossing,Phoenix_AZ_US,Phoenix AZ US
+net_totiig,38040,Tinet,Frankfurt_DE,Frankfurt DE
+net_totiig,38040,tot-iig-bkk-kkm-02,Bangkok_TH,Bangkok TH
+net_totiig,38040,tot-iig-hk,HongKong_HK,HongKong HK
+net_trit,40193,none,Los_Angeles_CA_US,Los Angeles CA US
+net_twtelecom,4323,"Albany, NY",Albany_NY_US,Albany NY US
+net_twtelecom,4323,"Albuquerque, NM",Albuquerque_NM_US,Albuquerque NM US
+net_twtelecom,4323,"Ashburn, VA",Ashburn_VA_US,Ashburn VA US
+net_twtelecom,4323,"Atlanta, GA",Atlanta_GA_US,Atlanta GA US
+net_twtelecom,4323,"Austin, TX",Austin_TX_US,Austin TX US
+net_twtelecom,4323,"Baltimore, MD",Baltimore_MD_US,Baltimore MD US
+net_twtelecom,4323,"Binghamton, NY",Binghamton_NY_US,Binghamton NY US
+net_twtelecom,4323,"Birmingham, AL",Birmingham_AL_US,Birmingham AL US
+net_twtelecom,4323,"Boise, ID",Boise_ID_US,Boise ID US
+net_twtelecom,4323,"Brookfield, WI",Brookfield_WI_US,Brookfield WI US
+net_twtelecom,4323,"Charlotte, NC",Charlotte_NC_US,Charlotte NC US
+net_twtelecom,4323,"Chicago, IL",Chicago_IL_US,Chicago IL US
+net_twtelecom,4323,"Cincinnati, OH",Cincinnati_OH_US,Cincinnati OH US
+net_twtelecom,4323,"Colorado Springs, CO",Colorado_Springs_CO_US,Colorado Springs CO US
+net_twtelecom,4323,"Columbia, GA",Columbia_GA_US,Columbia GA US
+net_twtelecom,4323,"Columbia, SC",Columbia_SC_US,Columbia SC US US
+net_twtelecom,4323,"Columbus, OH",Columbus_OH_US,Columbus OH US
+net_twtelecom,4323,"Dallas, TX",Dallas_TX_US,Dallas TX US
+net_twtelecom,4323,"Dayton, OH",Dayton_OH_US,Dayton OH US
+net_twtelecom,4323,"Denver, CO",Denver_CO_US,Denver CO US
+net_twtelecom,4323,"El Paso, TX",El_Paso_TX_US,El Paso TX US
+net_twtelecom,4323,"Fort Lauderdale, FL",Fort_Lauderdale_FL_US,Fort Lauderdale FL US
+net_twtelecom,4323,"Fort Worth, TX",Fort_Worth_TX_US,Fort Worth TX US
+net_twtelecom,4323,"Fresno, CA",Fresno_CA_US,Fresno CA US
+net_twtelecom,4323,"Greensboro, NC",Greensboro_NC_US,Greensboro NC US
+net_twtelecom,4323,"Greenville, SC",Greenville_SC_US,Greenville SC US
+net_twtelecom,4323,"Honolulu, HI",Honolulu_HI_US,Honolulu HI US
+net_twtelecom,4323,"Houston, TX",Houston_TX_US,Houston TX US
+net_twtelecom,4323,"Indianapolis, IN",Indianapolis_IN_US,Indianapolis IN US
+net_twtelecom,4323,"Irvine, CA",Irvine_CA_US,Irvine CA US
+net_twtelecom,4323,"Jacksonville, FL",Jacksonville_FL_US,Jacksonville FL US
+net_twtelecom,4323,"Kansas City, KS",Kansas_City_KS_US,Kansas City KS US
+net_twtelecom,4323,"Lake Charles, LO",Lake_Charles_LO_US,Lake Charles LO US
+net_twtelecom,4323,"Las Vegas, NV",Las_Vegas_NV_US,Las Vegas NV US
+net_twtelecom,4323,"Lexington, KY",Lexington_KY_US,Lexington KY US
+net_twtelecom,4323,"Little Rock, AR",Little_Rock_AR_US,Little Rock AR US
+net_twtelecom,4323,"Los Angeles, CA",Los_Angeles_CA_US,Los Angeles CA US
+net_twtelecom,4323,"Louisville, KY",Louisville_KY_US,Louisville KY US
+net_twtelecom,4323,"Memphis, TN",Memphis_TN_US,Memphis TN US
+net_twtelecom,4323,"Milwaukee, WI",Milwaukee_WI_US,Milwaukee WI US
+net_twtelecom,4323,"Minneapolis, MN",Minneapolis_MN_US,Minneapolis MN US
+net_twtelecom,4323,"Minnetonka, MN",Minnetonka_MN_US,Minnetonka MN US
+net_twtelecom,4323,"Mobile, AL",Mobile_AL_US,Mobile AL US
+net_twtelecom,4323,"Montgomery, AL",Montgomery_AL_US,Montgomery AL US
+net_twtelecom,4323,"Nashville, TN",Nashville_TN_US,Nashville TN US
+net_twtelecom,4323,"New Orleans, LA",New_Orleans_LA_US,New Orleans LA US
+net_twtelecom,4323,"New York City, NY",New_York_City_NY_US,New York City NY US
+net_twtelecom,4323,"Oakland, CA",Oakland_CA_US,Oakland CA US
+net_twtelecom,4323,"Ontario, CA",Ontario_CA_US,Ontario CA US
+net_twtelecom,4323,"Orlando, FL",Orlando_FL_US,Orlando FL US
+net_twtelecom,4323,"Phoenix, AZ",Phoenix_AZ_US,Phoenix AZ US
+net_twtelecom,4323,"Portland, OR",Portland_OR_US,Portland OR US
+net_twtelecom,4323,"Raleigh, NC",Raleigh_NC_US,Raleigh NC US
+net_twtelecom,4323,"Rochester, NY",Rochester_NY_US,Rochester NY US
+net_twtelecom,4323,"San Antonio, TX",San_Antonio_TX_US,San Antonio TX US
+net_twtelecom,4323,"San Diego, CA",San_Diego_CA_US,San Diego CA US
+net_twtelecom,4323,"San Francisco, CA",San_Francisco_CA_US,San Francisco CA US
+net_twtelecom,4323,"San Luis Obispo, CA",San_Luis_Obispo_CA_US,San Luis Obispo CA US
+net_twtelecom,4323,"Santa Barbara, CA",Santa_Barbara_CA_US,Santa Barbara CA US
+net_twtelecom,4323,"Seattle, WA",Seattle_WA_US,Seattle WA US
+net_twtelecom,4323,"Spokane, WA",Spokane_WA_US,Spokane WA US
+net_twtelecom,4323,"Tampa, FL",Tampa_FL_US,Tampa FL US
+net_twtelecom,4323,"Tucson, AZ",Tucson_AZ_US,Tucson AZ US
+net_twtelecom,4323,"Tulsa, OK",Tulsa_OK_US,Tulsa OK US
+net_uar,3255,core320,Solonka_UKR,Solonka UKR
+net_uar,3255,core321,Lviv_UKR,Lviv UKR
+net_velia,29066,helios,Frankfurt_DE,Frankfurt DE
+net_vpls,35908,bkk,Thailand,Thailand
+net_vpls,35908,iad,Ashburn_VA_US,Ashburn VA US
+net_vpls,35908,lax,Los_Angeles_CA_US,Los Angeles CA US
+net_vpls,35908,sin,Singapore_SG,Singapore SG
+net_vpls,35908,sjc,San_Jose_CA_US,San Jose CA US
+no_uninett,224,bergen-gw2.uninett.no,Trondheim_NO,Trondheim NO
+no_uninett,224,hovedbygget-gw.uninett.no,Trondheim_NO,Trondheim NO
+no_uninett,224,hoytek-gw2.uninett.no,Trondheim_NO,Trondheim NO
+no_uninett,224,ma2-gw.uninett.no,Trondheim_NO,Trondheim NO
+no_uninett,224,oslo-gw1.uninett.no,Stockholm_SE,Stockholm SE
+no_uninett,224,trd-gw.uninett.no,Trondheim_NO,Trondheim NO
+no_uninett,224,tromso-gw2.uninett.no,Trondheim_NO,Trondheim NO
+org_fifi,46375,none,none,Mountain View CA US
+pl_tpnet,5617,lodz_lg,Chojnice_PL,Chojnice PL
+pt_fccn,1930,BACKBONE_ROUTER,Lisbon_PT,Lisbon PT
+ro_euroweb,6663,Bucuresti (AS6663) - BGP International View,Bucharest_2,"Bucharest, Romania"
+ro_euroweb,6663,Bucuresti (AS6663) - BGP National View,Bucharest_1,"Bucharest, Romania"
+ro_zyx,8708,none,Drobeta_Turnu_Severin_RO,Drobeta-Turnu Severin RO
+ru_comcor,8732,Comcor (AS 8732),Moscow_RU,Moscow RU
+ru_df,8515,DF-M10,Moscow_RU_2,Moscow RU
+ru_df,8515,DF-M9,Moscow_RU_1,Moscow RU
+ru_gin,2854,Moscow-GIN-PE01,Moscow_RU_4,Moscow RU
+ru_gin,2854,Moscow09,Moscow_RU_1,Moscow RU
+ru_gin,2854,Moscow51,Moscow_RU_3,Moscow RU
+ru_gin,2854,Petersburg-GIN-PE01,Moscow_RU_2,Moscow RU
+ru_mipt,5467,mipt-edge,Moscow_RU,Moscow RU
+ru_mtu,8359,3lin-cr01.omsk:juniper,Moscow_RU_30,Moscow RU
+ru_mtu,8359,a197-cr01.msk:cisco,Moscow_RU_18,Moscow RU
+ru_mtu,8359,a197-cr03.msk:juniper,Moscow_RU_19,Moscow RU
+ru_mtu,8359,a481-cr01.msk:juniper,Moscow_RU_20,Moscow RU
+ru_mtu,8359,akd-cr01.irk:juniper,Moscow_RU_7,Moscow RU
+ru_mtu,8359,anc-cr03.ff:juniper,Moscow_RU_6,Moscow RU
+ru_mtu,8359,bgs-cr01.bra:juniper,Moscow_RU_1,Moscow RU
+ru_mtu,8359,bhm-cr01.bel:juniper,Ryazan_RU_1,Ryazan RU
+ru_mtu,8359,bor-cr01.vldv:juniper,Moscow_RU_44,Moscow RU
+ru_mtu,8359,bor-cr02.spb:juniper,Saint_Petersburg_RU_2,Saint Petersburg RU
+ru_mtu,8359,bro-cr02.stk:cisco,Sterling_CO_US,Sterling CO US
+ru_mtu,8359,chka-cr01.yshk:cisco,Moscow_RU_48,Moscow RU
+ru_mtu,8359,cur-cr02.ufa:juniper,Ufa_RU_2,Ufa RU
+ru_mtu,8359,dze-cr01.izh:juniper,Kazan_RU,Kazan RU
+ru_mtu,8359,ene-cr01.udm:juniper,Moscow_RU_40,Moscow RU
+ru_mtu,8359,eng-cr01.ivn:juniper,Moscow_RU_8,Moscow RU
+ru_mtu,8359,gze-cr01.vnov:juniper,Moscow_RU_45,Moscow RU
+ru_mtu,8359,kar-cr01.kir:juniper,Moscow_RU_12,Moscow RU
+ru_mtu,8359,karl-cr01.cu:juniper,Moscow_RU_4,Moscow RU
+ru_mtu,8359,kir-cr01.vla:juniper,Moscow_RU_43,Moscow RU
+ru_mtu,8359,kivi-cr01.hel:juniper,Saint_Petersburg_RU_1,Saint Petersburg RU
+ru_mtu,8359,kln-cr01.brn:juniper,Moscow_RU_2,Moscow RU
+ru_mtu,8359,kob-cr01.oren:juniper,Moscow_RU_31,Moscow RU
+ru_mtu,8359,kra-cr01.orsk:juniper,Moscow_RU_32,Moscow RU
+ru_mtu,8359,kzp-cr01.kem:juniper,Novosibirsk_RU_1,Novosibirsk RU
+ru_mtu,8359,laz-cr01.chi:juniper,Moscow_RU_3,Moscow RU
+ru_mtu,8359,ler-cr01.rnd:juniper,Moscow_RU_35,Moscow RU
+ru_mtu,8359,m100-cr01.msk:cisco,Moscow_RU_21,Moscow RU
+ru_mtu,8359,m9-cr02.msk:cisco,Moscow_RU_22,Moscow RU
+ru_mtu,8359,m9-cr03.msk:juniper,Moscow_RU_23,Moscow RU
+ru_mtu,8359,mag-cr01.surgut:juniper,Yekaterinburg_RU_1,Yekaterinburg RU
+ru_mtu,8359,mel-cr01.tum:juniper,Yekaterinburg_RU_2,Yekaterinburg RU
+ru_mtu,8359,mil-cr01.lnd:cisco,Moscow_RU_17,Moscow RU
+ru_mtu,8359,morsk-cr01.knd:juniper,Krasnodar_RU_1,Krasnodar RU
+ru_mtu,8359,mos-cr01.srt:juniper,Samara_RU,Samara RU
+ru_mtu,8359,msp-cr02.nchn:juniper,Moscow_RU_27,Moscow RU
+ru_mtu,8359,nev-cr01.pzk:cisco,Moscow_RU_34,Moscow RU
+ru_mtu,8359,ngres-cr01.ner:juniper,Moscow_RU_26,Moscow RU
+ru_mtu,8359,oct-cr01.spb:cisco,Saint_Petersburg_RU_3,Saint Petersburg RU
+ru_mtu,8359,ord-cr01.vor:juniper,Ryazan_RU_2,Ryazan RU
+ru_mtu,8359,pgag-cr02.nnov:juniper,Moscow_RU_28,Moscow RU
+ru_mtu,8359,ple-cr01.klg:juniper,Moscow_RU_13,Moscow RU
+ru_mtu,8359,pob-cr01.kaz:juniper,Moscow_RU_9,Moscow RU
+ru_mtu,8359,prom-cr01.sbk:juniper,Bratislava_SK,Bratislava SK
+ru_mtu,8359,psblz-cr01.vol:juniper,Moscow_RU_46,Moscow RU
+ru_mtu,8359,pskir-cr01.sam:juniper,Moscow_RU_37,Moscow RU
+ru_mtu,8359,pskom-cr01.kna:juniper,Moscow_RU_11,Moscow RU
+ru_mtu,8359,pskom-cr01.kna:juniper,Moscow_RU_14,Moscow RU
+ru_mtu,8359,pskras-cr01.krsk:juniper,Novosibirsk_RU_3,Novosibirsk RU
+ru_mtu,8359,pslip-cr01.lip:juniper,Moscow_RU_16,Moscow RU
+ru_mtu,8359,psnmich-cr01.rzn:juniper,Moscow_RU_36,Moscow RU
+ru_mtu,8359,pspenz-cr01.pen:juniper,Moscow_RU_33,Moscow RU
+ru_mtu,8359,psshag-cr01.chel:juniper,Ufa_RU_1,Ufa RU
+ru_mtu,8359,pstamb-cr01.tam:juniper,Moscow_RU_38,Moscow RU
+ru_mtu,8359,pstyn-cr01.tnd:juniper,Moscow_RU_39,Moscow RU
+ru_mtu,8359,psulnsk-cr01.uln:juniper,Moscow_RU_42,Moscow RU
+ru_mtu,8359,psvost-cr01.nsk:juniper,Moscow_RU_29,Moscow RU
+ru_mtu,8359,push-cr01.khb:juniper,Moscow_RU_10,Moscow RU
+ru_mtu,8359,rash-cr01.knd:juniper,Rostov_na_donu_RU_1,Rostov na donu RU
+ru_mtu,8359,sak-cr01.nvrs:juniper,Krasnodar_RU_2,Krasnodar RU
+ru_mtu,8359,sd-cr01.nyc:cisco,New_York_NY_US_2,New York NY US
+ru_mtu,8359,sem275-cr01.krsk:juniper,Moscow_RU_15,Moscow RU
+ru_mtu,8359,sev-cr01.sochi:juniper,Krasnodar_RU_3,Krasnodar RU
+ru_mtu,8359,sha46-cr01.kem:juniper,Novosibirsk_RU_2,Novosibirsk RU
+ru_mtu,8359,shep-cr01.msk:cisco,Moscow_RU_24,Moscow RU
+ru_mtu,8359,smo-cr01.ulan:juniper,Moscow_RU_41,Moscow RU
+ru_mtu,8359,ss-cr01.msk:cisco,Moscow_RU_25,Moscow RU
+ru_mtu,8359,tai-cr01.vlg:juniper,Rostov_na_donu_RU_2,Rostove na donu RU
+ru_mtu,8359,tct-cr01.ams:cisco,Amsterdam_NL_1,Amsterdam NL
+ru_mtu,8359,tct-cr02.ams:juniper,Amsterdam_NL_2,Amsterdam NL
+ru_mtu,8359,tut-cr01.yar:juniper,Moscow_RU_47,Moscow RU
+ru_mtu,8359,wil-cr01.la:cisco,New_York_NY_US_1,New York NY US
+ru_mtu,8359,yag-cr01.ekt:juniper,Moscow_RU_5,Moscow RU
+ru_rusnet,3277,none,Saint_Petersburg_RU,Saint Petersburg RU
+ru_start,8744,"Saint Petersburg, Russia",Saint_Petersburg_RU,Saint Petersburg RU
+se_sunet,1653,m1fre.sunet.se,Stockholm_SE_1,Stockholm SE
+se_sunet,1653,m1gbg.sunet.se,Alvesta_SE_9,Alvesta SE
+se_sunet,1653,m1tug.sunet.se,Stockholm_SE_2,Stockholm SE
+se_sunet,1653,x3tug.sunet.se,Alvesta_SE_1,Alvesta SE
+se_sunet,1653,z1klx.sunet.se,Alvesta_SE_4,Alvesta SE
+se_sunet,1653,z1mma.sunet.se,Alvesta_SE_7,Alvesta SE
+se_sunet,1653,z1sde.sunet.se,Alvesta_SE_8,Alvesta SE
+se_sunet,1653,z1vby.sunet.se,Alvesta_SE_5,Alvesta SE
+se_sunet,1653,z2vby.sunet.se,Alvesta_SE_6,Alvesta SE
+se_sunet,1653,z3lla.sunet.se,Stockholm_SE_3,Stockholm SE
+se_sunet,1653,z5krn.sunet.se,Alvesta_SE_2,Alvesta SE
+se_sunet,1653,z6krn.sunet.se,Alvesta_SE_3,Alvesta SE
+site_id,asn,loc_var,file_suffix,location
+sk_six,2607,none,Bratislava_SVK,Bratislava SVK
+net_psychz,40676,lax,Los_Angeles_CA_US,Los Angeles CA US
